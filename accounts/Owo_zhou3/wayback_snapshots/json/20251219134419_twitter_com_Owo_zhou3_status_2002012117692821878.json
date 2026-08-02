@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2002011281914785920",
+    "created_at": "2025-12-19T13:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T14:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002012117692821878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1566001172636348418",
+          "start": 0,
+          "username": "yinkai66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002012117692821878",
+    "in_reply_to_user_id": "1566001172636348418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002011626459861183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinkai66 特别爱我的会评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2002011281914785920",
+        "created_at": "2025-12-19T13:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002012117692821878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1566001172636348418",
+              "start": 0,
+              "username": "yinkai66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002012117692821878",
+        "in_reply_to_user_id": "1566001172636348418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002011626459861183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinkai66 特别爱我的会评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566001172636348418",
+        "conversation_id": "2002011281914785920",
+        "created_at": "2025-12-19T13:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002011626459861183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002011626459861183",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002011281914785920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 幼稚😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3078,
+          "following_count": 113,
+          "like_count": 730,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T09:52:38.000Z",
+        "description": "你也休息休息吧。要喝的吗？枕头呢？小说呢？别和我客气…真不用？你还挺潇洒的嘛…",
+        "id": "1566001172636348418",
+        "name": "茜特菈莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904702876481646592/820W2w8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 526,
+          "like_count": 19018,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 519
+        },
+        "username": "yinkai66",
+        "verified": false
+      }
+    ]
+  }
+}

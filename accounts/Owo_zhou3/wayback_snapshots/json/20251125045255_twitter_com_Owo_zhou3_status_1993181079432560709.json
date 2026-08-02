@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993153388037718404",
+    "created_at": "2025-11-25T04:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T05:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993181079432560709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881607235979370496",
+          "start": 0,
+          "username": "tomastiny9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993181079432560709",
+    "in_reply_to_user_id": "1881607235979370496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993180821604515995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomastiny9 现在好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993153388037718404",
+        "created_at": "2025-11-25T04:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993181079432560709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881607235979370496",
+              "start": 0,
+              "username": "tomastiny9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993181079432560709",
+        "in_reply_to_user_id": "1881607235979370496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993180821604515995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomastiny9 现在好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881607235979370496",
+        "conversation_id": "1993153388037718404",
+        "created_at": "2025-11-25T04:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993180821604515995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993180821604515995",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993177179572883859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 又不能给你私信了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 76,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T07:38:25.000Z",
+        "description": "互fo",
+        "id": "1881607235979370496",
+        "name": "Tiny Tomas",
+        "pinned_tweet_id": "1971277560693784753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881607268011212800/Xihg2B0q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 391,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 134
+        },
+        "username": "tomastiny9",
+        "verified": false
+      }
+    ]
+  }
+}

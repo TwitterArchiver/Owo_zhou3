@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1987204963911762005",
+    "created_at": "2025-11-08T17:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987208546384290173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755241400449544192",
+          "start": 0,
+          "username": "maybeAuguste"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987208546384290173",
+    "in_reply_to_user_id": "1755241400449544192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987205239171391981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybeAuguste 我不得劲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1987204963911762005",
+        "created_at": "2025-11-08T17:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987208546384290173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755241400449544192",
+              "start": 0,
+              "username": "maybeAuguste"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987208546384290173",
+        "in_reply_to_user_id": "1755241400449544192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987205239171391981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybeAuguste 我不得劲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755241400449544192",
+        "conversation_id": "1987204963911762005",
+        "created_at": "2025-11-08T17:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987205239171391981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987205239171391981",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987204963911762005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 好奇你怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 52,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T14:45:45.000Z",
+        "description": "",
+        "id": "1755241400449544192",
+        "name": "Auguste",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963661007215357952/9rC-3a6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 62,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 60
+        },
+        "username": "maybeAuguste",
+        "verified": false
+      }
+    ]
+  }
+}

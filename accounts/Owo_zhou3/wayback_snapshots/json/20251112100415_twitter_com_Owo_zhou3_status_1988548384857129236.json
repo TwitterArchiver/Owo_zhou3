@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988330894311256433",
+    "created_at": "2025-11-12T10:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988548384857129236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808552527119437824",
+          "start": 0,
+          "username": "11dontcryTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988548384857129236",
+    "in_reply_to_user_id": "1808552527119437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988330894311256433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11dontcryTT 好像我男神回我的样子 对面那个是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_1988330867169820672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5f4Y5maAAAZ1Vy.jpg",
+        "width": 1014
+      },
+      {
+        "height": 2002,
+        "media_key": "3_1988330867182497800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5f4Y5pbcAgLA9H.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988330894311256433",
+        "created_at": "2025-11-12T10:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988548384857129236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808552527119437824",
+              "start": 0,
+              "username": "11dontcryTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988548384857129236",
+        "in_reply_to_user_id": "1808552527119437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988330894311256433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11dontcryTT 好像我男神回我的样子 对面那个是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988330867169820672",
+            "3_1988330867182497800"
+          ]
+        },
+        "author_id": "1808552527119437824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988330894311256433",
+        "created_at": "2025-11-11T19:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T20:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988330894311256433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnxT2RkY1q",
+              "end": 37,
+              "expanded_url": "https://x.com/11dontcryTT/status/1988330894311256433/photo/1",
+              "media_key": "3_1988330867169820672",
+              "start": 14,
+              "url": "https://t.co/qnxT2RkY1q"
+            },
+            {
+              "display_url": "pic.x.com/qnxT2RkY1q",
+              "end": 37,
+              "expanded_url": "https://x.com/11dontcryTT/status/1988330894311256433/photo/1",
+              "media_key": "3_1988330867182497800",
+              "start": 14,
+              "url": "https://t.co/qnxT2RkY1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988330894311256433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1172,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我回没兴趣的男人消息就这样 https://t.co/qnxT2RkY1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 57,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T17:25:07.000Z",
+        "description": "三分天注定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pleasdontcry11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pleasdontcry11",
+                "start": 0,
+                "url": "https://t.co/OfXvywWWaj"
+              }
+            ]
+          }
+        },
+        "id": "1808552527119437824",
+        "name": "悲伤猫猫头",
+        "pinned_tweet_id": "1955591485266735269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987946109252321280/pWuWY_04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5639,
+          "following_count": 86,
+          "like_count": 3318,
+          "listed_count": 15,
+          "media_count": 711,
+          "tweet_count": 6966
+        },
+        "url": "https://t.co/OfXvywWWaj",
+        "username": "11dontcryTT",
+        "verified": false
+      }
+    ]
+  }
+}

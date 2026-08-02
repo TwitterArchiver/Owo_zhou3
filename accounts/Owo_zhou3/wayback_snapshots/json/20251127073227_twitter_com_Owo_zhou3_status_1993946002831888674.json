@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1993688630750052352"
+      ],
+      "media_source_tweet_id": [
+        "1993688689138962526"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1993946002831888674",
+    "created_at": "2025-11-27T07:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993946002831888674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "771701974517555201",
+          "start": 3,
+          "username": "littlerero1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tj7m7OP02",
+          "end": 43,
+          "expanded_url": "https://x.com/littlerero1/status/1993688689138962526/video/1",
+          "media_key": "13_1993688630750052352",
+          "start": 20,
+          "url": "https://t.co/4tj7m7OP02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993946002831888674",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 605
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993688689138962526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @littlerero1: me https://t.co/4tj7m7OP02"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5700,
+        "height": 720,
+        "media_key": "13_1993688630750052352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993688630750052352/img/21bqrTXeTp8qMRsb.jpg",
+        "public_metrics": {
+          "view_count": 6900
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993688630750052352/vid/avc1/360x270/FKyIAxdW-OYTtCq9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993688630750052352/vid/avc1/480x360/EA9pPo_Z_d9OTrkC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993688630750052352/vid/avc1/960x720/ziVH6zr3jmDAvsJ9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993688630750052352/pl/weIRlETe3emuMOdx.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993688630750052352"
+          ],
+          "media_source_tweet_id": [
+            "1993688689138962526"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993946002831888674",
+        "created_at": "2025-11-27T07:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993946002831888674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "771701974517555201",
+              "start": 3,
+              "username": "littlerero1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tj7m7OP02",
+              "end": 43,
+              "expanded_url": "https://x.com/littlerero1/status/1993688689138962526/video/1",
+              "media_key": "13_1993688630750052352",
+              "start": 20,
+              "url": "https://t.co/4tj7m7OP02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993946002831888674",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 605
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993688689138962526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @littlerero1: me https://t.co/4tj7m7OP02"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993688630750052352"
+          ]
+        },
+        "author_id": "771701974517555201",
+        "conversation_id": "1993688689138962526",
+        "created_at": "2025-11-26T14:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993688689138962526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tj7m7OP02",
+              "end": 26,
+              "expanded_url": "https://x.com/littlerero1/status/1993688689138962526/video/1",
+              "media_key": "13_1993688630750052352",
+              "start": 3,
+              "url": "https://t.co/4tj7m7OP02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993688689138962526",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 26495,
+          "like_count": 2067,
+          "quote_count": 14,
+          "reply_count": 1,
+          "retweet_count": 605
+        },
+        "reply_settings": "everyone",
+        "text": "me https://t.co/4tj7m7OP02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜欢迎互关🎄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 78,
+          "like_count": 453,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-02T13:31:03.000Z",
+        "description": "ʚ·̩͙ 𝑔𝑎𝑚𝑒𝑟 ✧ 𝑝𝑖𝑎𝑛𝑖𝑠𝑡 ✧ 𝑙𝑢𝑣 𝑚𝑦 𝑠𝑒𝑡𝑢𝑝 ‧₊˚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rerodoll1?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/rerodoll1?igsh=MzRkZHEwYmRoNTBs&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/1ATAs2wuZn"
+              }
+            ]
+          }
+        },
+        "id": "771701974517555201",
+        "location": "　꒰১ ໒꒱　",
+        "name": "Rero",
+        "pinned_tweet_id": "1990078522841256175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954771147007934464/u_EgISAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5546,
+          "following_count": 324,
+          "like_count": 30143,
+          "listed_count": 13,
+          "media_count": 1454,
+          "tweet_count": 15240
+        },
+        "url": "https://t.co/1ATAs2wuZn",
+        "username": "littlerero1",
+        "verified": true
+      }
+    ]
+  }
+}

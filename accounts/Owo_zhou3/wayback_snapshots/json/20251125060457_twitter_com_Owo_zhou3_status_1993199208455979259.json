@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992901062181691530",
+    "created_at": "2025-11-25T06:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993199208455979259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1899859790261870594",
+          "start": 0,
+          "username": "AirjetGin"
+        },
+        {
+          "end": 23,
+          "id": "1576944312327151617",
+          "start": 11,
+          "username": "Sonnet12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993199208455979259",
+    "in_reply_to_user_id": "1899859790261870594",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993198245963878854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirjetGin @Sonnet12138 。🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992901062181691530",
+        "created_at": "2025-11-25T06:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993199208455979259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899859790261870594",
+              "start": 0,
+              "username": "AirjetGin"
+            },
+            {
+              "end": 23,
+              "id": "1576944312327151617",
+              "start": 11,
+              "username": "Sonnet12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993199208455979259",
+        "in_reply_to_user_id": "1899859790261870594",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993198245963878854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirjetGin @Sonnet12138 。🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899859790261870594",
+        "conversation_id": "1992901062181691530",
+        "created_at": "2025-11-25T06:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993198245963878854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 23,
+              "id": "1576944312327151617",
+              "start": 11,
+              "username": "Sonnet12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993198245963878854",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993160780368560560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @Sonnet12138 怎么哪都能碰到你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 77,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T16:27:43.000Z",
+        "description": "生活不爽的可以过来找我我骂两句让你醒醒",
+        "id": "1899859790261870594",
+        "location": "身边",
+        "name": "傑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990265391973904385/AfHY5rAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "username": "AirjetGin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T14:36:45.000Z",
+        "description": "高p，推广自辨",
+        "id": "1576944312327151617",
+        "name": "不知名美羊羊",
+        "pinned_tweet_id": "1988168540365660269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606885802138828800/GQN_TZDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45648,
+          "following_count": 193,
+          "like_count": 600,
+          "listed_count": 135,
+          "media_count": 78,
+          "tweet_count": 591
+        },
+        "username": "Sonnet12138",
+        "verified": false
+      }
+    ]
+  }
+}

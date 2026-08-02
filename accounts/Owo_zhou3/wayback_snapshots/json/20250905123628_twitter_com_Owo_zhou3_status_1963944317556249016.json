@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963944317556249016",
+    "created_at": "2025-09-05T12:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963944317556249016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wo2luosifen/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/wo2luosifen/status/1963538922400878968",
+          "start": 8,
+          "url": "https://t.co/IjYOMvx7qL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963944317556249016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963538922400878968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再加一条给我钱 https://t.co/IjYOMvx7qL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963944317556249016",
+        "created_at": "2025-09-05T12:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963944317556249016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wo2luosifen/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/wo2luosifen/status/1963538922400878968",
+              "start": 8,
+              "url": "https://t.co/IjYOMvx7qL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963944317556249016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963538922400878968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再加一条给我钱 https://t.co/IjYOMvx7qL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "1963538922400878968",
+        "created_at": "2025-09-04T09:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963538922400878968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963538922400878968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4631,
+          "like_count": 71,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "寻找一位喜欢给我发色情信息且有分离焦虑且心甘情愿被我虐待且接受我有公主病的老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963931431652249966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 112
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "话特别特别特别多。介意的可以双取或者屏蔽。不认识的人补药来私信我。想跟我说话给我发钱谢谢。不做免费陪聊。没🚪。非要过🚪888纯绿好友位",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iuuio16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iuuio16",
+                "start": 0,
+                "url": "https://t.co/oqtlQVhTsI"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "做饭总被烫",
+        "pinned_tweet_id": "1960329154626519322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963483712278171648/e-95DtmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 164,
+          "like_count": 8080,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 3203
+        },
+        "url": "https://t.co/oqtlQVhTsI",
+        "username": "Wo2luosifen",
+        "verified": false
+      }
+    ]
+  }
+}

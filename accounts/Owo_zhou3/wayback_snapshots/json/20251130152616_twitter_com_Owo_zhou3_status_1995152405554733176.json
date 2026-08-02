@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995152391558328320"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1995152405554733176",
+    "created_at": "2025-11-30T15:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T16:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995152405554733176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LGPknYtz4K",
+          "end": 23,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1995152405554733176/photo/1",
+          "media_key": "3_1995152391558328320",
+          "start": 0,
+          "url": "https://t.co/LGPknYtz4K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995152405554733176",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1442,
+      "like_count": 6,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/LGPknYtz4K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1995152391558328320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7A0h4Oa8AAmUWz.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995152391558328320"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1995152405554733176",
+        "created_at": "2025-11-30T15:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995152405554733176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGPknYtz4K",
+              "end": 23,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1995152405554733176/photo/1",
+              "media_key": "3_1995152391558328320",
+              "start": 0,
+              "url": "https://t.co/LGPknYtz4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995152405554733176",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1442,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LGPknYtz4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 78,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

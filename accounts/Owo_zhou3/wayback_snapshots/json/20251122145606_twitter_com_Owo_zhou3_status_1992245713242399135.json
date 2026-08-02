@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992077287915921765",
+    "created_at": "2025-11-22T14:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992245713242399135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1887773234265006080",
+          "start": 0,
+          "username": "XuanJiangMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992245713242399135",
+    "in_reply_to_user_id": "1887773234265006080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992195873963659484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanJiangMeow 我真对这种人没招了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_1992195862857150464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WzlQiacAASOHj.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T14:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992245713242399135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1887773234265006080",
+              "start": 0,
+              "username": "XuanJiangMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992245713242399135",
+        "in_reply_to_user_id": "1887773234265006080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992195873963659484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanJiangMeow 我真对这种人没招了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992195862857150464"
+          ]
+        },
+        "author_id": "1887773234265006080",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T11:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992195873963659484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxhoKJFD7k",
+              "end": 42,
+              "expanded_url": "https://x.com/XuanJiangMeow/status/1992195873963659484/photo/1",
+              "media_key": "3_1992195862857150464",
+              "start": 19,
+              "url": "https://t.co/cxhoKJFD7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992195873963659484",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1211,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992077287915921765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 诡秘…我没招了 https://t.co/cxhoKJFD7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（我就是那种贪财好色的小女孩）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 75,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T08:00:01.000Z",
+        "description": "纸性恋",
+        "id": "1887773234265006080",
+        "name": "xuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991389444948258816/jOdFhCnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "XuanJiangMeow",
+        "verified": false
+      }
+    ]
+  }
+}

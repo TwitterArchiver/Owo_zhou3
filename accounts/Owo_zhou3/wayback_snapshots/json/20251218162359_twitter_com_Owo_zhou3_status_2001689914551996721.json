@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2001677806720430497",
+    "created_at": "2025-12-18T16:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T17:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001689914551996721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991137138717650944",
+          "start": 0,
+          "username": "Ashares10000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001689914551996721",
+    "in_reply_to_user_id": "1991137138717650944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001686846330601752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ashares10000 那你能不能先过我门槛让我有口饭吃!？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2001677806720430497",
+        "created_at": "2025-12-18T16:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001689914551996721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991137138717650944",
+              "start": 0,
+              "username": "Ashares10000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001689914551996721",
+        "in_reply_to_user_id": "1991137138717650944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001686846330601752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ashares10000 那你能不能先过我门槛让我有口饭吃!？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991137138717650944",
+        "conversation_id": "2001677806720430497",
+        "created_at": "2025-12-18T16:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001686846330601752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001686846330601752",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001677806720430497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我养你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3112,
+          "following_count": 112,
+          "like_count": 718,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T13:31:30.000Z",
+        "description": "",
+        "id": "1991137138717650944",
+        "name": "Ashares10000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001344750159634433/d20Gn7RY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 121,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "Ashares10000",
+        "verified": false
+      }
+    ]
+  }
+}

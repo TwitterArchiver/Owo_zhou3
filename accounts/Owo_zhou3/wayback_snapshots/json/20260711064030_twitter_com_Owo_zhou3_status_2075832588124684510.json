@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2075578905100947780",
+    "created_at": "2026-07-11T06:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075832588124684510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1836309174566752256",
+          "start": 0,
+          "username": "jqbzld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075832588124684510",
+    "in_reply_to_user_id": "1836309174566752256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075627407671980527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jqbzld 已严肃下单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2075578905100947780",
+        "created_at": "2026-07-11T06:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075832588124684510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1836309174566752256",
+              "start": 0,
+              "username": "jqbzld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075832588124684510",
+        "in_reply_to_user_id": "1836309174566752256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075627407671980527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jqbzld 已严肃下单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836309174566752256",
+        "conversation_id": "2075578905100947780",
+        "created_at": "2026-07-10T17:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075627407671980527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075627407671980527",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075578905100947780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 这是小梨别的粉丝应援衣吗？已严肃下单！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5130,
+          "following_count": 111,
+          "like_count": 1019,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T07:40:08.000Z",
+        "description": "鹅鸭杀官方",
+        "id": "1836309174566752256",
+        "location": "東京 千代田区",
+        "name": "鹅鸭杀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035336501811363840/8aStW1oo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "jqbzld",
+        "verified": false
+      }
+    ]
+  }
+}

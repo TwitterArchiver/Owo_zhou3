@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1996167657264193849",
+    "created_at": "2025-12-03T10:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996167657264193849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "If you have Telegram, you can contact @Owozhou3 right",
+          "display_url": "t.me/Owozhou3",
+          "end": 43,
+          "expanded_url": "http://t.me/Owozhou3",
+          "start": 20,
+          "status": 200,
+          "title": "Telegram: Contact @Owozhou3",
+          "unwound_url": "https://t.me/Owozhou3",
+          "url": "https://t.co/TZT9HUicrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996167657264193849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "免费领取福利，素质聊天交友喔\n唯一电报：https://t.co/TZT9HUicrX\n链接打不开的可电宝搜索：@Owozhou3\n复制我的电宝用户名到电报上打开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1996167657264193849",
+        "created_at": "2025-12-03T10:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996167657264193849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "If you have Telegram, you can contact @Owozhou3 right",
+              "display_url": "t.me/Owozhou3",
+              "end": 43,
+              "expanded_url": "http://t.me/Owozhou3",
+              "start": 20,
+              "status": 200,
+              "title": "Telegram: Contact @Owozhou3",
+              "unwound_url": "https://t.me/Owozhou3",
+              "url": "https://t.co/TZT9HUicrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996167657264193849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "免费领取福利，素质聊天交友喔\n唯一电报：https://t.co/TZT9HUicrX\n链接打不开的可电宝搜索：@Owozhou3\n复制我的电宝用户名到电报上打开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 78,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

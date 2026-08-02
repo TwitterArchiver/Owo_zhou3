@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2022844747774333357",
+    "created_at": "2026-02-15T15:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023052927779356705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507587547370770432",
+          "start": 0,
+          "username": "iPhone1988_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023052927779356705",
+    "in_reply_to_user_id": "1507587547370770432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022844747774333357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPhone1988_ 接。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022844737187909634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKWkivakAIno82.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022844737187909632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKWkivakAAzm-m.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2022844747774333357",
+        "created_at": "2026-02-15T15:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023052927779356705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507587547370770432",
+              "start": 0,
+              "username": "iPhone1988_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023052927779356705",
+        "in_reply_to_user_id": "1507587547370770432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022844747774333357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPhone1988_ 接。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022844737187909634",
+            "3_2022844737187909632"
+          ]
+        },
+        "author_id": "1507587547370770432",
+        "conversation_id": "2022844747774333357",
+        "created_at": "2026-02-15T01:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022844747774333357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SsyjXlEPL5",
+              "end": 51,
+              "expanded_url": "https://x.com/iPhone1988_/status/2022844747774333357/photo/1",
+              "media_key": "3_2022844737187909634",
+              "start": 28,
+              "url": "https://t.co/SsyjXlEPL5"
+            },
+            {
+              "display_url": "pic.x.com/SsyjXlEPL5",
+              "end": 51,
+              "expanded_url": "https://x.com/iPhone1988_/status/2022844747774333357/photo/1",
+              "media_key": "3_2022844737187909632",
+              "start": 28,
+              "url": "https://t.co/SsyjXlEPL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022844747774333357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13769,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来收到两个🚪好爽 谁接 这个月也是好起来了孩子们 https://t.co/SsyjXlEPL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4384,
+          "following_count": 99,
+          "like_count": 892,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 2683
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T05:17:48.000Z",
+        "description": "喜欢可爱事物爱搞点涩涩的普通胖女孩 现生刷到请当做没看到 阿里嘎多 小女孩互关请私 喜欢的话请投喂 有🚪 喜欢有礼貌的人 纯享版@rachelgill27209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "rachelgill27209"
+              }
+            ]
+          }
+        },
+        "id": "1507587547370770432",
+        "location": "上海",
+        "name": "盐焗蟑螂脆片（不入门别私信我",
+        "pinned_tweet_id": "2015916612407496888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011426507688996865/2sPPzwVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5691,
+          "following_count": 104,
+          "like_count": 930,
+          "listed_count": 13,
+          "media_count": 56,
+          "tweet_count": 474
+        },
+        "username": "iPhone1988_",
+        "verified": false
+      }
+    ]
+  }
+}

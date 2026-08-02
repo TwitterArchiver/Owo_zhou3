@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2007958168845111417",
+    "created_at": "2026-01-05T22:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T23:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008312153716228466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1983601830916718592",
+          "start": 0,
+          "username": "dusoehdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008312153716228466",
+    "in_reply_to_user_id": "1983601830916718592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008254977450606790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dusoehdb 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2007958168845111417",
+        "created_at": "2026-01-05T22:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T23:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008312153716228466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1983601830916718592",
+              "start": 0,
+              "username": "dusoehdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008312153716228466",
+        "in_reply_to_user_id": "1983601830916718592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008254977450606790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dusoehdb 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983601830916718592",
+        "conversation_id": "2007958168845111417",
+        "created_at": "2026-01-05T19:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T20:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008254977450606790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008254977450606790",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007958168845111417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 得不到的就是最好的这句话不是空穴来风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3832,
+          "following_count": 99,
+          "like_count": 821,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2306
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-29T18:28:44.000Z",
+        "description": "乖乖，上班累不累呀，乖乖今天又受委屈了吗？可恶的领导或者老师是不是又给我的乖乖压力啦，乖乖感到很难过吗？辛苦我的乖乖啦，乖乖快来私信我让我当你的树洞叭\n🚪199（➕微）",
+        "id": "1983601830916718592",
+        "location": "Hong Kong",
+        "name": "新之助（树洞大王）",
+        "pinned_tweet_id": "2006544684622176353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006550125217452032/gij_AIiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 21,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 209
+        },
+        "username": "dusoehdb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      }
+    ],
+    "conversation_id": "2015660278415753691",
+    "created_at": "2026-01-26T05:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T06:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015660278415753691"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015660278415753691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 247,
+            "start": 237,
+            "tag": "初中毕业证不翼而飞"
+          },
+          {
+            "end": 252,
+            "start": 248,
+            "tag": "fyp"
+          },
+          {
+            "end": 259,
+            "start": 253,
+            "tag": "神券膨胀者"
+          }
+        ]
+      },
+      "text": "06🇨🇳\n已飞0国|野鸡学校|恼蚕专业|imsb|没有优毕|中中混血|苏际生|期待大肠offer📧 | mean girl 💅🏻| sigma man | 🔥PDD资深买手🥇| 牛乳A2.1家庭🥛| mxbc品鉴师☕️\n四六级没考  雅思托福没考  恩格尔系数💯 诺贝尔文学奖觊觎者 Internet冲浪达人\n🐒小镇错题家|0年国奖|玛莎拉蒂后任车主\n🌄曾在华为、Apple等大厂设备上看世界风景\n✍️参与过编写国家机密文件\n🎈乡下土猪笼🐷\n📱OPPO A5（无SIM）💥\n#初中毕业证不翼而飞 #fyp #神券膨胀者"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "06🇨🇳\n已飞0国|野鸡学校|恼蚕专业|imsb|没有优毕|中中混血|苏际生|期待大肠offer📧 | mean girl 💅🏻| sigma man | 🔥PDD资深买手🥇| 牛乳A2.1家庭🥛| mxbc品鉴师☕️\n四六级没考  雅思托福没考  恩格尔系数💯 诺贝尔文学奖觊觎者 Internet冲浪达人\n🐒小镇错题家|0年国奖|玛莎拉蒂后任车主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "2015660278415753691",
+        "created_at": "2026-01-26T05:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015660278415753691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015660278415753691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 247,
+                "start": 237,
+                "tag": "初中毕业证不翼而飞"
+              },
+              {
+                "end": 252,
+                "start": 248,
+                "tag": "fyp"
+              },
+              {
+                "end": 259,
+                "start": 253,
+                "tag": "神券膨胀者"
+              }
+            ]
+          },
+          "text": "06🇨🇳\n已飞0国|野鸡学校|恼蚕专业|imsb|没有优毕|中中混血|苏际生|期待大肠offer📧 | mean girl 💅🏻| sigma man | 🔥PDD资深买手🥇| 牛乳A2.1家庭🥛| mxbc品鉴师☕️\n四六级没考  雅思托福没考  恩格尔系数💯 诺贝尔文学奖觊觎者 Internet冲浪达人\n🐒小镇错题家|0年国奖|玛莎拉蒂后任车主\n🌄曾在华为、Apple等大厂设备上看世界风景\n✍️参与过编写国家机密文件\n🎈乡下土猪笼🐷\n📱OPPO A5（无SIM）💥\n#初中毕业证不翼而飞 #fyp #神券膨胀者"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "06🇨🇳\n已飞0国|野鸡学校|恼蚕专业|imsb|没有优毕|中中混血|苏际生|期待大肠offer📧 | mean girl 💅🏻| sigma man | 🔥PDD资深买手🥇| 牛乳A2.1家庭🥛| mxbc品鉴师☕️\n四六级没考  雅思托福没考  恩格尔系数💯 诺贝尔文学奖觊觎者 Internet冲浪达人\n🐒小镇错题家|0年国奖|玛莎拉蒂后任车主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信｜推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwBJRw"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4157,
+          "following_count": 102,
+          "like_count": 872,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 2495
+        },
+        "url": "https://t.co/rPNhEwBJRw",
+        "username": "Owo_zhou3",
+        "verified": true
+      }
+    ]
+  }
+}

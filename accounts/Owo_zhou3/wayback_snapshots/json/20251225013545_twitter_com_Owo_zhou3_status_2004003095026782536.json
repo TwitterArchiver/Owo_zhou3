@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003851141428466097",
+    "created_at": "2025-12-25T01:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T02:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004003095026782536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935984511948668936",
+          "start": 0,
+          "username": "lucky97090198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004003095026782536",
+    "in_reply_to_user_id": "1935984511948668936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003851141428466097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucky97090198 接。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1876,
+        "media_key": "3_2003851124055683072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88b-wAbMAA1gEy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003851141428466097",
+        "created_at": "2025-12-25T01:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T02:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004003095026782536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935984511948668936",
+              "start": 0,
+              "username": "lucky97090198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004003095026782536",
+        "in_reply_to_user_id": "1935984511948668936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003851141428466097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucky97090198 接。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003851124055683072"
+          ]
+        },
+        "author_id": "1935984511948668936",
+        "conversation_id": "2003851141428466097",
+        "created_at": "2025-12-24T15:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003851141428466097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUt2btQs13",
+              "end": 36,
+              "expanded_url": "https://x.com/lucky97090198/status/2003851141428466097/photo/1",
+              "media_key": "3_2003851124055683072",
+              "start": 13,
+              "url": "https://t.co/BUt2btQs13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003851141428466097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4384,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞礼物版\n🚪哥如此宠爱 https://t.co/BUt2btQs13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3644,
+          "following_count": 117,
+          "like_count": 787,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-20T08:54:22.000Z",
+        "description": "额滴神呀上帝以及老天爷呀",
+        "id": "1935984511948668936",
+        "location": "🚪188纯绿不线下 ",
+        "name": "桃",
+        "pinned_tweet_id": "2001552997852311617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997574746712752128/0Nmpu7_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4641,
+          "following_count": 365,
+          "like_count": 9999,
+          "listed_count": 14,
+          "media_count": 371,
+          "tweet_count": 5483
+        },
+        "username": "lucky97090198",
+        "verified": false
+      }
+    ]
+  }
+}

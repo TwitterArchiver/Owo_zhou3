@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2007958168845111417",
+    "created_at": "2026-01-06T05:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T06:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008414035080081808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561174296088788992",
+          "start": 0,
+          "username": "LinSheng1236541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008414035080081808",
+    "in_reply_to_user_id": "1561174296088788992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008408445435998681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinSheng1236541 我不知道说啥了🫱🏻‍🫲🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2007958168845111417",
+        "created_at": "2026-01-06T05:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008414035080081808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561174296088788992",
+              "start": 0,
+              "username": "LinSheng1236541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008414035080081808",
+        "in_reply_to_user_id": "1561174296088788992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008408445435998681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinSheng1236541 我不知道说啥了🫱🏻‍🫲🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561174296088788992",
+        "conversation_id": "2007958168845111417",
+        "created_at": "2026-01-06T05:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008408445435998681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008408445435998681",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007958168845111417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 这不是男人的通病，是多数女性的无能，绝大多数女的除了提供性价值以外，没有任何内在价值。如果你在生活中也是一个可以和他互相学习并肩走的人，那么他在外面应酬的客户就会变成家里的你，同样的逻辑，如果你觉得遇见的男的只想操你，说明你是可悲的，在他们眼里唯一的价值就是被操。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3838,
+          "following_count": 99,
+          "like_count": 822,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-21T02:12:20.000Z",
+        "description": "有厌蠢症",
+        "id": "1561174296088788992",
+        "name": "蔺生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732769379790491648/wEZLDWfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 100,
+          "like_count": 9185,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 3328
+        },
+        "username": "LinSheng1236541",
+        "verified": false
+      }
+    ]
+  }
+}

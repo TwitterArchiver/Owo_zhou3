@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1977299819522826634",
+    "created_at": "2025-10-12T19:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T20:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977454963111628819"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "太原",
+          "probability": 0.8356,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921600079070404608",
+          "start": 0,
+          "username": "Yoyonevergiveup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977454963111628819",
+    "in_reply_to_user_id": "1921600079070404608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977299819522826634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoyonevergiveup 太原八度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_1977299804108750849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DHshZaAAEAObN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1977299819522826634",
+        "created_at": "2025-10-12T19:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977454963111628819"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "太原",
+              "probability": 0.8356,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921600079070404608",
+              "start": 0,
+              "username": "Yoyonevergiveup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977454963111628819",
+        "in_reply_to_user_id": "1921600079070404608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977299819522826634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoyonevergiveup 太原八度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977299804108750849"
+          ]
+        },
+        "author_id": "1921600079070404608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977299819522826634",
+        "created_at": "2025-10-12T09:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977299819522826634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/byWJJmbnPo",
+              "end": 29,
+              "expanded_url": "https://x.com/Yoyonevergiveup/status/1977299819522826634/photo/1",
+              "media_key": "3_1977299804108750849",
+              "start": 6,
+              "url": "https://t.co/byWJJmbnPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977299819522826634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4371,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冻死个球了 https://t.co/byWJJmbnPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T16:15:48.000Z",
+        "description": "我的云端备忘录🤤嘻嘻 欢迎女宝找我互动😋 男的给我发私信前请打钱👿 不礼貌的没有回复的想法 高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8C%89%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8C%89%E8%8E%89%E4%BC%98",
+                "start": 0,
+                "url": "https://t.co/yNIbU2fUdC"
+              }
+            ]
+          }
+        },
+        "id": "1921600079070404608",
+        "location": "-16cm",
+        "name": "茉莉优",
+        "pinned_tweet_id": "1977428079799923011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926640450091253760/XcrjYKC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 430,
+          "like_count": 17286,
+          "listed_count": 0,
+          "media_count": 608,
+          "tweet_count": 4458
+        },
+        "url": "https://t.co/yNIbU2fUdC",
+        "username": "Yoyonevergiveup",
+        "verified": false
+      }
+    ]
+  }
+}

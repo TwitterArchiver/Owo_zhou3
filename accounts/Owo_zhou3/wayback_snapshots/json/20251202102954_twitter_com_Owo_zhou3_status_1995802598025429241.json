@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1995223622844383396",
+    "created_at": "2025-12-02T10:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995802598025429241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "QvQ_1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995802598025429241",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995223622844383396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QvQ_1111 能用就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1995223622844383396",
+        "created_at": "2025-12-02T10:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995802598025429241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "QvQ_1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995802598025429241",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995223622844383396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QvQ_1111 能用就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "1995223622844383396",
+        "created_at": "2025-11-30T20:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T21:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995223622844383396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995223622844383396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 45270,
+          "like_count": 392,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我懂有些女孩会焦虑 但还是想说 能拉屎就是好屁股…不要对b太苛刻了蒽对长啥样就啥样吧不影响生活就行 任何项目都是不可取的。再次默念能拉屎就是好屁股"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 78,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "我很脆弱。我一定还会回来的！匿名问答：https://t.co/02AmJFCDEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 42,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 19,
+                "url": "https://t.co/02AmJFCDEU"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "location": "抱抱",
+        "name": "烦烦",
+        "pinned_tweet_id": "1989400290320421039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986441853252870144/k8sqxodJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 299,
+          "like_count": 2993,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 1946
+        },
+        "username": "QvQ_1111",
+        "verified": false
+      }
+    ]
+  }
+}

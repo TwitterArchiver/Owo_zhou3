@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963881303243452636",
+    "created_at": "2025-09-05T13:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T14:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963950547331142100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1622634582209347584",
+          "start": 0,
+          "username": "dunjihu5"
+        },
+        {
+          "end": 22,
+          "id": "1955298562734264320",
+          "start": 10,
+          "username": "3590790956P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963950547331142100",
+    "in_reply_to_user_id": "1622634582209347584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963883577789006164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dunjihu5 @3590790956P 你快看私密聊天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963881303243452636",
+        "created_at": "2025-09-05T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963950547331142100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1622634582209347584",
+              "start": 0,
+              "username": "dunjihu5"
+            },
+            {
+              "end": 22,
+              "id": "1955298562734264320",
+              "start": 10,
+              "username": "3590790956P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963950547331142100",
+        "in_reply_to_user_id": "1622634582209347584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963883577789006164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dunjihu5 @3590790956P 你快看私密聊天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622634582209347584",
+        "conversation_id": "1963881303243452636",
+        "created_at": "2025-09-05T08:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T09:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963883577789006164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955298562734264320",
+              "start": 0,
+              "username": "3590790956P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963883577789006164",
+        "in_reply_to_user_id": "1955298562734264320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963881303243452636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3590790956P 你沾点m啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963931431652249966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 118
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T16:33:45.000Z",
+        "description": "",
+        "id": "1622634582209347584",
+        "name": "skkao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962822639627706372/SaFpfIHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "dunjihu5",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T16:01:34.000Z",
+        "description": "懵逼中",
+        "id": "1955298562734264320",
+        "name": "peeeo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955298735120060417/_gwpRutC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 16,
+          "like_count": 99,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 214
+        },
+        "username": "3590790956P",
+        "verified": false
+      }
+    ]
+  }
+}

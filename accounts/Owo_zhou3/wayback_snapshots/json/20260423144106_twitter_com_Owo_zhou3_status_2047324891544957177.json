@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2047169864184574328",
+    "created_at": "2026-04-23T14:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047324891544957177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "868615204598419456",
+          "start": 0,
+          "username": "CarlosPenedo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047324891544957177",
+    "in_reply_to_user_id": "868615204598419456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047287607672156191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlosPenedo2 捅一下呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2047169864184574328",
+        "created_at": "2026-04-23T14:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047324891544957177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "868615204598419456",
+              "start": 0,
+              "username": "CarlosPenedo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047324891544957177",
+        "in_reply_to_user_id": "868615204598419456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047287607672156191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlosPenedo2 捅一下呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "868615204598419456",
+        "conversation_id": "2047169864184574328",
+        "created_at": "2026-04-23T12:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047287607672156191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047287607672156191",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047169864184574328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 想喝奶茶但是不想捅自己的屁股"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 112,
+          "like_count": 961,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 3276
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-27T23:49:37.000Z",
+        "description": "想在特推上交一些雷霆朋友 没事就可以闲聊 关注看到我都会回关的 \n上线时间不规律",
+        "id": "868615204598419456",
+        "name": "jdnj2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047285989480284161/fTVTbkWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "username": "CarlosPenedo2",
+        "verified": false
+      }
+    ]
+  }
+}

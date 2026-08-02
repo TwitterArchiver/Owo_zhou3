@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1972020783653568736",
+    "created_at": "2025-09-28T17:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972355574798139589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923770650906238976",
+          "start": 0,
+          "username": "namicf1137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972355574798139589",
+    "in_reply_to_user_id": "1923770650906238976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972020783653568736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@namicf1137 我要收藏之后实名认证了!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1972020783653568736",
+        "created_at": "2025-09-28T17:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972355574798139589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923770650906238976",
+              "start": 0,
+              "username": "namicf1137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972355574798139589",
+        "in_reply_to_user_id": "1923770650906238976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972020783653568736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@namicf1137 我要收藏之后实名认证了!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923770650906238976",
+        "conversation_id": "1972020783653568736",
+        "created_at": "2025-09-27T19:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T20:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972020783653568736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972020783653568736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 122968,
+          "like_count": 767,
+          "quote_count": 6,
+          "reply_count": 46,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "谁把我兄弟吉他张姓名赵哲文性别男民族汉出生2002年05月16日住址山东省德州市德城区勤奇街17号院公民身份号码231025200205160612给开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972118774305509379/ICA27RGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 46,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T16:00:52.000Z",
+        "description": "( •᷄ὤ•᷅)？就爱发点废话/爱我给我点钱mua/不要喊我姐姐。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nami18334",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nami18334",
+                "start": 0,
+                "url": "https://t.co/QedWDqNPpw"
+              }
+            ]
+          }
+        },
+        "id": "1923770650906238976",
+        "location": "小事赞赏大事口令",
+        "name": "唉，呐咪",
+        "pinned_tweet_id": "1937629286531498149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671877930360832/-g-TpKGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 158,
+          "like_count": 3396,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 3496
+        },
+        "url": "https://t.co/QedWDqNPpw",
+        "username": "namicf1137",
+        "verified": false
+      }
+    ]
+  }
+}

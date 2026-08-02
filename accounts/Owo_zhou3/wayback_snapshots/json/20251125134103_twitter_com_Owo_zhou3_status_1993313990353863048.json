@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993313990353863048",
+    "created_at": "2025-11-25T13:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993313990353863048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/legadaodamassa…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/legadaodamassa/status/1992974085580566986",
+          "start": 25,
+          "url": "https://t.co/2OFO3jnCDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993313990353863048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992974085580566986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真你妈闲的没边了 又没意义又无聊的视频究竟咋想的 https://t.co/2OFO3jnCDw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71600,
+        "height": 1280,
+        "media_key": "13_1992973970153377792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992973970153377792/img/WewPkHlbb45Yja8c.jpg",
+        "public_metrics": {
+          "view_count": 1955810
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992973970153377792/vid/avc1/320x568/mRPuFeqMKMREX26Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992973970153377792/vid/avc1/480x852/hXh95gAEIfZ4xh_C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992973970153377792/vid/avc1/720x1280/hTWgp1rWKU6-UqeV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992973970153377792/pl/i7lASh0q912IHozo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993313990353863048",
+        "created_at": "2025-11-25T13:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993313990353863048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/legadaodamassa…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/legadaodamassa/status/1992974085580566986",
+              "start": 25,
+              "url": "https://t.co/2OFO3jnCDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993313990353863048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992974085580566986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真你妈闲的没边了 又没意义又无聊的视频究竟咋想的 https://t.co/2OFO3jnCDw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992973970153377792"
+          ]
+        },
+        "author_id": "3875236456",
+        "conversation_id": "1992974085580566986",
+        "created_at": "2025-11-24T15:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992974085580566986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSv7H5aPGK",
+              "end": 42,
+              "expanded_url": "https://x.com/legadaodamassa/status/1992974085580566986/video/1",
+              "media_key": "13_1992973970153377792",
+              "start": 19,
+              "url": "https://t.co/HSv7H5aPGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992974085580566986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2491,
+          "impression_count": 2970497,
+          "like_count": 19897,
+          "quote_count": 1259,
+          "reply_count": 1492,
+          "retweet_count": 1968
+        },
+        "reply_settings": "everyone",
+        "text": "?????????????????? https://t.co/HSv7H5aPGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 77,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1153
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-05T22:58:28.000Z",
+        "description": "✉️ legadaodamassa@94.football",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/legadaodamassa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/legadaodamassa",
+                "start": 0,
+                "url": "https://t.co/1KN62Wdkai"
+              }
+            ]
+          }
+        },
+        "id": "3875236456",
+        "location": "Brasil",
+        "name": "LEGADÃO™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763071430822899712/9MRce765_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480603,
+          "following_count": 1775,
+          "like_count": 39941,
+          "listed_count": 557,
+          "media_count": 21250,
+          "tweet_count": 106273
+        },
+        "url": "https://t.co/1KN62Wdkai",
+        "username": "legadaodamassa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1977282961465917748",
+    "created_at": "2025-10-12T18:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T19:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977446097514807513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891753275785113600",
+          "start": 0,
+          "username": "Seven_77kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977446097514807513",
+    "in_reply_to_user_id": "1891753275785113600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977282961465917748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_77kk 你美甲好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977282949902221312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3C4XelbwAARwka.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1977282961465917748",
+        "created_at": "2025-10-12T18:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977446097514807513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891753275785113600",
+              "start": 0,
+              "username": "Seven_77kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977446097514807513",
+        "in_reply_to_user_id": "1891753275785113600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977282961465917748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_77kk 你美甲好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977282949902221312"
+          ]
+        },
+        "author_id": "1891753275785113600",
+        "conversation_id": "1977282961465917748",
+        "created_at": "2025-10-12T07:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977282961465917748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFdE4sU9jq",
+              "end": 31,
+              "expanded_url": "https://x.com/Seven_77kk/status/1977282961465917748/photo/1",
+              "media_key": "3_1977282949902221312",
+              "start": 8,
+              "url": "https://t.co/SFdE4sU9jq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977282961465917748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14850,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就摔了一下。。 https://t.co/SFdE4sU9jq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:35:12.000Z",
+        "description": "77的碎碎念/想当一辈子私宅/猫猫教忠实信徒/说话歹毒且厌蠢/🈚🚪不加任何 互关除外/另一个7👉🏻@Lin_77X只过互关眼熟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "Lin_77X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seven_77kk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seven_77kk",
+                "start": 0,
+                "url": "https://t.co/3FfoDNGVeC"
+              }
+            ]
+          }
+        },
+        "id": "1891753275785113600",
+        "location": "霖岛",
+        "name": "猛啃翘屁嫩男大腚反被捆",
+        "pinned_tweet_id": "1933815339529425035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950910958433619968/W9RQlv2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 317,
+          "like_count": 13664,
+          "listed_count": 2,
+          "media_count": 696,
+          "tweet_count": 6660
+        },
+        "url": "https://t.co/3FfoDNGVeC",
+        "username": "Seven_77kk",
+        "verified": false
+      }
+    ]
+  }
+}

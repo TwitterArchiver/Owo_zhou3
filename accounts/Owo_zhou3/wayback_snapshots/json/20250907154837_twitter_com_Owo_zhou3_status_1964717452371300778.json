@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964014403965108675",
+    "created_at": "2025-09-07T15:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T16:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964717452371300778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyu_xiaoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964717452371300778",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964014403965108675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyu_xiaoyang 我们完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964014403965108675",
+        "created_at": "2025-09-07T15:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964717452371300778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyu_xiaoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964717452371300778",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964014403965108675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu_xiaoyang 我们完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "1964014403965108675",
+        "created_at": "2025-09-05T17:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964014403965108675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964014403965108675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1095,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "12岁看晚安布布，15岁看nana，快16玩了主播女孩重度依赖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 46,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "叫我小雨就好//🚪槛52 部分不需要//gal 日乙 二游 魂类游戏爱好者//cos//碎碎念//抽象//电波系//自伤警告",
+        "id": "1857335218673483776",
+        "location": "罗德尔",
+        "name": "雨",
+        "pinned_tweet_id": "1962900627195056567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963695521123774464/EIvYkzgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 341,
+          "like_count": 3215,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1723
+        },
+        "username": "xiaoyu_xiaoyang",
+        "verified": false
+      }
+    ]
+  }
+}

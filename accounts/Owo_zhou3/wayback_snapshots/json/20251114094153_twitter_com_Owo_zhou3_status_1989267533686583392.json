@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1989193415486255214",
+    "created_at": "2025-11-14T09:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T10:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989267533686583392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806556447318441984",
+          "start": 0,
+          "username": "xiaozhi222222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989267533686583392",
+    "in_reply_to_user_id": "1806556447318441984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989193415486255214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhi222222 求你了接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1989193408649609216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sI3bAbwAAUxrB.jpg",
+        "width": 741
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1989193415486255214",
+        "created_at": "2025-11-14T09:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989267533686583392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806556447318441984",
+              "start": 0,
+              "username": "xiaozhi222222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989267533686583392",
+        "in_reply_to_user_id": "1806556447318441984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989193415486255214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhi222222 求你了接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989193408649609216"
+          ]
+        },
+        "author_id": "1806556447318441984",
+        "conversation_id": "1989193415486255214",
+        "created_at": "2025-11-14T04:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989193415486255214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X65xrk67UY",
+              "end": 42,
+              "expanded_url": "https://x.com/xiaozhi222222/status/1989193415486255214/photo/1",
+              "media_key": "3_1989193408649609216",
+              "start": 19,
+              "url": "https://t.co/X65xrk67UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989193415486255214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5354,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂刚练完足球看到私信后的爽感..😈 https://t.co/X65xrk67UY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 62,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T05:13:34.000Z",
+        "description": "此时有一个很幸福的人在读这句话 凌晨两点一定睡 一定 一定..",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaozhi2222221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaozhi2222221",
+                "start": 0,
+                "url": "https://t.co/9n4BB3fzfl"
+              }
+            ]
+          }
+        },
+        "id": "1806556447318441984",
+        "location": "Earth",
+        "name": "小峙",
+        "pinned_tweet_id": "1953666743542722987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872636076982161408/ERGKBfwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10049,
+          "following_count": 324,
+          "like_count": 6949,
+          "listed_count": 15,
+          "media_count": 534,
+          "tweet_count": 8466
+        },
+        "url": "https://t.co/9n4BB3fzfl",
+        "username": "xiaozhi222222",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1999567699303879007",
+    "created_at": "2025-12-14T03:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000043584989679969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940872452609093632",
+          "start": 0,
+          "username": "yry8279_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000043584989679969",
+    "in_reply_to_user_id": "1940872452609093632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999567699303879007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yry8279_ 😱偷偷告诉我是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1999567699303879007",
+        "created_at": "2025-12-14T03:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000043584989679969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940872452609093632",
+              "start": 0,
+              "username": "yry8279_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000043584989679969",
+        "in_reply_to_user_id": "1940872452609093632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999567699303879007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yry8279_ 😱偷偷告诉我是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940872452609093632",
+        "conversation_id": "1999567699303879007",
+        "created_at": "2025-12-12T19:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999567699303879007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999567699303879007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27831,
+          "like_count": 204,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯趁现在人少我敢说了，所以为什么永远有几个帐号从抖音搬文案一直发发发发发发发发发发发发发，然后一群人还一起玩，聊的内容也并不正常甚至有点恶心，主要还是我对其中一个人观感非常不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 110,
+          "like_count": 635,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-03T20:38:15.000Z",
+        "description": "不礼貌回关（*＾3＾）",
+        "id": "1940872452609093632",
+        "location": "🚪188",
+        "name": "緣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999157683539333120/9jWBVvtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 50,
+          "like_count": 4071,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 846
+        },
+        "username": "yry8279_",
+        "verified": false
+      }
+    ]
+  }
+}

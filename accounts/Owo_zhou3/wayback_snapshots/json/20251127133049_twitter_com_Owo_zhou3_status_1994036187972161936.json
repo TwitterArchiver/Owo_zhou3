@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992800205419532684",
+    "created_at": "2025-11-27T13:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994036187972161936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921600079070404608",
+          "start": 0,
+          "username": "Yoyonevergiveup"
+        },
+        {
+          "end": 27,
+          "id": "1886676837407088640",
+          "start": 17,
+          "username": "orz_orz_i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994036187972161936",
+    "in_reply_to_user_id": "1921600079070404608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994023731954610328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoyonevergiveup @orz_orz_i 哎呦小茉莉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992800205419532684",
+        "created_at": "2025-11-27T13:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994036187972161936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921600079070404608",
+              "start": 0,
+              "username": "Yoyonevergiveup"
+            },
+            {
+              "end": 27,
+              "id": "1886676837407088640",
+              "start": 17,
+              "username": "orz_orz_i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994036187972161936",
+        "in_reply_to_user_id": "1921600079070404608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994023731954610328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoyonevergiveup @orz_orz_i 哎呦小茉莉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921600079070404608",
+        "conversation_id": "1992800205419532684",
+        "created_at": "2025-11-27T12:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994023731954610328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 21,
+              "id": "1886676837407088640",
+              "start": 11,
+              "username": "orz_orz_i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994023731954610328",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992800205419532684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @orz_orz_i ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜欢迎互关🎄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 80,
+          "like_count": 457,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T16:15:48.000Z",
+        "description": "我的云端备忘录🤤嘻嘻 欢迎uu们找我互动😋 回关眼熟的人🤓不礼貌的没有回复的想法 😈 高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8C%89%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8C%89%E8%8E%89%E4%BC%98",
+                "start": 0,
+                "url": "https://t.co/yNIbU2fUdC"
+              }
+            ]
+          }
+        },
+        "id": "1921600079070404608",
+        "location": "-16cm",
+        "name": "茉莉优（请喊我早睡😝）",
+        "pinned_tweet_id": "1977428079799923011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926640450091253760/XcrjYKC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065,
+          "following_count": 725,
+          "like_count": 28789,
+          "listed_count": 1,
+          "media_count": 1290,
+          "tweet_count": 10021
+        },
+        "url": "https://t.co/yNIbU2fUdC",
+        "username": "Yoyonevergiveup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:23:19.000Z",
+        "description": "05丨北京某211在读丨回归。。之前入过🚪的宝宝私我免费补丨淡推",
+        "id": "1886676837407088640",
+        "location": "🚪128",
+        "name": "土豆粉🍜",
+        "pinned_tweet_id": "1980272215510921253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947107721800712192/FRG_0Yao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 48,
+          "like_count": 8298,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 851
+        },
+        "username": "orz_orz_i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2001303435145081041",
+    "created_at": "2025-12-18T11:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T12:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001613713074196791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892304871648350208",
+          "start": 0,
+          "username": "oOlivia1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001613713074196791",
+    "in_reply_to_user_id": "1892304871648350208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001613083840778463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOlivia1022 我操我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2001303435145081041",
+        "created_at": "2025-12-18T11:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001613713074196791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892304871648350208",
+              "start": 0,
+              "username": "oOlivia1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001613713074196791",
+        "in_reply_to_user_id": "1892304871648350208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001613083840778463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOlivia1022 我操我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892304871648350208",
+        "conversation_id": "2001303435145081041",
+        "created_at": "2025-12-18T11:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001613083840778463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001613083840778463",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001303435145081041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我不行了。。红色吊带网袜能凑活用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 112,
+          "like_count": 715,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T20:07:05.000Z",
+        "description": "INTP/FCRO ♎︎\n我服了减肥咋这么难。",
+        "id": "1892304871648350208",
+        "location": "not on earthquake",
+        "name": "(o_O)?livia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999971377110294528/66ysk-2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 97,
+          "like_count": 2486,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 133
+        },
+        "username": "oOlivia1022",
+        "verified": false
+      }
+    ]
+  }
+}

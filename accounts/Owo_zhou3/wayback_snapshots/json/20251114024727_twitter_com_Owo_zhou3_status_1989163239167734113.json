@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988741779034865664"
+      ],
+      "media_source_tweet_id": [
+        "1988741787029262543"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1989163239167734113",
+    "created_at": "2025-11-14T02:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T03:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989163239167734113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1774638060963008512",
+          "start": 3,
+          "username": "LST12123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/magvHyKR3A",
+          "end": 43,
+          "expanded_url": "https://x.com/LST12123/status/1988741787029262543/photo/1",
+          "media_key": "3_1988741779034865664",
+          "start": 20,
+          "url": "https://t.co/magvHyKR3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989163239167734113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988741787029262543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LST12123: 谁来治愈我 https://t.co/magvHyKR3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988741779034865664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5luHHlaAAA5gYE.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988741779034865664"
+          ],
+          "media_source_tweet_id": [
+            "1988741787029262543"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1989163239167734113",
+        "created_at": "2025-11-14T02:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989163239167734113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774638060963008512",
+              "start": 3,
+              "username": "LST12123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/magvHyKR3A",
+              "end": 43,
+              "expanded_url": "https://x.com/LST12123/status/1988741787029262543/photo/1",
+              "media_key": "3_1988741779034865664",
+              "start": 20,
+              "url": "https://t.co/magvHyKR3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989163239167734113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988741787029262543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LST12123: 谁来治愈我 https://t.co/magvHyKR3A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988741779034865664"
+          ]
+        },
+        "author_id": "1774638060963008512",
+        "conversation_id": "1988741787029262543",
+        "created_at": "2025-11-12T22:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988741787029262543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/magvHyKR3A",
+              "end": 29,
+              "expanded_url": "https://x.com/LST12123/status/1988741787029262543/photo/1",
+              "media_key": "3_1988741779034865664",
+              "start": 6,
+              "url": "https://t.co/magvHyKR3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988741787029262543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 48558,
+          "like_count": 1388,
+          "quote_count": 7,
+          "reply_count": 30,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "谁来治愈我 https://t.co/magvHyKR3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 62,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:21:16.000Z",
+        "description": "07男，郑州傻卵二次元：粥批|音游人|邦邦人|英雄联盟|三角洲|FGO     碎碎念区主播🌈有好型\n线上小皇帝线下小怂逼\n欢迎找我互fo！（我不是男娘！也不是同）随缘设🚪，其实我是想要打赏（），随缘➕V（500粉抽红包）\n  @0xo_snow 快去关注这个入",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1774638060963008512",
+        "location": "距离你520m",
+        "name": "困困神",
+        "pinned_tweet_id": "1987020077179568284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978672734499704832/6yWQMv9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 295,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 435
+        },
+        "username": "LST12123",
+        "verified": true
+      }
+    ]
+  }
+}

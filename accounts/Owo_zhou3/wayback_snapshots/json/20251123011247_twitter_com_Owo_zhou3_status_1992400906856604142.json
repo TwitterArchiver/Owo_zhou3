@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992072552999690362",
+    "created_at": "2025-11-23T01:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T02:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992400906856604142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691995459282411520",
+          "start": 0,
+          "username": "potato155409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992400906856604142",
+    "in_reply_to_user_id": "1691995459282411520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992399906875875381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@potato155409 哈哈哈哈哈宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-23T01:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992400906856604142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691995459282411520",
+              "start": 0,
+              "username": "potato155409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992400906856604142",
+        "in_reply_to_user_id": "1691995459282411520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992399906875875381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@potato155409 哈哈哈哈哈宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691995459282411520",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-23T01:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992399906875875381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992399906875875381",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992072552999690362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 本来想去搜id结果刷了半小时抖音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 75,
+          "like_count": 398,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T02:08:57.000Z",
+        "description": "bbw 178cm/85kg 最大的爱好就是上线吐槽一些朋友圈发不了的东西",
+        "id": "1691995459282411520",
+        "location": "024",
+        "name": "Jiiiia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991541851338518528/hTAFBH00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 121,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "username": "potato155409",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992283274878890365",
+    "created_at": "2025-11-22T17:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992283274878890365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734942443819466752",
+          "start": 3,
+          "username": "srongdtmgts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992283274878890365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992118182421876859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @srongdtmgts: 拜金女是最简单的人，给钱买礼物就会开心就会继续假装爱你，可真心爱你的女人真的生气起来，买什么都没有用。还是我们物质女简单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992283274878890365",
+        "created_at": "2025-11-22T17:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992283274878890365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734942443819466752",
+              "start": 3,
+              "username": "srongdtmgts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992283274878890365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992118182421876859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @srongdtmgts: 拜金女是最简单的人，给钱买礼物就会开心就会继续假装爱你，可真心爱你的女人真的生气起来，买什么都没有用。还是我们物质女简单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734942443819466752",
+        "conversation_id": "1992118182421876859",
+        "created_at": "2025-11-22T06:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T07:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992118182421876859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992118182421876859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 44438,
+          "like_count": 515,
+          "quote_count": 10,
+          "reply_count": 22,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "拜金女是最简单的人，给钱买礼物就会开心就会继续假装爱你，可真心爱你的女人真的生气起来，买什么都没有用。还是我们物质女简单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 75,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T14:24:55.000Z",
+        "description": "🈶🚪 暂时停更",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=nyAdQRgF",
+                "start": 0,
+                "url": "https://t.co/yD16fRGfPh"
+              }
+            ]
+          }
+        },
+        "id": "1734942443819466752",
+        "location": "自用🪜💕",
+        "name": "Sirong",
+        "pinned_tweet_id": "1991751296106524774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949489101604040704/1Rc0mDuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53033,
+          "following_count": 112,
+          "like_count": 3012,
+          "listed_count": 210,
+          "media_count": 306,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/yD16fRGfPh",
+        "username": "srongdtmgts",
+        "verified": false
+      }
+    ]
+  }
+}

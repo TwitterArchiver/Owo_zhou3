@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1997295339448291711",
+    "created_at": "2025-12-06T14:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997306930428338303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908600469360164864",
+          "start": 0,
+          "username": "aiykissyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997306930428338303",
+    "in_reply_to_user_id": "1908600469360164864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997295339448291711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiykissyou 我就是说很好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1997295292979486720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fRfKGaIAAwLMt.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1997295339448291711",
+        "created_at": "2025-12-06T14:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997306930428338303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908600469360164864",
+              "start": 0,
+              "username": "aiykissyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997306930428338303",
+        "in_reply_to_user_id": "1908600469360164864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997295339448291711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiykissyou 我就是说很好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997295292979486720"
+          ]
+        },
+        "author_id": "1908600469360164864",
+        "conversation_id": "1997295339448291711",
+        "created_at": "2025-12-06T13:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997295339448291711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdPzEfsztI",
+              "end": 27,
+              "expanded_url": "https://x.com/aiykissyou/status/1997295339448291711/photo/1",
+              "media_key": "3_1997295292979486720",
+              "start": 4,
+              "url": "https://t.co/DdPzEfsztI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997295339448291711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保持。 https://t.co/DdPzEfsztI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 81,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T19:19:57.000Z",
+        "description": "🚪128纯绿｜我就是个虚荣的人 我不会让任何人0成本的靠近我",
+        "id": "1908600469360164864",
+        "location": "100m",
+        "name": "uu",
+        "pinned_tweet_id": "1986139296068149542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991130986751709184/xrQI-ZaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 57,
+          "like_count": 3265,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2268
+        },
+        "username": "aiykissyou",
+        "verified": false
+      }
+    ]
+  }
+}

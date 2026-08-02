@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1941546166761795796",
+    "created_at": "2025-09-07T12:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T13:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964666097585758274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1596204174441529347",
+          "start": 0,
+          "username": "sorry6688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964666097585758274",
+    "in_reply_to_user_id": "1596204174441529347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941546166761795796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sorry6688 真他妈逼恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1941546166761795796",
+        "created_at": "2025-09-07T12:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964666097585758274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1596204174441529347",
+              "start": 0,
+              "username": "sorry6688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964666097585758274",
+        "in_reply_to_user_id": "1596204174441529347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941546166761795796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorry6688 真他妈逼恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596204174441529347",
+        "conversation_id": "1941546166761795796",
+        "created_at": "2025-07-05T17:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T18:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941546166761795796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941546166761795796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57919,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "张曼婧这个贱逼，太馋了，去蹭饭她还要买单，看见男的就走不动路，我真他妈怀疑这孩子是不是我的，如果孩子没了就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 47,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T18:08:32.000Z",
+        "description": "大家好，我是哈尔滨第一男神滕顺强，你们可以叫我滕老师，哈尔滨第一深情，这个号，记录我和爱妻曼曼的日常，这里的粉丝都是好粉丝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sorry66668888?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sorry66668888?igsh=eHByaXJ2Nm9vZDYw",
+                "start": 0,
+                "url": "https://t.co/4lUZukS9pS"
+              }
+            ]
+          }
+        },
+        "id": "1596204174441529347",
+        "name": "滕顺强",
+        "pinned_tweet_id": "1936386075188224411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903327143792398336/JKU2jjkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9675,
+          "following_count": 121,
+          "like_count": 2,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/4lUZukS9pS",
+        "username": "sorry6688",
+        "verified": false
+      }
+    ]
+  }
+}

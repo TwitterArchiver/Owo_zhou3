@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994203200837104030",
+    "created_at": "2025-11-28T03:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994247743443750977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552280881917739008",
+          "start": 0,
+          "username": "yezizhenhaochi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994247743443750977",
+    "in_reply_to_user_id": "1552280881917739008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994203200837104030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezizhenhaochi 其实就是抠搜男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994203200837104030",
+        "created_at": "2025-11-28T03:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994247743443750977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552280881917739008",
+              "start": 0,
+              "username": "yezizhenhaochi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994247743443750977",
+        "in_reply_to_user_id": "1552280881917739008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994203200837104030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezizhenhaochi 其实就是抠搜男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552280881917739008",
+        "conversation_id": "1994203200837104030",
+        "created_at": "2025-11-28T00:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T01:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994203200837104030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994203200837104030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3765,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人看过抖音上火的“老式男朋友”的梗吗？就是男朋友不会用手机、不知道什么是小蛋糕、说吃小蛋糕结果买成老式鸡蛋糕的这种男友。一群傻逼爱的不行，还取个爱称叫老式男朋友，买老式鸡蛋糕不就是故意装傻吗🤣因为奶油蛋糕贵😂这种男的用手机点🐔的时候比谁都精，还在这意淫他们有多单纯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 78,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T13:13:09.000Z",
+        "description": "无🔞 🚪188 置顶推广自辨 自用梯子https://t.co/8del9LVxVo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "us2.av8dcloud.top/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://us2.av8dcloud.top/#/register?code=hc8Aa8bu",
+                "start": 19,
+                "url": "https://t.co/8del9LVxVo"
+              }
+            ]
+          }
+        },
+        "id": "1552280881917739008",
+        "location": "置顶为推广",
+        "name": "🥥",
+        "pinned_tweet_id": "1986694491479388394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926358547563974656/QPGtdDIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30691,
+          "following_count": 378,
+          "like_count": 41981,
+          "listed_count": 45,
+          "media_count": 621,
+          "tweet_count": 10175
+        },
+        "username": "yezizhenhaochi",
+        "verified": false
+      }
+    ]
+  }
+}

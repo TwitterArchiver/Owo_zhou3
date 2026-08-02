@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1958877150221901883",
+    "created_at": "2025-11-29T08:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994690959821660229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758163831111786496",
+          "start": 0,
+          "username": "nx099691808895"
+        },
+        {
+          "end": 27,
+          "id": "1929196936831410178",
+          "start": 16,
+          "username": "lwhk020202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994690959821660229",
+    "in_reply_to_user_id": "1758163831111786496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994689245878129133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nx099691808895 @lwhk020202 你全家也死光了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1958877150221901883",
+        "created_at": "2025-11-29T08:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994690959821660229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758163831111786496",
+              "start": 0,
+              "username": "nx099691808895"
+            },
+            {
+              "end": 27,
+              "id": "1929196936831410178",
+              "start": 16,
+              "username": "lwhk020202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994690959821660229",
+        "in_reply_to_user_id": "1758163831111786496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994689245878129133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nx099691808895 @lwhk020202 你全家也死光了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758163831111786496",
+        "conversation_id": "1958877150221901883",
+        "created_at": "2025-11-29T08:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994689245878129133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 22,
+              "id": "1929196936831410178",
+              "start": 11,
+              "username": "lwhk020202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994689245878129133",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987000967083225321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @lwhk020202 赵露思看见就算自己发骚漏奶也有脑残粉洗白之后都高兴坏了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 79,
+          "like_count": 489,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T16:18:26.000Z",
+        "description": "",
+        "id": "1758163831111786496",
+        "name": "泥系",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758163872924729345/xHx-5Lfe_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 98,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "username": "nx099691808895",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T15:22:56.000Z",
+        "description": "",
+        "id": "1929196936831410178",
+        "name": "列文虎克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962122710605316096/gq15hQOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10103,
+          "following_count": 68,
+          "like_count": 42,
+          "listed_count": 12,
+          "media_count": 46,
+          "tweet_count": 47
+        },
+        "username": "lwhk020202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993655996271792128"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993656002038907133",
+    "created_at": "2025-11-26T12:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993656002038907133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bGUi2uN2jH",
+          "end": 35,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1993656002038907133/photo/1",
+          "media_key": "3_1993655996271792128",
+          "start": 12,
+          "url": "https://t.co/bGUi2uN2jH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993656002038907133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我付出真心就这样被对待 https://t.co/bGUi2uN2jH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1993655996271792128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rjkNYbkAA6eek.jpg",
+        "width": 1265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993655996271792128"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993656002038907133",
+        "created_at": "2025-11-26T12:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993656002038907133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGUi2uN2jH",
+              "end": 35,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1993656002038907133/photo/1",
+              "media_key": "3_1993655996271792128",
+              "start": 12,
+              "url": "https://t.co/bGUi2uN2jH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993656002038907133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我付出真心就这样被对待 https://t.co/bGUi2uN2jH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 78,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

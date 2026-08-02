@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994427050665648485",
+    "created_at": "2025-11-29T02:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T03:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994595465455964627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1460662166470545408",
+          "start": 0,
+          "username": "yuiodlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994595465455964627",
+    "in_reply_to_user_id": "1460662166470545408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994427050665648485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuiodlm 我的郎在哪。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_1994427044135043072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62g1GgaAAAyhjq.jpg",
+        "width": 1103
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994427050665648485",
+        "created_at": "2025-11-29T02:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994595465455964627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1460662166470545408",
+              "start": 0,
+              "username": "yuiodlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994595465455964627",
+        "in_reply_to_user_id": "1460662166470545408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994427050665648485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuiodlm 我的郎在哪。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994427044135043072"
+          ]
+        },
+        "author_id": "1460662166470545408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994427050665648485",
+        "created_at": "2025-11-28T15:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994427050665648485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0ybMQB1QL",
+              "end": 32,
+              "expanded_url": "https://x.com/yuiodlm/status/1994427050665648485/photo/1",
+              "media_key": "3_1994427044135043072",
+              "start": 9,
+              "url": "https://t.co/U0ybMQB1QL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994427050665648485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 53296,
+          "like_count": 152,
+          "quote_count": 4,
+          "reply_count": 78,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的强终于来了！ https://t.co/U0ybMQB1QL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453,
+          "following_count": 79,
+          "like_count": 477,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1353
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T17:33:03.000Z",
+        "description": "🚪520 /1314 （朋友圈高强度更新 ）偷图盗图死全家！！接陪聊 游戏陪玩 （只会手游！）便宜大碗˃ʍ˂ ˃ʍ˂",
+        "id": "1460662166470545408",
+        "name": "少一点咪咪",
+        "pinned_tweet_id": "1994393290884673619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966460050568073216/0YNRoySQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52960,
+          "following_count": 37,
+          "like_count": 203,
+          "listed_count": 196,
+          "media_count": 62,
+          "tweet_count": 771
+        },
+        "username": "yuiodlm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993352031965528447",
+    "created_at": "2025-11-27T09:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993981145139360004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1853286001197879296",
+          "start": 0,
+          "username": "Rainydayovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993981145139360004",
+    "in_reply_to_user_id": "1853286001197879296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993352031965528447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainydayovo dy集体性压抑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993352031965528447",
+        "created_at": "2025-11-27T09:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993981145139360004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1853286001197879296",
+              "start": 0,
+              "username": "Rainydayovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993981145139360004",
+        "in_reply_to_user_id": "1853286001197879296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993352031965528447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainydayovo dy集体性压抑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853286001197879296",
+        "conversation_id": "1993352031965528447",
+        "created_at": "2025-11-25T16:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993352031965528447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993352031965528447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 129115,
+          "like_count": 933,
+          "quote_count": 15,
+          "reply_count": 66,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候sm小圈大圈也在抖音泛滥了 镜头一转就是穿个皮鞋 拿个我爷都不想扣的皮带 顶个黑色土掉渣的头像  ddlg daddy标签也是要打的 脸更是国家机密 一开直播人均大叔音 讲话比我爸味道都重 再搞个什么投骰子飞行棋 小圈话题 用音乐挡住女生淫叫的声音 还一堆人上麦接受惩罚 匹配的更不必说 真没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜欢迎互关🎄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 79,
+          "like_count": 455,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "什么都发｜喜欢可以投喂喵喵｜小号@nuannuandeovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88 非188",
+        "name": "下雨天",
+        "pinned_tweet_id": "1952601537110515866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972928685910224896/UEdJT-ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40135,
+          "following_count": 181,
+          "like_count": 2043,
+          "listed_count": 130,
+          "media_count": 329,
+          "tweet_count": 3443
+        },
+        "username": "Rainydayovo",
+        "verified": false
+      }
+    ]
+  }
+}

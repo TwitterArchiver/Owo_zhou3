@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992157712042606810",
+    "created_at": "2025-11-22T17:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992280643691315240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938459593820282880",
+          "start": 0,
+          "username": "on_yv113074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992280643691315240",
+    "in_reply_to_user_id": "1938459593820282880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992280590263963839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@on_yv113074 属实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992157712042606810",
+        "created_at": "2025-11-22T17:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992280643691315240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938459593820282880",
+              "start": 0,
+              "username": "on_yv113074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992280643691315240",
+        "in_reply_to_user_id": "1938459593820282880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992280590263963839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@on_yv113074 属实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938459593820282880",
+        "conversation_id": "1992157712042606810",
+        "created_at": "2025-11-22T17:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992280590263963839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992280590263963839",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992157712042606810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 他家的产品我all in过几套……总的来说就是为美丽买单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 75,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T04:49:30.000Z",
+        "description": "wmx在玩秀毒花药歌，模型恋，爱看漂亮成男，扩列只扩大号。匿名箱https://t.co/DZU9yY8bXP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuefu",
+                "end": 55,
+                "expanded_url": "https://ngl.link/yuefu",
+                "start": 32,
+                "url": "https://t.co/DZU9yY8bXP"
+              }
+            ]
+          }
+        },
+        "id": "1938459593820282880",
+        "name": "草莓杏仁饼",
+        "pinned_tweet_id": "1947259821436084469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947334836303368194/dQgXFfRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 23,
+          "like_count": 97,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 131
+        },
+        "username": "on_yv113074",
+        "verified": false
+      }
+    ]
+  }
+}

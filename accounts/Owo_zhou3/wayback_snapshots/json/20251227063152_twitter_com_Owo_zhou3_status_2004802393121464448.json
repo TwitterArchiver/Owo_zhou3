@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004802388792934401"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "2004802393121464448",
+    "created_at": "2025-12-27T06:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004802393121464448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hr1loHQUvj",
+          "end": 38,
+          "expanded_url": "https://x.com/Owo_zhou3/status/2004802393121464448/photo/1",
+          "media_key": "3_2004802388792934401",
+          "start": 15,
+          "url": "https://t.co/hr1loHQUvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004802393121464448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近有点想买车 有没有推荐的 https://t.co/hr1loHQUvj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "3_2004802388792934401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9J9JpTbgAEKJ1d.jpg",
+        "width": 577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004802388792934401"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "2004802393121464448",
+        "created_at": "2025-12-27T06:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004802393121464448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hr1loHQUvj",
+              "end": 38,
+              "expanded_url": "https://x.com/Owo_zhou3/status/2004802393121464448/photo/1",
+              "media_key": "3_2004802388792934401",
+              "start": 15,
+              "url": "https://t.co/hr1loHQUvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004802393121464448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近有点想买车 有没有推荐的 https://t.co/hr1loHQUvj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733,
+          "following_count": 96,
+          "like_count": 800,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      }
+    ]
+  }
+}

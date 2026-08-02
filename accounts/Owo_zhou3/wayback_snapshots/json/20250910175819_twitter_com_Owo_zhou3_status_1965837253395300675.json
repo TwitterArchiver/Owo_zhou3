@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1965755036480438464",
+    "created_at": "2025-09-10T17:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T18:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965837253395300675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1844337920993525760",
+          "start": 0,
+          "username": "YANYANQAQTXDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965837253395300675",
+    "in_reply_to_user_id": "1844337920993525760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965755036480438464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YANYANQAQTXDY 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965755026296778752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fDyAnbsAAnab0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1965755036480438464",
+        "created_at": "2025-09-10T17:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T18:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965837253395300675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1844337920993525760",
+              "start": 0,
+              "username": "YANYANQAQTXDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965837253395300675",
+        "in_reply_to_user_id": "1844337920993525760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965755036480438464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YANYANQAQTXDY 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965755026296778752"
+          ]
+        },
+        "author_id": "1844337920993525760",
+        "conversation_id": "1965755036480438464",
+        "created_at": "2025-09-10T12:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T13:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965755036480438464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrOFSm0zDW",
+              "end": 26,
+              "expanded_url": "https://x.com/YANYANQAQTXDY/status/1965755036480438464/photo/1",
+              "media_key": "3_1965755026296778752",
+              "start": 3,
+              "url": "https://t.co/nrOFSm0zDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965755036480438464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30615,
+          "like_count": 243,
+          "quote_count": 10,
+          "reply_count": 181,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁接 https://t.co/nrOFSm0zDW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 50,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T11:23:48.000Z",
+        "description": "大家可以叫我小渊/泛性恋/06/女权/不线下/不要私信我小吊照了/entp-t/大家可以找我玩我话特别多！/祝大家每一天都很开心/我滴女神@wonyoung_0122 @OpheliaFalls @xx_111111111111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "wonyoung_0122"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "OpheliaFalls"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "username": "xx_111111111111"
+              }
+            ]
+          }
+        },
+        "id": "1844337920993525760",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "颜颜（恩师生亦何欢）",
+        "pinned_tweet_id": "1844342184839086558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844338092649635840/h-GfK6B2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 247,
+          "like_count": 8893,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 854
+        },
+        "username": "YANYANQAQTXDY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992077287915921765",
+    "created_at": "2025-11-22T16:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992262023158337989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828474363605327876",
+          "start": 0,
+          "username": "liil672274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992262023158337989",
+    "in_reply_to_user_id": "1828474363605327876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992261897039827447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liil672274 还有那种在墙内蛐蛐墙外一些姐妹的事的这些女的雌竞这一块!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T16:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992262023158337989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828474363605327876",
+              "start": 0,
+              "username": "liil672274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992262023158337989",
+        "in_reply_to_user_id": "1828474363605327876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992261897039827447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liil672274 还有那种在墙内蛐蛐墙外一些姐妹的事的这些女的雌竞这一块!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828474363605327876",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T16:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992261897039827447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992261897039827447",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992077287915921765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我已经在dy刷到好多个截图发到墙内 然后不打码的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 75,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T16:47:38.000Z",
+        "description": "涙は透明な血だ",
+        "id": "1828474363605327876",
+        "name": "liil",
+        "pinned_tweet_id": "1918666662750109730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992261986185523200/ZAtA0KzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 56,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 456
+        },
+        "username": "liil672274",
+        "verified": false
+      }
+    ]
+  }
+}

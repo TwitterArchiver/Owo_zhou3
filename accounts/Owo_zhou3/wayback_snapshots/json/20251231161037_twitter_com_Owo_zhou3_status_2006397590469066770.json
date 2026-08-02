@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2006306768713039985",
+    "created_at": "2025-12-31T16:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006397590469066770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963384895520346114",
+          "start": 0,
+          "username": "yc1615057741"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006397590469066770",
+    "in_reply_to_user_id": "1963384895520346114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006306768713039985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yc1615057741 接。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2006306668142047232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fVSOkasAABYtd.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2006306768713039985",
+        "created_at": "2025-12-31T16:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006397590469066770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963384895520346114",
+              "start": 0,
+              "username": "yc1615057741"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006397590469066770",
+        "in_reply_to_user_id": "1963384895520346114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006306768713039985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yc1615057741 接。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006306668142047232"
+          ]
+        },
+        "author_id": "1963384895520346114",
+        "conversation_id": "2006306768713039985",
+        "created_at": "2025-12-31T10:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006306768713039985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ij3m1qFNOu",
+              "end": 33,
+              "expanded_url": "https://x.com/yc1615057741/status/2006306768713039985/photo/1",
+              "media_key": "3_2006306668142047232",
+              "start": 10,
+              "url": "https://t.co/Ij3m1qFNOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006306768713039985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6226,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样对我的🚪姐 https://t.co/Ij3m1qFNOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3736,
+          "following_count": 97,
+          "like_count": 807,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 2253
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-03T23:33:42.000Z",
+        "description": "xyy",
+        "id": "1963384895520346114",
+        "name": "鱼骨头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983676806483079168/xZv288zP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "yc1615057741",
+        "verified": false
+      }
+    ]
+  }
+}

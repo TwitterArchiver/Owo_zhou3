@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2002740325509722387",
+    "created_at": "2025-12-22T03:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T04:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002943896507277718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1695754868101906432",
+          "start": 0,
+          "username": "Zzz1004Aza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002943896507277718",
+    "in_reply_to_user_id": "1695754868101906432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002740325509722387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzz1004Aza 丑逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1894,
+        "media_key": "3_2002739480915255297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8so8mmaoAE7nve.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2002740325509722387",
+        "created_at": "2025-12-22T03:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T04:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002943896507277718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695754868101906432",
+              "start": 0,
+              "username": "Zzz1004Aza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002943896507277718",
+        "in_reply_to_user_id": "1695754868101906432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002740325509722387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzz1004Aza 丑逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002739480915255297"
+          ]
+        },
+        "author_id": "1695754868101906432",
+        "conversation_id": "2002740325509722387",
+        "created_at": "2025-12-21T13:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002740325509722387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diCy5OQbXH",
+              "end": 35,
+              "expanded_url": "https://x.com/Zzz1004Aza/status/2002740325509722387/photo/1",
+              "media_key": "3_2002739480915255297",
+              "start": 12,
+              "url": "https://t.co/diCy5OQbXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002740325509722387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 23388,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我一个回你私信的理由 https://t.co/diCy5OQbXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3098,
+          "following_count": 115,
+          "like_count": 754,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 2004
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-27T11:07:32.000Z",
+        "description": "其实我也不太了解你  03 只喜欢薄肌眼镜男\n跟我喜欢的人玩^ 没流量 淡推\n 正常私信基本都回 别发下体照片攻击我\n只是搬运工 骂我反弹 开心上网 玩的愉快 ෆ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzz1004aza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzz1004aza",
+                "start": 0,
+                "url": "https://t.co/UI8SNMSoxS"
+              }
+            ]
+          }
+        },
+        "id": "1695754868101906432",
+        "location": "说脏话的时候是小冰糕:)",
+        "name": "雪糕",
+        "pinned_tweet_id": "1998386251586474311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999133210375245824/yg0j36eA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 53,
+          "like_count": 8844,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/UI8SNMSoxS",
+        "username": "Zzz1004Aza",
+        "verified": false
+      }
+    ]
+  }
+}

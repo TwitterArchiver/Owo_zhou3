@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993657773851303937"
+      ],
+      "media_source_tweet_id": [
+        "1993657810115231924"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      }
+    ],
+    "conversation_id": "1993981020551663733",
+    "created_at": "2025-11-27T09:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993981020551663733"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "ディズニー",
+          "probability": 0.3119,
+          "start": 15,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516100418912219138",
+          "start": 3,
+          "username": "mogu2_zzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZEdNkyinf",
+          "end": 51,
+          "expanded_url": "https://x.com/mogu2_zzz/status/1993657810115231924/photo/1",
+          "media_key": "3_1993657773851303937",
+          "start": 28,
+          "url": "https://t.co/pZEdNkyinf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993981020551663733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1209
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993657810115231924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @mogu2_zzz: ディズニー満喫くちぱっち https://t.co/pZEdNkyinf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1993657773851303937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rlLrYaYAEVabI.jpg",
+        "width": 1690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993657773851303937"
+          ],
+          "media_source_tweet_id": [
+            "1993657810115231924"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "1993981020551663733",
+        "created_at": "2025-11-27T09:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993981020551663733"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "ディズニー",
+              "probability": 0.3119,
+              "start": 15,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516100418912219138",
+              "start": 3,
+              "username": "mogu2_zzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZEdNkyinf",
+              "end": 51,
+              "expanded_url": "https://x.com/mogu2_zzz/status/1993657810115231924/photo/1",
+              "media_key": "3_1993657773851303937",
+              "start": 28,
+              "url": "https://t.co/pZEdNkyinf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993981020551663733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1209
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993657810115231924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @mogu2_zzz: ディズニー満喫くちぱっち https://t.co/pZEdNkyinf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993657773851303937"
+          ]
+        },
+        "author_id": "1516100418912219138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "1993657810115231924",
+        "created_at": "2025-11-26T12:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993657810115231924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZEdNkyinf",
+              "end": 36,
+              "expanded_url": "https://x.com/mogu2_zzz/status/1993657810115231924/photo/1",
+              "media_key": "3_1993657773851303937",
+              "start": 13,
+              "url": "https://t.co/pZEdNkyinf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993657810115231924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 914,
+          "impression_count": 740476,
+          "like_count": 39265,
+          "quote_count": 135,
+          "reply_count": 11,
+          "retweet_count": 1209
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ディズニー満喫くちぱっち https://t.co/pZEdNkyinf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜欢迎互关🎄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 79,
+          "like_count": 454,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1245
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T17:05:00.000Z",
+        "description": "くちぱっちとの生活🍀.∘￤ ぬい愛 ￤たまに絵 ￤ ⚠︎画像の転載＆使用はおやめください",
+        "id": "1516100418912219138",
+        "location": "Repost and use is prohibited.",
+        "name": "もぐまる",
+        "pinned_tweet_id": "1986049846453977564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984958289520848896/JgqPU6lY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8309,
+          "following_count": 34,
+          "like_count": 4815,
+          "listed_count": 14,
+          "media_count": 54,
+          "tweet_count": 768
+        },
+        "username": "mogu2_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

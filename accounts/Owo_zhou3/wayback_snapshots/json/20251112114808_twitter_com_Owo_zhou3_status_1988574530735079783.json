@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988464177070161951",
+    "created_at": "2025-11-12T11:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988574530735079783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1606289378527313920",
+          "start": 0,
+          "username": "ZzUnUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988574530735079783",
+    "in_reply_to_user_id": "1606289378527313920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988464177070161951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZzUnUz 我为啥遇不到。我只要橙色的那个谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988464168467574786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hxoDoaMAIWBba.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988464177070161951",
+        "created_at": "2025-11-12T11:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988574530735079783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1606289378527313920",
+              "start": 0,
+              "username": "ZzUnUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988574530735079783",
+        "in_reply_to_user_id": "1606289378527313920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988464177070161951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzUnUz 我为啥遇不到。我只要橙色的那个谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988464168467574786"
+          ]
+        },
+        "author_id": "1606289378527313920",
+        "conversation_id": "1988464177070161951",
+        "created_at": "2025-11-12T04:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988464177070161951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2IFWNKXnSe",
+              "end": 26,
+              "expanded_url": "https://x.com/ZzUnUz/status/1988464177070161951/photo/1",
+              "media_key": "3_1988464168467574786",
+              "start": 3,
+              "url": "https://t.co/2IFWNKXnSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988464177070161951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5261,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁接 https://t.co/2IFWNKXnSe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 58,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T14:04:06.000Z",
+        "description": "",
+        "id": "1606289378527313920",
+        "name": "宅又萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986901016672075776/DEfx496p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52114,
+          "following_count": 27,
+          "like_count": 13,
+          "listed_count": 118,
+          "media_count": 188,
+          "tweet_count": 1642
+        },
+        "username": "ZzUnUz",
+        "verified": false
+      }
+    ]
+  }
+}

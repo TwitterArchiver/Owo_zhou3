@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2004048818313351436",
+    "created_at": "2025-12-25T09:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T10:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004123840373502258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675177129175322624",
+          "start": 0,
+          "username": "ZhuYang98875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004123840373502258",
+    "in_reply_to_user_id": "1675177129175322624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004110097963012504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuYang98875 你为啥取关我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2004048818313351436",
+        "created_at": "2025-12-25T09:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004123840373502258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675177129175322624",
+              "start": 0,
+              "username": "ZhuYang98875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004123840373502258",
+        "in_reply_to_user_id": "1675177129175322624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004110097963012504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuYang98875 你为啥取关我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675177129175322624",
+        "conversation_id": "2004048818313351436",
+        "created_at": "2025-12-25T08:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004110097963012504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004110097963012504",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004048818313351436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我取关了，为什么你还一直在我关注时间线上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 117,
+          "like_count": 788,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-01T16:19:27.000Z",
+        "description": "顺大势，逆小势，打的过就打，打不过就跑路",
+        "id": "1675177129175322624",
+        "location": "看看你后面呢—😡",
+        "name": "济沧海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990399861825667072/-FvZAlhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 109,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 401
+        },
+        "username": "ZhuYang98875",
+        "verified": false
+      }
+    ]
+  }
+}

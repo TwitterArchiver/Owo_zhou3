@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2002700216663998679",
+    "created_at": "2025-12-22T02:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T03:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002933782882713937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "QvQ_1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002933782882713937",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002700216663998679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QvQ_1111 我也是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2002700216663998679",
+        "created_at": "2025-12-22T02:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T03:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002933782882713937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "QvQ_1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002933782882713937",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002700216663998679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QvQ_1111 我也是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "2002700216663998679",
+        "created_at": "2025-12-21T11:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002700216663998679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002700216663998679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 93834,
+          "like_count": 423,
+          "quote_count": 10,
+          "reply_count": 40,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我不喜欢收红包有人懂吗 红包和转账是完全不同的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 114,
+          "like_count": 751,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "我一直在这。梦到啥说啥。匿名问答：https://t.co/02AmJFC5Pm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 40,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 17,
+                "url": "https://t.co/02AmJFC5Pm"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "location": "抱抱",
+        "name": "烦烦",
+        "pinned_tweet_id": "1999365860356759785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997664462552387584/tgwBV2Sy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 308,
+          "like_count": 4391,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 2538
+        },
+        "username": "QvQ_1111",
+        "verified": false
+      }
+    ]
+  }
+}

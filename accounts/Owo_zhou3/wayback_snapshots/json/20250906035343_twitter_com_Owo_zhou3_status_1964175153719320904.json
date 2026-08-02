@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964175153719320904",
+    "created_at": "2025-09-06T03:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T04:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964175153719320904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/couplxlove/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/couplxlove/status/1963664036534661491",
+          "start": 11,
+          "url": "https://t.co/kqtwf1qHPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964175153719320904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963664036534661491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我多会可以这么水灵灵 https://t.co/kqtwf1qHPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8808,
+        "height": 768,
+        "media_key": "13_1963663975159050240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963663975159050240/img/hEI_eg93GZaUCDqD.jpg",
+        "public_metrics": {
+          "view_count": 87361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963663975159050240/vid/avc1/320x426/GOY9OpsJzPEqerhk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963663975159050240/vid/avc1/480x640/jZg0T7XLBFIely8h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963663975159050240/vid/avc1/576x768/l-C3aZU51ScUFdOB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963663975159050240/pl/v-kwY-3lC92OE2_O.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964175153719320904",
+        "created_at": "2025-09-06T03:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964175153719320904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/couplxlove/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/couplxlove/status/1963664036534661491",
+              "start": 11,
+              "url": "https://t.co/kqtwf1qHPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964175153719320904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963664036534661491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我多会可以这么水灵灵 https://t.co/kqtwf1qHPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963663975159050240"
+          ]
+        },
+        "author_id": "1902492629557805056",
+        "conversation_id": "1963664036534661491",
+        "created_at": "2025-09-04T18:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T19:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963664036534661491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulZNJlBpiK",
+              "end": 23,
+              "expanded_url": "https://x.com/couplxlove/status/1963664036534661491/video/1",
+              "media_key": "13_1963663975159050240",
+              "start": 0,
+              "url": "https://t.co/ulZNJlBpiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963664036534661491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1199,
+          "impression_count": 150886,
+          "like_count": 6313,
+          "quote_count": 58,
+          "reply_count": 18,
+          "retweet_count": 1024
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ulZNJlBpiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 43,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T22:49:47.000Z",
+        "description": "Just About Love ✨🤍",
+        "id": "1902492629557805056",
+        "location": "Schaumburg, IL",
+        "name": "Love Daily",
+        "pinned_tweet_id": "1948495861018697805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941261670162092032/kHO3D6hC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16175,
+          "following_count": 358,
+          "like_count": 1298,
+          "listed_count": 25,
+          "media_count": 333,
+          "tweet_count": 345
+        },
+        "username": "couplxlove",
+        "verified": true
+      }
+    ]
+  }
+}

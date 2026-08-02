@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988607448299737088"
+      ],
+      "media_source_tweet_id": [
+        "1988607459825770550"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988923173006364864",
+    "created_at": "2025-11-13T10:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988923173006364864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821431905071570944",
+          "start": 3,
+          "username": "tuitenvwang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQk0iE4y0s",
+          "end": 45,
+          "expanded_url": "https://x.com/tuitenvwang/status/1988607459825770550/photo/1",
+          "media_key": "3_1988607448299737088",
+          "start": 22,
+          "url": "https://t.co/BQk0iE4y0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988923173006364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988607459825770550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuitenvwang: 我被爱： https://t.co/BQk0iE4y0s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_1988607448299737088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jz8CmaEAAWGiB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988607448299737088"
+          ],
+          "media_source_tweet_id": [
+            "1988607459825770550"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988923173006364864",
+        "created_at": "2025-11-13T10:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988923173006364864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821431905071570944",
+              "start": 3,
+              "username": "tuitenvwang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQk0iE4y0s",
+              "end": 45,
+              "expanded_url": "https://x.com/tuitenvwang/status/1988607459825770550/photo/1",
+              "media_key": "3_1988607448299737088",
+              "start": 22,
+              "url": "https://t.co/BQk0iE4y0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988923173006364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988607459825770550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuitenvwang: 我被爱： https://t.co/BQk0iE4y0s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988607448299737088"
+          ]
+        },
+        "author_id": "1821431905071570944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988607459825770550",
+        "created_at": "2025-11-12T13:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988607459825770550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQk0iE4y0s",
+              "end": 28,
+              "expanded_url": "https://x.com/tuitenvwang/status/1988607459825770550/photo/1",
+              "media_key": "3_1988607448299737088",
+              "start": 5,
+              "url": "https://t.co/BQk0iE4y0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988607459825770550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 48804,
+          "like_count": 714,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我被爱： https://t.co/BQk0iE4y0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 59,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我 ｜自用人工智能@Dicksuck2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Dicksuck2778"
+              }
+            ]
+          }
+        },
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1918958966819704880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821432537660772352/3ctFRoG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12299,
+          "following_count": 304,
+          "like_count": 3988,
+          "listed_count": 11,
+          "media_count": 344,
+          "tweet_count": 2161
+        },
+        "username": "tuitenvwang",
+        "verified": true
+      }
+    ]
+  }
+}

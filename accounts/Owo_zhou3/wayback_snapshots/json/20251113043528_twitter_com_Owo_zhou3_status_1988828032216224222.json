@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1981764144182493529",
+    "created_at": "2025-11-13T04:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988828032216224222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981761918600982529",
+          "start": 0,
+          "username": "yoka55kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988828032216224222",
+    "in_reply_to_user_id": "1981761918600982529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981764144182493529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoka55kawaii 婵姐你妈死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19270,
+        "height": 1280,
+        "media_key": "13_1981764055132975104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981764055132975104/img/Q2HcXf5ua8SfgQBy.jpg",
+        "public_metrics": {
+          "view_count": 17385
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981764055132975104/vid/avc1/320x696/_P2uzTEcRPR_xeg4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981764055132975104/vid/avc1/480x1044/fxzBd2KBDyGY6ctQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981764055132975104/vid/avc1/588x1280/roewcLzbMPj1ACHN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981764055132975104/pl/dVRuCG-ewZBUpUYN.m3u8?v=cfc"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1981764144182493529",
+        "created_at": "2025-11-13T04:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988828032216224222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981761918600982529",
+              "start": 0,
+              "username": "yoka55kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988828032216224222",
+        "in_reply_to_user_id": "1981761918600982529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981764144182493529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoka55kawaii 婵姐你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981764055132975104"
+          ]
+        },
+        "author_id": "1981761918600982529",
+        "conversation_id": "1981764144182493529",
+        "created_at": "2025-10-24T16:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T17:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981764144182493529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SD8HHgL9Rr",
+              "end": 28,
+              "expanded_url": "https://x.com/yoka55kawaii/status/1981764144182493529/video/1",
+              "media_key": "13_1981764055132975104",
+              "start": 5,
+              "url": "https://t.co/SD8HHgL9Rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981764144182493529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 50170,
+          "like_count": 89,
+          "quote_count": 7,
+          "reply_count": 61,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我是真婵 https://t.co/SD8HHgL9Rr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 58,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T16:37:35.000Z",
+        "description": "04/婵/enfp/双子/重双向/od/泛性恋/开放性关系/91/213/520/2713",
+        "id": "1981761918600982529",
+        "name": "唐攸婵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981762443203280896/RYs2Cldd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "yoka55kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

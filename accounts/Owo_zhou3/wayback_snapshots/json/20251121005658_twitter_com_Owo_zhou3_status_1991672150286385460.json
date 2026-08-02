@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1991672150286385460",
+    "created_at": "2025-11-21T00:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T01:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991672150286385460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tao1865453/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/tao1865453/status/1991562482113212512",
+          "start": 6,
+          "url": "https://t.co/jr02aBRULb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991672150286385460",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991562482113212512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在接 https://t.co/jr02aBRULb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_1991562475150680064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6NzhPdaoAAljKU.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1991672150286385460",
+        "created_at": "2025-11-21T00:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T01:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991672150286385460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tao1865453/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tao1865453/status/1991562482113212512",
+              "start": 6,
+              "url": "https://t.co/jr02aBRULb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991672150286385460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991562482113212512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在接 https://t.co/jr02aBRULb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991562475150680064"
+          ]
+        },
+        "author_id": "1816042391604015104",
+        "conversation_id": "1991562482113212512",
+        "created_at": "2025-11-20T17:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T18:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991562482113212512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TpKXS4EfQm",
+              "end": 29,
+              "expanded_url": "https://x.com/tao1865453/status/1991562482113212512/photo/1",
+              "media_key": "3_1991562475150680064",
+              "start": 6,
+              "url": "https://t.co/TpKXS4EfQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991562482113212512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7780,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "轮到俺了！ https://t.co/TpKXS4EfQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 68,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "本人正在备战小升初，请勿过多交流，三四年级的小学生不要来问我经验了！我没有义务分享！｜私信只回过🚪 不约不线下 贴脸拉黑｜另一个我@tao07158｜锁评推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "tao07158"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wFHzjTH0",
+                "start": 0,
+                "url": "https://t.co/2jN9lIWsDt"
+              }
+            ]
+          }
+        },
+        "id": "1816042391604015104",
+        "location": "🚪188 520 1314",
+        "name": "玩具",
+        "pinned_tweet_id": "1991401543019688264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979557623042097152/kqNYAf0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9611,
+          "following_count": 226,
+          "like_count": 11135,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 3477
+        },
+        "url": "https://t.co/2jN9lIWsDt",
+        "username": "tao1865453",
+        "verified": false
+      }
+    ]
+  }
+}

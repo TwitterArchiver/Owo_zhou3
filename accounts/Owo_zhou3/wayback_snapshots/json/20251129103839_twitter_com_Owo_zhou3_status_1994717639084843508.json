@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994707013079810398",
+    "created_at": "2025-11-29T10:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994717639084843508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1835719450294898688",
+          "start": 0,
+          "username": "kind4376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994717639084843508",
+    "in_reply_to_user_id": "1835719450294898688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994711591485673746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kind4376 我今天根本没出门 那是我之前的库存 我现在穿这个出门会被冻死! 所以我现在还是邪恶人格知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994707013079810398",
+        "created_at": "2025-11-29T10:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994717639084843508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1835719450294898688",
+              "start": 0,
+              "username": "kind4376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994717639084843508",
+        "in_reply_to_user_id": "1835719450294898688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994711591485673746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kind4376 我今天根本没出门 那是我之前的库存 我现在穿这个出门会被冻死! 所以我现在还是邪恶人格知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835719450294898688",
+        "conversation_id": "1994707013079810398",
+        "created_at": "2025-11-29T10:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994711591485673746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994711591485673746",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994707013079810398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 你今天不是顶着温柔版出门了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 79,
+          "like_count": 491,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:36:47.000Z",
+        "description": "你可以整点薯条",
+        "id": "1835719450294898688",
+        "location": "-20",
+        "name": "整点啤啤🍺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994501748023857152/sMdQyLZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 24,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 231
+        },
+        "username": "kind4376",
+        "verified": false
+      }
+    ]
+  }
+}

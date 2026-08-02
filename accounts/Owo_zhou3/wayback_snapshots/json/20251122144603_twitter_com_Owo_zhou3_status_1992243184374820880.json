@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992157712042606810",
+    "created_at": "2025-11-22T14:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992243184374820880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1475783287775789058",
+          "start": 0,
+          "username": "wushichipaomia1"
+        },
+        {
+          "end": 31,
+          "id": "1972741635055489024",
+          "start": 17,
+          "username": "Tttttttt1111I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992243184374820880",
+    "in_reply_to_user_id": "1475783287775789058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992242891306275233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wushichipaomia1 @Tttttttt1111I OK谢谢你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992157712042606810",
+        "created_at": "2025-11-22T14:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992243184374820880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1475783287775789058",
+              "start": 0,
+              "username": "wushichipaomia1"
+            },
+            {
+              "end": 31,
+              "id": "1972741635055489024",
+              "start": 17,
+              "username": "Tttttttt1111I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992243184374820880",
+        "in_reply_to_user_id": "1475783287775789058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992242891306275233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wushichipaomia1 @Tttttttt1111I OK谢谢你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475783287775789058",
+        "conversation_id": "1992157712042606810",
+        "created_at": "2025-11-22T14:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992242891306275233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 25,
+              "id": "1972741635055489024",
+              "start": 11,
+              "username": "Tttttttt1111I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992242891306275233",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992241675394248769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @Tttttttt1111I 眼影盘巨巨巨好用 那个亮片巨闪 ！这个蓝色的是蜜粉饼 这个不太好用 我是混油感觉这个适合干皮 腮红也很好用颜色做的特别嫩  宝宝你可以去蹲花知晓直播间我245米拿下4个正装7个赠品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（我就是那种贪财好色的小女孩）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 75,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T10:59:01.000Z",
+        "description": "不要发现我",
+        "id": "1475783287775789058",
+        "location": "不约不线下不接推广",
+        "name": "无事吃泡面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498947757855281155/RznG_PPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8742,
+          "following_count": 7,
+          "like_count": 227,
+          "listed_count": 29,
+          "media_count": 12,
+          "tweet_count": 125
+        },
+        "username": "wushichipaomia1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T19:14:12.000Z",
+        "description": "🚪99 188 288 521 1314验证30 坐标安徽TuT🤧🤧求入门。！",
+        "id": "1972741635055489024",
+        "location": "唉",
+        "name": "be be",
+        "pinned_tweet_id": "1987992826786050376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972743365348429825/341KBsK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 0,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 92
+        },
+        "username": "Tttttttt1111I",
+        "verified": false
+      }
+    ]
+  }
+}

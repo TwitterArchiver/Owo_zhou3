@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993314584003068322",
+    "created_at": "2025-11-25T13:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993314584003068322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/susahmiskin___…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/susahmiskin___/status/1993119436610683179",
+          "start": 5,
+          "url": "https://t.co/PNXfpTnx2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993314584003068322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993119436610683179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/PNXfpTnx2m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20933,
+        "height": 1280,
+        "media_key": "13_1993119366972616704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993119366972616704/img/ejdoqeydVL7ZGmwQ.jpg",
+        "public_metrics": {
+          "view_count": 295521
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993119366972616704/vid/avc1/320x568/u3zA_YlCOXTwcNPV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993119366972616704/vid/avc1/480x852/9n-QmHDLEdhD6wrl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993119366972616704/vid/avc1/720x1280/G4zD5U3Xb-OlOams.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993119366972616704/pl/eHn0cBwmrDxgXvO8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993314584003068322",
+        "created_at": "2025-11-25T13:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993314584003068322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/susahmiskin___…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/susahmiskin___/status/1993119436610683179",
+              "start": 5,
+              "url": "https://t.co/PNXfpTnx2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993314584003068322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993119436610683179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/PNXfpTnx2m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993119366972616704"
+          ]
+        },
+        "author_id": "1709043483548471296",
+        "conversation_id": "1993119436610683179",
+        "created_at": "2025-11-25T00:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T01:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993119436610683179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nxqj14WgJE",
+              "end": 23,
+              "expanded_url": "https://x.com/susahmiskin___/status/1993119436610683179/video/1",
+              "media_key": "13_1993119366972616704",
+              "start": 0,
+              "url": "https://t.co/Nxqj14WgJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993119436610683179",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 381,
+          "impression_count": 554324,
+          "like_count": 2583,
+          "quote_count": 34,
+          "reply_count": 109,
+          "retweet_count": 390
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Nxqj14WgJE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 77,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T03:12:07.000Z",
+        "description": "menerima semua ajakan kerjasama, kecuali JUDOL!",
+        "id": "1709043483548471296",
+        "name": "lapak",
+        "pinned_tweet_id": "1991645219016831214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794142627530674176/fMwhl6Gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27360,
+          "following_count": 1324,
+          "like_count": 347104,
+          "listed_count": 15,
+          "media_count": 2068,
+          "tweet_count": 356372
+        },
+        "username": "susahmiskin___",
+        "verified": true
+      }
+    ]
+  }
+}

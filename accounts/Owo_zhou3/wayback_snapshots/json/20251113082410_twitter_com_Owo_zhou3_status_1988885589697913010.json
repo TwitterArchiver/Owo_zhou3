@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988885589697913010",
+    "created_at": "2025-11-13T08:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T09:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988885589697913010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/resfeber0/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/resfeber0/status/1988861189334389054",
+          "start": 8,
+          "url": "https://t.co/H9oetvMxhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988885589697913010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988861189334389054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的能吃到吗 https://t.co/H9oetvMxhK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988885589697913010",
+        "created_at": "2025-11-13T08:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988885589697913010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/resfeber0/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/resfeber0/status/1988861189334389054",
+              "start": 8,
+              "url": "https://t.co/H9oetvMxhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988885589697913010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988861189334389054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的能吃到吗 https://t.co/H9oetvMxhK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882910113792655360",
+        "conversation_id": "1988861189334389054",
+        "created_at": "2025-11-13T06:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988861189334389054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988861189334389054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5642,
+          "like_count": 112,
+          "quote_count": 5,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老大 我们每周四这样装傻充愣的复制粘贴 真的能吃到肯德基吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 59,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T21:55:39.000Z",
+        "description": "人好 我也是人",
+        "id": "1882910113792655360",
+        "location": "🚪520",
+        "name": "Utopia",
+        "pinned_tweet_id": "1967145683217260734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937175131652038656/3YzhjDc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57199,
+          "following_count": 226,
+          "like_count": 1686,
+          "listed_count": 124,
+          "media_count": 162,
+          "tweet_count": 2549
+        },
+        "username": "Resfeber0",
+        "verified": false
+      }
+    ]
+  }
+}

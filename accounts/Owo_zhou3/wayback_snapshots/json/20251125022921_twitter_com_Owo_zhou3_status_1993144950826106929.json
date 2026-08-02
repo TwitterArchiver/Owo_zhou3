@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992970715432140805",
+    "created_at": "2025-11-25T02:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T03:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993144950826106929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1651018702534627328",
+          "start": 0,
+          "username": "cunlove52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993144950826106929",
+    "in_reply_to_user_id": "1651018702534627328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992970715432140805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cunlove52 接。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1992970704778608640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h0S_oWwAAWrv5.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1992970705533640704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h0TCcXoAAP7gr.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992970715432140805",
+        "created_at": "2025-11-25T02:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993144950826106929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1651018702534627328",
+              "start": 0,
+              "username": "cunlove52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993144950826106929",
+        "in_reply_to_user_id": "1651018702534627328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992970715432140805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cunlove52 接。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992970704778608640",
+            "3_1992970705533640704"
+          ]
+        },
+        "author_id": "1651018702534627328",
+        "conversation_id": "1992970715432140805",
+        "created_at": "2025-11-24T14:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992970715432140805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oX6riXdwRX",
+              "end": 36,
+              "expanded_url": "https://x.com/cunlove52/status/1992970715432140805/photo/1",
+              "media_key": "3_1992970704778608640",
+              "start": 13,
+              "url": "https://t.co/oX6riXdwRX"
+            },
+            {
+              "display_url": "pic.x.com/oX6riXdwRX",
+              "end": 36,
+              "expanded_url": "https://x.com/cunlove52/status/1992970715432140805/photo/1",
+              "media_key": "3_1992970705533640704",
+              "start": 13,
+              "url": "https://t.co/oX6riXdwRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992970715432140805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一个1314的门 谁接 https://t.co/oX6riXdwRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 76,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T00:21:54.000Z",
+        "description": "INTP 射手 05 1i ddlg sub偏brat \n内容不固定 时不时删贴 \n爱看私信 不定时开播唱歌 \n欢迎和我互关 匿名问题 https://t.co/xckqumeOv3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cun89305",
+                "end": 91,
+                "expanded_url": "http://ngl.link/cun89305",
+                "start": 68,
+                "url": "https://t.co/xckqumeOv3"
+              }
+            ]
+          }
+        },
+        "id": "1651018702534627328",
+        "location": "🚪99/199/299/520/1314喜欢请投喂喵",
+        "name": "纯（私信上限回不了消息）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991790852507865088/YIQ6Y_si_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 116,
+          "like_count": 1152,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 425
+        },
+        "username": "cunlove52",
+        "verified": false
+      }
+    ]
+  }
+}

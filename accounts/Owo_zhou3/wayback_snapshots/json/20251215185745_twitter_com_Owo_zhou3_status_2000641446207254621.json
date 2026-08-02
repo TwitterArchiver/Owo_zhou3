@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2000556757735866814",
+    "created_at": "2025-12-15T18:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T19:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000641446207254621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1951231701281284097",
+          "start": 0,
+          "username": "Mimik__t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000641446207254621",
+    "in_reply_to_user_id": "1951231701281284097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000637364079849629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimik__t 我不知道呀宝贝不好意思啊 你说了我才明白 我冲浪看到觉得很好笑就分享了。 ᵒ̴̶̷̥́ㅂᵒ̴̶̷̣̥̀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2000556757735866814",
+        "created_at": "2025-12-15T18:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T19:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000641446207254621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1951231701281284097",
+              "start": 0,
+              "username": "Mimik__t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000641446207254621",
+        "in_reply_to_user_id": "1951231701281284097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000637364079849629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimik__t 我不知道呀宝贝不好意思啊 你说了我才明白 我冲浪看到觉得很好笑就分享了。 ᵒ̴̶̷̥́ㅂᵒ̴̶̷̣̥̀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951231701281284097",
+        "conversation_id": "2000556757735866814",
+        "created_at": "2025-12-15T18:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T19:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000637364079849629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000637364079849629",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000556757735866814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 可不可以不要污蔑小朋友啊 求你们了 小朋友们喊的是“你好” 有点道德感吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3052,
+          "following_count": 113,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1825
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T10:41:16.000Z",
+        "description": "",
+        "id": "1951231701281284097",
+        "name": "mi mi k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974555597233397761/NG7AtdSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "Mimik__t",
+        "verified": false
+      }
+    ]
+  }
+}

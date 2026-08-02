@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1991902796640395695",
+    "created_at": "2025-11-21T17:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991915145224912992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935399856048336896",
+          "start": 0,
+          "username": "gw423423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991915145224912992",
+    "in_reply_to_user_id": "1935399856048336896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991915093194682474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gw423423 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1991902796640395695",
+        "created_at": "2025-11-21T17:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991915145224912992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935399856048336896",
+              "start": 0,
+              "username": "gw423423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991915145224912992",
+        "in_reply_to_user_id": "1935399856048336896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991915093194682474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gw423423 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935399856048336896",
+        "conversation_id": "1991902796640395695",
+        "created_at": "2025-11-21T17:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991915093194682474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991915093194682474",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991902796640395695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 ？？你也接到了？行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 69,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T18:11:17.000Z",
+        "description": "infp 男 一天不知道在想什么 很乱一个人 低精力 想的多做的少 内耗多吧，不想做好人，不坏就行了，欢迎交友，虽然我也不知道为什么要和我交友。如果觉得我的发言让你不舒服请拉黑。谢谢，祝你平安顺遂，开心就好。如果你要说什么，我会说：行🤓",
+        "id": "1935399856048336896",
+        "name": "🧃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972130225686560768/7yqOWYS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 100,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1202
+        },
+        "username": "gw423423",
+        "verified": false
+      }
+    ]
+  }
+}

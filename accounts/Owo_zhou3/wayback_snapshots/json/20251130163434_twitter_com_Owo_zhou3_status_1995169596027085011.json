@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1995153284601098437",
+    "created_at": "2025-11-30T16:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995169596027085011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789309717225025536",
+          "start": 0,
+          "username": "tang_wumin83444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995169596027085011",
+    "in_reply_to_user_id": "1789309717225025536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995165932692586777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang_wumin83444 谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1995153284601098437",
+        "created_at": "2025-11-30T16:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995169596027085011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789309717225025536",
+              "start": 0,
+              "username": "tang_wumin83444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995169596027085011",
+        "in_reply_to_user_id": "1789309717225025536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995165932692586777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang_wumin83444 谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789309717225025536",
+        "conversation_id": "1995153284601098437",
+        "created_at": "2025-11-30T16:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995165932692586777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995165932692586777",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995153284601098437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2649,
+          "following_count": 78,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T15:01:53.000Z",
+        "description": "",
+        "id": "1789309717225025536",
+        "name": "看不懂乱溜达的该溜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985392962520674304/rED1ItsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 6,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 148
+        },
+        "username": "tang_wumin83444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1987824050702540812",
+    "created_at": "2025-11-11T11:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T12:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988209974095605938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697814206903361536",
+          "start": 0,
+          "username": "Ttttjx1124"
+        },
+        {
+          "end": 20,
+          "id": "1324615760841445381",
+          "start": 12,
+          "username": "NaMei75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988209974095605938",
+    "in_reply_to_user_id": "1697814206903361536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988209881909018848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttttjx1124 @NaMei75 我也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1987824050702540812",
+        "created_at": "2025-11-11T11:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988209974095605938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697814206903361536",
+              "start": 0,
+              "username": "Ttttjx1124"
+            },
+            {
+              "end": 20,
+              "id": "1324615760841445381",
+              "start": 12,
+              "username": "NaMei75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988209974095605938",
+        "in_reply_to_user_id": "1697814206903361536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988209881909018848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttttjx1124 @NaMei75 我也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697814206903361536",
+        "conversation_id": "1987824050702540812",
+        "created_at": "2025-11-11T11:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988209881909018848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1324615760841445381",
+              "start": 0,
+              "username": "NaMei75"
+            },
+            {
+              "end": 19,
+              "id": "1962554097120485377",
+              "start": 9,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988209881909018848",
+        "in_reply_to_user_id": "1324615760841445381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987824050702540812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaMei75 @Owo_zhou3 我也会这样急眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 54,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T03:30:40.000Z",
+        "description": "",
+        "id": "1697814206903361536",
+        "name": "忧忧又郁郁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988189959355068418/B1qzhq53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "Ttttjx1124",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-06T07:33:18.000Z",
+        "description": "占有欲",
+        "id": "1324615760841445381",
+        "location": "🚪45",
+        "name": "娜美",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539285049916665856/imkJtE1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24434,
+          "following_count": 62,
+          "like_count": 131,
+          "listed_count": 43,
+          "media_count": 56,
+          "tweet_count": 76
+        },
+        "username": "NaMei75",
+        "verified": false
+      }
+    ]
+  }
+}

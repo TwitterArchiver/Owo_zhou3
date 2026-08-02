@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993909994912350605",
+    "created_at": "2025-11-28T02:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T03:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994226937733238946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1970838581813051392",
+          "start": 0,
+          "username": "q9zi_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994226937733238946",
+    "in_reply_to_user_id": "1970838581813051392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993909994912350605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q9zi_1 微博私信有人给我发迪奥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993909994912350605",
+        "created_at": "2025-11-28T02:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994226937733238946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1970838581813051392",
+              "start": 0,
+              "username": "q9zi_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994226937733238946",
+        "in_reply_to_user_id": "1970838581813051392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993909994912350605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q9zi_1 微博私信有人给我发迪奥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970838581813051392",
+        "conversation_id": "1993909994912350605",
+        "created_at": "2025-11-27T05:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993909994912350605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993909994912350605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微博私信神人不比推少 特别多一些中年男子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 78,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T13:12:05.000Z",
+        "description": "欢迎再次来到我的世界。",
+        "id": "1970838581813051392",
+        "location": "🐈",
+        "name": "麦当劳被捕薯条",
+        "pinned_tweet_id": "1985644214055813181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970844433630568449/NfthXuLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 201,
+          "like_count": 3394,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 4271
+        },
+        "username": "q9zi_1",
+        "verified": false
+      }
+    ]
+  }
+}

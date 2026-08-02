@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2052252779851452694",
+    "created_at": "2026-05-07T08:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052309933929177403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049563479561166848",
+          "start": 0,
+          "username": "lilioxoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052309933929177403",
+    "in_reply_to_user_id": "2049563479561166848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052308214226808845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilioxoTvT 牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2052252779851452694",
+        "created_at": "2026-05-07T08:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052309933929177403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049563479561166848",
+              "start": 0,
+              "username": "lilioxoTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052309933929177403",
+        "in_reply_to_user_id": "2049563479561166848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052308214226808845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilioxoTvT 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049563479561166848",
+        "conversation_id": "2052252779851452694",
+        "created_at": "2026-05-07T08:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052308214226808845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052308214226808845",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052252779851452694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我朋友干语音厅有个大姐给他刷了10w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5066,
+          "following_count": 114,
+          "like_count": 1005,
+          "listed_count": 5,
+          "media_count": 381,
+          "tweet_count": 3409
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T18:56:33.000Z",
+        "description": "17高三｜163cm49kg｜只爱青年｜不约不卖不陪聊｜只是爱发牢骚｜喜欢的声音会回｜我很玻璃心｜青年音主理人-本人会根据本人爱好评价等级 已魔怔",
+        "id": "2049563479561166848",
+        "location": "Nakano-ku, Tokyo",
+        "name": "莉梨窝",
+        "pinned_tweet_id": "2052246640971710514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052116809550336000/rEu4byrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 35
+        },
+        "username": "lilioxoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

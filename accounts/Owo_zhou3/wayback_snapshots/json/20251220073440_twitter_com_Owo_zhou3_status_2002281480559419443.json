@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2002281480559419443",
+    "created_at": "2025-12-20T07:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T08:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002281480559419443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yiyi_02014/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yiyi_02014/status/2001982723897127378",
+          "start": 2,
+          "url": "https://t.co/EalyLSkoaZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002281480559419443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001982723897127378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/EalyLSkoaZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_2001982720423940096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8h4rWFW0AA5cNH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2002281480559419443",
+        "created_at": "2025-12-20T07:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002281480559419443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yiyi_02014/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yiyi_02014/status/2001982723897127378",
+              "start": 2,
+              "url": "https://t.co/EalyLSkoaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002281480559419443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001982723897127378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/EalyLSkoaZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001982720423940096"
+          ]
+        },
+        "author_id": "1961727243887296512",
+        "conversation_id": "2001982723897127378",
+        "created_at": "2025-12-19T11:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001982723897127378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDbTGsrOQ2",
+              "end": 48,
+              "expanded_url": "https://x.com/yiyi_02014/status/2001982723897127378/photo/1",
+              "media_key": "3_2001982720423940096",
+              "start": 25,
+              "url": "https://t.co/bDbTGsrOQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001982723897127378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14796,
+          "like_count": 379,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "跨年那天晚上我将不会点开朋友圈 因为全是秀转账的 https://t.co/bDbTGsrOQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 114,
+          "like_count": 737,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-30T09:47:21.000Z",
+        "description": "梦到啥发啥｜可以叫我小猫｜不谈不线下｜谢谢喜欢｜废话很多｜纯绿🚪88 不收口令｜没有陪你聊天的义务｜置顶推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyi_02014",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiyi_02014",
+                "start": 0,
+                "url": "https://t.co/YL2kayjyDK"
+              }
+            ]
+          }
+        },
+        "id": "1961727243887296512",
+        "location": "猫窝",
+        "name": "cat",
+        "pinned_tweet_id": "2002251969025749111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997286389814091776/yKN1kIsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 229,
+          "like_count": 22500,
+          "listed_count": 4,
+          "media_count": 212,
+          "tweet_count": 3015
+        },
+        "url": "https://t.co/YL2kayjyDK",
+        "username": "yiyi_02014",
+        "verified": false
+      }
+    ]
+  }
+}

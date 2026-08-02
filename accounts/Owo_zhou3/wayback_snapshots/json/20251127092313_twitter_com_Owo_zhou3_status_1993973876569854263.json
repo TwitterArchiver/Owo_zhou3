@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993973864737722371"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1993973876569854263",
+    "created_at": "2025-11-27T09:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993973876569854263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhmrCuLf4Z",
+          "end": 91,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1993973876569854263/photo/1",
+          "media_key": "3_1993973864737722371",
+          "start": 68,
+          "url": "https://t.co/bhmrCuLf4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993973876569854263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们刷没刷到这个我真看的力竭了 太几把恶心了 多会性压抑成这样了？我真受不了了拿个破玉米棒子在那一直引导评论区还一堆叫爸爸的咋想的!？ https://t.co/bhmrCuLf4Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2031,
+        "media_key": "3_1993973864737722371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wEqlsa0AM1b_2.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993973864737722371"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993973876569854263",
+        "created_at": "2025-11-27T09:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993973876569854263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhmrCuLf4Z",
+              "end": 91,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1993973876569854263/photo/1",
+              "media_key": "3_1993973864737722371",
+              "start": 68,
+              "url": "https://t.co/bhmrCuLf4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993973876569854263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们刷没刷到这个我真看的力竭了 太几把恶心了 多会性压抑成这样了？我真受不了了拿个破玉米棒子在那一直引导评论区还一堆叫爸爸的咋想的!？ https://t.co/bhmrCuLf4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜欢迎互关🎄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 78,
+          "like_count": 453,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

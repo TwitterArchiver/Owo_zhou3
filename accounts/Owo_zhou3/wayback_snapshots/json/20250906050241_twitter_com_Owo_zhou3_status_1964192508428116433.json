@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964192508428116433",
+    "created_at": "2025-09-06T05:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964192508428116433"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964192508428116433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今晚这个丝瓜做得不错😋👍味道很鲜😘对啦😉☝️丝瓜要好吃的秘诀呢🥴就是多加味精🥰因为只有味精加的多了😏这个丝瓜汤吃起来才够xuan😝那你错了😒丝瓜要好吃呢😋它只要加一点点那个香油和盐就行了😍🤏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964192508428116433",
+        "created_at": "2025-09-06T05:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964192508428116433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964192508428116433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚这个丝瓜做得不错😋👍味道很鲜😘对啦😉☝️丝瓜要好吃的秘诀呢🥴就是多加味精🥰因为只有味精加的多了😏这个丝瓜汤吃起来才够xuan😝那你错了😒丝瓜要好吃呢😋它只要加一点点那个香油和盐就行了😍🤏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 44,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

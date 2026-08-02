@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1983574829526872442",
+    "created_at": "2025-12-10T23:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T00:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998897096053936262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1768281973888630784",
+          "start": 0,
+          "username": "TCYPoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998897096053936262",
+    "in_reply_to_user_id": "1768281973888630784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983574829526872442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TCYPoo 爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 720,
+        "media_key": "7_1983574766603923458",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983574766603923458/pu/img/Y8VQLt3wudY2I_x1.jpg",
+        "public_metrics": {
+          "view_count": 84
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983574766603923458/pu/vid/avc1/320x320/Hfj_dswjyDEuZKGe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983574766603923458/pu/vid/avc1/540x540/sTBcvRl_J_zCyoAU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983574766603923458/pu/vid/avc1/720x720/aCGV-ggVpn11DVh0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983574766603923458/pu/pl/lTk7CYilK6IOjfeE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1983574829526872442",
+        "created_at": "2025-12-10T23:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T00:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998897096053936262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1768281973888630784",
+              "start": 0,
+              "username": "TCYPoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998897096053936262",
+        "in_reply_to_user_id": "1768281973888630784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983574829526872442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TCYPoo 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983574766603923458"
+          ]
+        },
+        "author_id": "1768281973888630784",
+        "conversation_id": "1983574829526872442",
+        "created_at": "2025-10-29T16:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983574829526872442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBjcu9dICg",
+              "end": 54,
+              "expanded_url": "https://x.com/TCYPoo/status/1983574829526872442/video/1",
+              "media_key": "7_1983574766603923458",
+              "start": 31,
+              "url": "https://t.co/OBjcu9dICg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983574829526872442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我允许你离开我了吗 你的掌纹里没有我的命运 那就割出来知道吗 https://t.co/OBjcu9dICg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 103,
+          "like_count": 599,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T14:24:47.000Z",
+        "description": "",
+        "id": "1768281973888630784",
+        "name": "晨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886848031183839232/ciOz8No1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 96,
+          "like_count": 100,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 104
+        },
+        "username": "TCYPoo",
+        "verified": false
+      }
+    ]
+  }
+}

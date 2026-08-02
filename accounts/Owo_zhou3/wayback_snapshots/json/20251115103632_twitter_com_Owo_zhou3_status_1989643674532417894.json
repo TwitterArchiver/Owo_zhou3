@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1989570256504066100",
+    "created_at": "2025-11-15T10:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T11:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989643674532417894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1363287901438504964",
+          "start": 0,
+          "username": "Dreamwith_you_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989643674532417894",
+    "in_reply_to_user_id": "1363287901438504964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989570256504066100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dreamwith_you_ 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1989570256504066100",
+        "created_at": "2025-11-15T10:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989643674532417894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1363287901438504964",
+              "start": 0,
+              "username": "Dreamwith_you_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989643674532417894",
+        "in_reply_to_user_id": "1363287901438504964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989570256504066100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dreamwith_you_ 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363287901438504964",
+        "conversation_id": "1989570256504066100",
+        "created_at": "2025-11-15T05:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989570256504066100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989570256504066100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1285,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本人的声音装萌妹过于刻意 装御姐又不够成熟 装牛就刚好了 哞一声就犁地去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 65,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T00:42:32.000Z",
+        "description": "叹息墙下 任人粉刷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "usr.tachvip.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://usr.tachvip.com/#/register?code=ZZtU3l6c",
+                "start": 0,
+                "url": "https://t.co/DEC6qQtjzu"
+              }
+            ]
+          }
+        },
+        "id": "1363287901438504964",
+        "location": "距离你1.7km",
+        "name": "莺",
+        "pinned_tweet_id": "1988587945616683205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988585052855525376/5Pd89Zlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25424,
+          "following_count": 450,
+          "like_count": 16691,
+          "listed_count": 37,
+          "media_count": 69,
+          "tweet_count": 9591
+        },
+        "url": "https://t.co/DEC6qQtjzu",
+        "username": "Dreamwith_you_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1996016280717939123",
+    "created_at": "2025-12-03T06:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T07:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996097237743763639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1517790640813207552",
+          "start": 0,
+          "username": "XiaoQ177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996097237743763639",
+    "in_reply_to_user_id": "1517790640813207552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996016280717939123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQ177 我也想问我没腋毛我身边人都很震惊想看我胳肢窝但是特别痒嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1996016280717939123",
+        "created_at": "2025-12-03T06:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996097237743763639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1517790640813207552",
+              "start": 0,
+              "username": "XiaoQ177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996097237743763639",
+        "in_reply_to_user_id": "1517790640813207552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996016280717939123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQ177 我也想问我没腋毛我身边人都很震惊想看我胳肢窝但是特别痒嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517790640813207552",
+        "conversation_id": "1996016280717939123",
+        "created_at": "2025-12-03T00:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996016280717939123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996016280717939123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3321,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我天生没有腋毛但是有b毛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 78,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1497
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T09:01:14.000Z",
+        "description": "三文鱼全球推广大使🪽有老公 互关来：@SaIm0n_3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "SaIm0n_3"
+              }
+            ]
+          }
+        },
+        "id": "1517790640813207552",
+        "location": "喜欢我请给我打钱",
+        "name": "Milliucat",
+        "pinned_tweet_id": "1993541863924441416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976658369277759488/9aLRIoQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6562,
+          "following_count": 96,
+          "like_count": 4991,
+          "listed_count": 8,
+          "media_count": 633,
+          "tweet_count": 4609
+        },
+        "username": "XiaoQ177",
+        "verified": false
+      }
+    ]
+  }
+}

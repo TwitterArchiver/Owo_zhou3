@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994030735255113835",
+    "created_at": "2025-11-28T06:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994290911682154960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1925182192885649408",
+          "start": 0,
+          "username": "dddazz6ouj"
+        },
+        {
+          "end": 19,
+          "id": "1970838581813051392",
+          "start": 12,
+          "username": "q9zi_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994290911682154960",
+    "in_reply_to_user_id": "1925182192885649408",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994250938748449212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddazz6ouj @q9zi_1 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994030735255113835",
+        "created_at": "2025-11-28T06:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994290911682154960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925182192885649408",
+              "start": 0,
+              "username": "dddazz6ouj"
+            },
+            {
+              "end": 19,
+              "id": "1970838581813051392",
+              "start": 12,
+              "username": "q9zi_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994290911682154960",
+        "in_reply_to_user_id": "1925182192885649408",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994250938748449212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddazz6ouj @q9zi_1 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925182192885649408",
+        "conversation_id": "1994030735255113835",
+        "created_at": "2025-11-28T03:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994250938748449212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 18,
+              "id": "1970838581813051392",
+              "start": 11,
+              "username": "q9zi_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994250938748449212",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994226855608537138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @q9zi_1 姐妹看看买家秀 怕踩雷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自便",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 78,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1326
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T13:29:46.000Z",
+        "description": "皮下男",
+        "id": "1925182192885649408",
+        "location": "北京",
+        "name": "dddazz .",
+        "pinned_tweet_id": "1926569063490240819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925182879816192000/6byHjVZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 219,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 295
+        },
+        "username": "dddazz6ouj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T13:12:05.000Z",
+        "description": "欢迎再次来到我的世界。",
+        "id": "1970838581813051392",
+        "location": "🐈",
+        "name": "麦当劳被捕薯条",
+        "pinned_tweet_id": "1985644214055813181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970844433630568449/NfthXuLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 201,
+          "like_count": 3394,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 4281
+        },
+        "username": "q9zi_1",
+        "verified": false
+      }
+    ]
+  }
+}

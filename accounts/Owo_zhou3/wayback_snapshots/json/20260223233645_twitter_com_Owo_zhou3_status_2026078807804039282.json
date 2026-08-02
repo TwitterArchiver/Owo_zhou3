@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2026078807804039282",
+    "created_at": "2026-02-23T23:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T00:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026078807804039282"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026078807804039282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说的简单的 X发布小脑言论的太多了有些人现实不被在意就喜欢来网上找存在感 而X这个比较自由的地方就被部分人盯上了 评论区和私信经常收到的骚扰都是小脑控制大脑 精虫上脑的人发癫 这个软件就是 龟男 骗子 皮下 常常被那些皮下圈钱的骗的也只有可能是我说的那种人了 就连那么明显机器人居然都会相信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2026078807804039282",
+        "created_at": "2026-02-23T23:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T00:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026078807804039282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026078807804039282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说的简单的 X发布小脑言论的太多了有些人现实不被在意就喜欢来网上找存在感 而X这个比较自由的地方就被部分人盯上了 评论区和私信经常收到的骚扰都是小脑控制大脑 精虫上脑的人发癫 这个软件就是 龟男 骗子 皮下 常常被那些皮下圈钱的骗的也只有可能是我说的那种人了 就连那么明显机器人居然都会相信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 102,
+          "like_count": 897,
+          "listed_count": 4,
+          "media_count": 307,
+          "tweet_count": 2801
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

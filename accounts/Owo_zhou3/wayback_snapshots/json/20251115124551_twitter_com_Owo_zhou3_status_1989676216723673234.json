@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1989306461357519032",
+    "created_at": "2025-11-15T12:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989676216723673234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1826321786834944000",
+          "start": 0,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989676216723673234",
+    "in_reply_to_user_id": "1826321786834944000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989306461357519032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds520 这很正常我就是这样也不是每个人是这样反正我是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1989306461357519032",
+        "created_at": "2025-11-15T12:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989676216723673234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1826321786834944000",
+              "start": 0,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989676216723673234",
+        "in_reply_to_user_id": "1826321786834944000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989306461357519032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds520 这很正常我就是这样也不是每个人是这样反正我是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1989306461357519032",
+        "created_at": "2025-11-14T12:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989306461357519032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989306461357519032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12089,
+          "like_count": 134,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我说话特别没逻辑，莫名其妙的那种没逻辑，跳跃性特别大，跟我一起散步的时候聊天就会感觉到，而且我嘴特别碎话特别密，感觉像疯子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 67,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "感谢关注和支持/文案来源于网络 祝大家天天开心/接训练饮食计划 /接回收账号 价格美丽",
+        "id": "1826321786834944000",
+        "location": "苏州",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1989590391121932729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3605,
+          "following_count": 667,
+          "like_count": 9293,
+          "listed_count": 9,
+          "media_count": 118,
+          "tweet_count": 757
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

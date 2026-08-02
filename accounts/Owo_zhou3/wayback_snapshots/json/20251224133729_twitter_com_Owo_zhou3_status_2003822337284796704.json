@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003822337284796704",
+    "created_at": "2025-12-24T13:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T14:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003822337284796704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003822337284796704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "答应我，今晚扮演小麋鹿可以，但是不要被骑，腿只用来走路不要架在别人肩膀上，嘴只用来吃苹果好吗？不要羡慕那些有人送苹果的女孩子，其实那些女孩都是以吃苹果的名义被骗去吃香蕉了,最后还喝了豆浆,苹果的英语怎么说，挨炮。杜蕾斯超薄提醒您：平安夜就是今晚了，姿势千万条，安全第一条，今天不戴套，孩子摩羯座，属蛇，2048年高考。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "答应我，今晚扮演小麋鹿可以，但是不要被骑，腿只用来走路不要架在别人肩膀上，嘴只用来吃苹果好吗？不要羡慕那些有人送苹果的女孩子，其实那些女孩都是以吃苹果的名义被骗去吃香蕉了,最后还喝了豆浆,苹果的英语怎么说，挨炮。杜蕾斯超薄提醒您：平安夜就是今晚了，姿势千万条，安全第一条，今天不戴套"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003822337284796704",
+        "created_at": "2025-12-24T13:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T14:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003822337284796704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003822337284796704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "答应我，今晚扮演小麋鹿可以，但是不要被骑，腿只用来走路不要架在别人肩膀上，嘴只用来吃苹果好吗？不要羡慕那些有人送苹果的女孩子，其实那些女孩都是以吃苹果的名义被骗去吃香蕉了,最后还喝了豆浆,苹果的英语怎么说，挨炮。杜蕾斯超薄提醒您：平安夜就是今晚了，姿势千万条，安全第一条，今天不戴套，孩子摩羯座，属蛇，2048年高考。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "答应我，今晚扮演小麋鹿可以，但是不要被骑，腿只用来走路不要架在别人肩膀上，嘴只用来吃苹果好吗？不要羡慕那些有人送苹果的女孩子，其实那些女孩都是以吃苹果的名义被骗去吃香蕉了,最后还喝了豆浆,苹果的英语怎么说，挨炮。杜蕾斯超薄提醒您：平安夜就是今晚了，姿势千万条，安全第一条，今天不戴套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3608,
+          "following_count": 116,
+          "like_count": 782,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      }
+    ]
+  }
+}

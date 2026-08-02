@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963940434058572140",
+    "created_at": "2025-09-05T12:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963940434058572140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/cldeop/status/1963742997591498973",
+          "start": 8,
+          "url": "https://t.co/eSVY7qDowH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963940434058572140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963742997591498973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真死你又不乐意 https://t.co/eSVY7qDowH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_1963742989039333376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Cd2BvacAAguSk.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963940434058572140",
+        "created_at": "2025-09-05T12:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963940434058572140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/cldeop/status/1963742997591498973",
+              "start": 8,
+              "url": "https://t.co/eSVY7qDowH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963940434058572140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963742997591498973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真死你又不乐意 https://t.co/eSVY7qDowH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963742989039333376"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1963742997591498973",
+        "created_at": "2025-09-04T23:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T00:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963742997591498973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbBo3vQEnk",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1963742997591498973/photo/1",
+              "media_key": "3_1963742989039333376",
+              "start": 0,
+              "url": "https://t.co/mbBo3vQEnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963742997591498973",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5685,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mbBo3vQEnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963931431652249966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 107
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77238,
+          "following_count": 624,
+          "like_count": 30334,
+          "listed_count": 247,
+          "media_count": 11972,
+          "tweet_count": 16921
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

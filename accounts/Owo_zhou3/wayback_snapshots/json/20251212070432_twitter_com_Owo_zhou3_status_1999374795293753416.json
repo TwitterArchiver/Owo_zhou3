@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1999058347442700511",
+    "created_at": "2025-12-12T07:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999374795293753416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1356205035114250241",
+          "start": 0,
+          "username": "7an9_7ang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999374795293753416",
+    "in_reply_to_user_id": "1356205035114250241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999368455288750498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7an9_7ang 我没有啊闺蜜 我在玩梗🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1999058347442700511",
+        "created_at": "2025-12-12T07:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999374795293753416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1356205035114250241",
+              "start": 0,
+              "username": "7an9_7ang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999374795293753416",
+        "in_reply_to_user_id": "1356205035114250241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999368455288750498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7an9_7ang 我没有啊闺蜜 我在玩梗🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356205035114250241",
+        "conversation_id": "1999058347442700511",
+        "created_at": "2025-12-12T06:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999368455288750498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999368455288750498",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999321067790434685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 自己犯贱被骂 为什么还要骂别人是孙笑川啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 108,
+          "like_count": 606,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T11:38:02.000Z",
+        "description": "你好",
+        "id": "1356205035114250241",
+        "name": "堂堂",
+        "pinned_tweet_id": "1499415703291830272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935900617383231489/UHDyVHDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 91,
+          "like_count": 178,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 206
+        },
+        "username": "7an9_7ang",
+        "verified": false
+      }
+    ]
+  }
+}

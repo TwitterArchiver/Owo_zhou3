@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963641504146366538",
+    "created_at": "2025-09-05T12:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963943110431449327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902978487662809090",
+          "start": 0,
+          "username": "justin405332629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963943110431449327",
+    "in_reply_to_user_id": "1902978487662809090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963641504146366538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justin405332629 可以试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963641504146366538",
+        "created_at": "2025-09-05T12:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963943110431449327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902978487662809090",
+              "start": 0,
+              "username": "justin405332629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963943110431449327",
+        "in_reply_to_user_id": "1902978487662809090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963641504146366538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justin405332629 可以试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902978487662809090",
+        "conversation_id": "1963641504146366538",
+        "created_at": "2025-09-04T16:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963641504146366538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963641504146366538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6967,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "话到嘴边又咽回去会不会有饱腹感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963931431652249966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 110
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:00:11.000Z",
+        "description": "ENFP ｜长发男短发男时不时切换｜清水｜1i｜双子座♊｜可以叫我小玉｜链接是提问箱｜回关喜欢，因为想把这里当成朋友圈刷，会先看看内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justin405332629",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justin405332629",
+                "start": 0,
+                "url": "https://t.co/AEMLOdMk4e"
+              }
+            ]
+          }
+        },
+        "id": "1902978487662809090",
+        "location": "关注全是互关（除11个）",
+        "name": "广式双马尾",
+        "pinned_tweet_id": "1941131523874509040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950632626752200704/-M7ipJKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 808,
+          "like_count": 23074,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 8439
+        },
+        "url": "https://t.co/AEMLOdMk4e",
+        "username": "justin405332629",
+        "verified": false
+      }
+    ]
+  }
+}

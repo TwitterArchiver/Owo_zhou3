@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988112884623421440"
+      ],
+      "media_source_tweet_id": [
+        "1988112900737933354"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988425919724482643",
+    "created_at": "2025-11-12T01:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T02:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988425919724482643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906683410594381824",
+          "start": 3,
+          "username": "wngkn194344"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RhsVQUQhQ3",
+          "end": 51,
+          "expanded_url": "https://x.com/wngkn194344/status/1988112900737933354/photo/1",
+          "media_key": "3_1988112884623421440",
+          "start": 28,
+          "url": "https://t.co/RhsVQUQhQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988425919724482643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988112900737933354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wngkn194344: 此人实力恐在我之上😨 https://t.co/RhsVQUQhQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1717,
+        "media_key": "3_1988112884623421440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cyIpVbMAAS034.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988112884623421440"
+          ],
+          "media_source_tweet_id": [
+            "1988112900737933354"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988425919724482643",
+        "created_at": "2025-11-12T01:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988425919724482643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906683410594381824",
+              "start": 3,
+              "username": "wngkn194344"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhsVQUQhQ3",
+              "end": 51,
+              "expanded_url": "https://x.com/wngkn194344/status/1988112900737933354/photo/1",
+              "media_key": "3_1988112884623421440",
+              "start": 28,
+              "url": "https://t.co/RhsVQUQhQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988425919724482643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988112900737933354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wngkn194344: 此人实力恐在我之上😨 https://t.co/RhsVQUQhQ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988112884623421440"
+          ]
+        },
+        "author_id": "1906683410594381824",
+        "conversation_id": "1988112900737933354",
+        "created_at": "2025-11-11T05:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988112900737933354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhsVQUQhQ3",
+              "end": 34,
+              "expanded_url": "https://x.com/wngkn194344/status/1988112900737933354/photo/1",
+              "media_key": "3_1988112884623421440",
+              "start": 11,
+              "url": "https://t.co/RhsVQUQhQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988112900737933354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 42133,
+          "like_count": 579,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "此人实力恐在我之上😨 https://t.co/RhsVQUQhQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 55,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T12:22:54.000Z",
+        "description": "冰糖雪梨有点甜！",
+        "id": "1906683410594381824",
+        "name": "冰糖雪梨（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916040261484089346/Hfv62UfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3919,
+          "following_count": 2250,
+          "like_count": 1568,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 126
+        },
+        "username": "wngkn194344",
+        "verified": false
+      }
+    ]
+  }
+}

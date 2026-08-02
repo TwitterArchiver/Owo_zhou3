@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1991863524214366554",
+    "created_at": "2025-11-21T13:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991863524214366554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akanpc/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/akanpc/status/1991783720513355986",
+          "start": 8,
+          "url": "https://t.co/lndbCuFlyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991863524214366554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991783720513355986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会说想要谢谢 https://t.co/lndbCuFlyi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1991863524214366554",
+        "created_at": "2025-11-21T13:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991863524214366554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akanpc/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/akanpc/status/1991783720513355986",
+              "start": 8,
+              "url": "https://t.co/lndbCuFlyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991863524214366554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991783720513355986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会说想要谢谢 https://t.co/lndbCuFlyi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1991783720513355986",
+        "created_at": "2025-11-21T08:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991783720513355986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991783720513355986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 13727,
+          "like_count": 242,
+          "quote_count": 13,
+          "reply_count": 27,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我听过 “想要吗 给你买” 也听过 “怕你不喜欢就没买” 却始终没听见 “送你的 我想你会喜欢”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 68,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/AM3r3Y",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/AM3r3Y",
+                "start": 0,
+                "url": "https://t.co/xpg16bPmSN"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "1909985102790349042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919715132814581760/ArvfnMh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11305,
+          "following_count": 124,
+          "like_count": 9272,
+          "listed_count": 16,
+          "media_count": 142,
+          "tweet_count": 2551
+        },
+        "url": "https://t.co/xpg16bPmSN",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

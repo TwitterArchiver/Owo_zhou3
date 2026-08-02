@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994965270033789151",
+    "created_at": "2025-11-30T18:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T19:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995191198240346385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1835719450294898688",
+          "start": 0,
+          "username": "kind4376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995191198240346385",
+    "in_reply_to_user_id": "1835719450294898688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994965270033789151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kind4376 我操"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_1994965262530138112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-KViRaUAA1gis.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994965270033789151",
+        "created_at": "2025-11-30T18:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T19:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995191198240346385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1835719450294898688",
+              "start": 0,
+              "username": "kind4376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995191198240346385",
+        "in_reply_to_user_id": "1835719450294898688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994965270033789151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kind4376 我操"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994965262530138112"
+          ]
+        },
+        "author_id": "1835719450294898688",
+        "conversation_id": "1994965270033789151",
+        "created_at": "2025-11-30T03:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994965270033789151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WHOvRxr3C",
+              "end": 41,
+              "expanded_url": "https://x.com/kind4376/status/1994965270033789151/photo/1",
+              "media_key": "3_1994965262530138112",
+              "start": 18,
+              "url": "https://t.co/9WHOvRxr3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994965270033789151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次在那抽搐的时候可没现在这么嘴硬 https://t.co/9WHOvRxr3C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 78,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:36:47.000Z",
+        "description": "你可以整点薯条  也可以和我闲聊 欢迎薯条 欢迎闲聊",
+        "id": "1835719450294898688",
+        "location": "-20",
+        "name": "整点啤啤🍺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994501748023857152/sMdQyLZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 34,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 336
+        },
+        "username": "kind4376",
+        "verified": false
+      }
+    ]
+  }
+}

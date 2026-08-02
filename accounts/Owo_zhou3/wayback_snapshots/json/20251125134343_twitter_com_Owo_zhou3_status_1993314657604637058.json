@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993143853831143533",
+    "created_at": "2025-11-25T13:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993314657604637058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831384254909181955",
+          "start": 0,
+          "username": "tnglngx480156"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993314657604637058",
+    "in_reply_to_user_id": "1831384254909181955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993143853831143533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tnglngx480156 笑得我肚子疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20759,
+        "height": 1280,
+        "media_key": "13_1992968974678609920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992968974678609920/img/SsX_HoiR5sq23Zo5.jpg",
+        "public_metrics": {
+          "view_count": 59122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992968974678609920/vid/avc1/320x568/U-b9k6RuRGLCQYuQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992968974678609920/vid/avc1/480x852/2tgmCfYUu7fas1Bk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992968974678609920/vid/avc1/720x1280/hqhEooGQbIF29ncc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992968974678609920/pl/SnuqtAPCtDgakiqu.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993143853831143533",
+        "created_at": "2025-11-25T13:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993314657604637058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831384254909181955",
+              "start": 0,
+              "username": "tnglngx480156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993314657604637058",
+        "in_reply_to_user_id": "1831384254909181955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993143853831143533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnglngx480156 笑得我肚子疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992968974678609920"
+          ]
+        },
+        "author_id": "1831384254909181955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993143853831143533",
+        "created_at": "2025-11-25T02:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993143853831143533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7IGLtNGyC",
+              "end": 35,
+              "expanded_url": "https://x.com/tnglngx480156/status/1993143853831143533/video/1",
+              "media_key": "13_1992968974678609920",
+              "start": 12,
+              "url": "https://t.co/p7IGLtNGyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993143853831143533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 113955,
+          "like_count": 225,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "学书法最恐怖的事情之一 https://t.co/p7IGLtNGyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 77,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T17:30:24.000Z",
+        "description": "Ordinary girl, love to travel, like to share their daily life, welcome everyone to pay attention to me,Follow me, 100% follow back.",
+        "id": "1831384254909181955",
+        "location": "Northwest，China",
+        "name": "Moledy",
+        "pinned_tweet_id": "1992089154122059848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833814119251898368/LuTe-8S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13203,
+          "following_count": 7457,
+          "like_count": 61007,
+          "listed_count": 27,
+          "media_count": 1464,
+          "tweet_count": 9005
+        },
+        "username": "tnglngx480156",
+        "verified": false
+      }
+    ]
+  }
+}

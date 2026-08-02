@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2023041608338514375",
+    "created_at": "2026-02-16T02:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023223656625889463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900605932901683200",
+          "start": 0,
+          "username": "Ashyaway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023223656625889463",
+    "in_reply_to_user_id": "1900605932901683200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023129631021281463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ashyaway 一滴泪本来就是废墟 鹅母发力中.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2023041608338514375",
+        "created_at": "2026-02-16T02:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023223656625889463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900605932901683200",
+              "start": 0,
+              "username": "Ashyaway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023223656625889463",
+        "in_reply_to_user_id": "1900605932901683200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023129631021281463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ashyaway 一滴泪本来就是废墟 鹅母发力中.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900605932901683200",
+        "conversation_id": "2023041608338514375",
+        "created_at": "2026-02-15T20:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T21:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023129631021281463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023129631021281463",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023041608338514375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 看来一滴泪也准备成废墟了 鹅母发力中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 99,
+          "like_count": 891,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 2686
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T17:52:33.000Z",
+        "description": "",
+        "id": "1900605932901683200",
+        "name": "幸福漂亮有钱人",
+        "pinned_tweet_id": "1938633908490240253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901648266447745024/Gfwl5GY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 26,
+          "like_count": 9543,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3048
+        },
+        "username": "Ashyaway",
+        "verified": false
+      }
+    ]
+  }
+}

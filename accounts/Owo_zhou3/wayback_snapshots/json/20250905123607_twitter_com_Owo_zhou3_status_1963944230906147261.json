@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963819321852842228",
+    "created_at": "2025-09-05T12:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963944230906147261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870742151531012096",
+          "start": 0,
+          "username": "litchi77zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963944230906147261",
+    "in_reply_to_user_id": "1870742151531012096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963819321852842228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litchi77zz 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963819321852842228",
+        "created_at": "2025-09-05T12:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963944230906147261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870742151531012096",
+              "start": 0,
+              "username": "litchi77zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963944230906147261",
+        "in_reply_to_user_id": "1870742151531012096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963819321852842228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litchi77zz 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870742151531012096",
+        "conversation_id": "1963819321852842228",
+        "created_at": "2025-09-05T04:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963819321852842228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963819321852842228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2949,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来推特玩的好像就是一群特别内耗的和一群特别不内耗的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963931431652249966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 111
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T08:04:45.000Z",
+        "description": "我的小猫世界第一｜大家都要快快乐乐幸幸福福🤍｜这里是我的碎碎念日记本 也是我的pyq｜偶尔🟡废料1下",
+        "id": "1870742151531012096",
+        "location": "喵咪乐园≽^•༚•🎀≼",
+        "name": "爱吃荔枝肚子饱（学习版）",
+        "pinned_tweet_id": "1954071672103088179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937183464815558656/GKrzJW6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4189,
+          "following_count": 269,
+          "like_count": 33660,
+          "listed_count": 6,
+          "media_count": 844,
+          "tweet_count": 6504
+        },
+        "username": "litchi77zz",
+        "verified": true
+      }
+    ]
+  }
+}

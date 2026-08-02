@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2025540346588143991",
+    "created_at": "2026-02-23T14:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025944300018925600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920182422760796163",
+          "start": 0,
+          "username": "Angle2237145823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025944300018925600",
+    "in_reply_to_user_id": "1920182422760796163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025711733130572183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angle2237145823 行！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2025540346588143991",
+        "created_at": "2026-02-23T14:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025944300018925600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920182422760796163",
+              "start": 0,
+              "username": "Angle2237145823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025944300018925600",
+        "in_reply_to_user_id": "1920182422760796163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025711733130572183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angle2237145823 行！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920182422760796163",
+        "conversation_id": "2025540346588143991",
+        "created_at": "2026-02-22T23:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T00:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025711733130572183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025711733130572183",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025540346588143991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 支持支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 102,
+          "like_count": 897,
+          "listed_count": 4,
+          "media_count": 307,
+          "tweet_count": 2796
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T18:22:31.000Z",
+        "description": "06｜最忧郁之人｜我不再一直揣测别人的想法。",
+        "id": "1920182422760796163",
+        "name": "Angle",
+        "pinned_tweet_id": "2015404901312917673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923008018922295296/aITRJD5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 65,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 283
+        },
+        "username": "Angle2237145823",
+        "verified": false
+      }
+    ]
+  }
+}

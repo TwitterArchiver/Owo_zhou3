@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996603996228706304"
+      ],
+      "media_source_tweet_id": [
+        "1996604056169586977"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1997312324731076624",
+    "created_at": "2025-12-06T14:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997312324731076624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1828926902528077824",
+          "start": 3,
+          "username": "loveofcouples"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOWCxY4btz",
+          "end": 42,
+          "expanded_url": "https://x.com/loveofcouples/status/1996604056169586977/video/1",
+          "media_key": "13_1996603996228706304",
+          "start": 19,
+          "url": "https://t.co/LOWCxY4btz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997312324731076624",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2233
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996604056169586977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveofcouples: https://t.co/LOWCxY4btz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8853,
+        "height": 768,
+        "media_key": "13_1996603996228706304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996603996228706304/img/6BRu7RJkC48E0-Sd.jpg",
+        "public_metrics": {
+          "view_count": 180551
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996603996228706304/vid/avc1/320x426/Bc5D3SvSz_72MMLN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996603996228706304/vid/avc1/480x640/0zDO0l6I1G0RaG1s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996603996228706304/vid/avc1/576x768/-nPN65n6MYZKeKlw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996603996228706304/pl/vocH2bvKa5kKKUE8.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996603996228706304"
+          ],
+          "media_source_tweet_id": [
+            "1996604056169586977"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1997312324731076624",
+        "created_at": "2025-12-06T14:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997312324731076624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1828926902528077824",
+              "start": 3,
+              "username": "loveofcouples"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOWCxY4btz",
+              "end": 42,
+              "expanded_url": "https://x.com/loveofcouples/status/1996604056169586977/video/1",
+              "media_key": "13_1996603996228706304",
+              "start": 19,
+              "url": "https://t.co/LOWCxY4btz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997312324731076624",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2233
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996604056169586977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveofcouples: https://t.co/LOWCxY4btz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996603996228706304"
+          ]
+        },
+        "author_id": "1828926902528077824",
+        "conversation_id": "1996604056169586977",
+        "created_at": "2025-12-04T15:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996604056169586977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOWCxY4btz",
+              "end": 23,
+              "expanded_url": "https://x.com/loveofcouples/status/1996604056169586977/video/1",
+              "media_key": "13_1996603996228706304",
+              "start": 0,
+              "url": "https://t.co/LOWCxY4btz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996604056169586977",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1174,
+          "impression_count": 669635,
+          "like_count": 13965,
+          "quote_count": 122,
+          "reply_count": 42,
+          "retweet_count": 2233
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LOWCxY4btz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 81,
+          "like_count": 562,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T22:45:40.000Z",
+        "description": "It’s all about love. | Follow us for more",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/dYPTqXwhbK"
+              }
+            ]
+          }
+        },
+        "id": "1828926902528077824",
+        "location": "Worldwide 🌍",
+        "name": "❤️‍🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986135052091117568/72KwaD0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44792,
+          "following_count": 1,
+          "like_count": 286872,
+          "listed_count": 29,
+          "media_count": 65,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/dYPTqXwhbK",
+        "username": "loveofcouples",
+        "verified": true
+      }
+    ]
+  }
+}

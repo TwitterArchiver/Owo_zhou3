@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1995196098340933632"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1995196164271210648",
+    "created_at": "2025-11-30T18:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T19:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995196164271210648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2zZGtcPxzU",
+          "end": 23,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1995196164271210648/video/1",
+          "media_key": "13_1995196098340933632",
+          "start": 0,
+          "url": "https://t.co/2zZGtcPxzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995196164271210648",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 18,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2zZGtcPxzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16933,
+        "height": 960,
+        "media_key": "13_1995196098340933632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995196098340933632/img/DGwlCYKRYLOL4ZKh.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995196098340933632/vid/avc1/320x426/fQr8OTxiHXorI0Gv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995196098340933632/vid/avc1/480x640/t0TUuxrvHdxsjGQU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995196098340933632/vid/avc1/720x960/sElljCp1uv-L0K1k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995196098340933632/pl/OswqImTIgmtkB8Uj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995196098340933632"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1995196164271210648",
+        "created_at": "2025-11-30T18:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T19:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995196164271210648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zZGtcPxzU",
+              "end": 23,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1995196164271210648/video/1",
+              "media_key": "13_1995196098340933632",
+              "start": 0,
+              "url": "https://t.co/2zZGtcPxzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995196164271210648",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2zZGtcPxzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 78,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1445
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

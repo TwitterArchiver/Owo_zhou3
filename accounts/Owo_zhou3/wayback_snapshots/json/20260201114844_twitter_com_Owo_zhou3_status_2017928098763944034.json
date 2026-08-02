@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2017926942390169647",
+    "created_at": "2026-02-01T11:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T12:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017928098763944034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1725850335317766144",
+          "start": 0,
+          "username": "kkit_errO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017928098763944034",
+    "in_reply_to_user_id": "1725850335317766144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017926942390169647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkit_errO 和我一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2017926942390169647",
+        "created_at": "2026-02-01T11:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017928098763944034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1725850335317766144",
+              "start": 0,
+              "username": "kkit_errO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017928098763944034",
+        "in_reply_to_user_id": "1725850335317766144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017926942390169647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkit_errO 和我一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725850335317766144",
+        "conversation_id": "2017926942390169647",
+        "created_at": "2026-02-01T11:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017926942390169647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/owo_zhou3/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/owo_zhou3/status/2017479320206504385",
+              "start": 44,
+              "url": "https://t.co/Ti9dn8w2wZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017926942390169647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017479320206504385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "23年年初那会用的一个不知道叫啥的一个月44块我居然还续了两个月哎哟气死我了不懂咋想的 https://t.co/Ti9dn8w2wZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 99,
+          "like_count": 884,
+          "listed_count": 4,
+          "media_count": 282,
+          "tweet_count": 2572
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T12:16:16.000Z",
+        "description": "主页很乱什么都发。很高兴认识你 直fo会回",
+        "id": "1725850335317766144",
+        "name": "chiuzu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911480762920017920/ZLXq4hVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 116,
+          "like_count": 2158,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 266
+        },
+        "username": "kkit_errO",
+        "verified": false
+      }
+    ]
+  }
+}

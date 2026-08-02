@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992072552999690362",
+    "created_at": "2025-11-22T03:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992080091892134264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898752794754232320",
+          "start": 0,
+          "username": "laicaixuesheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992080091892134264",
+    "in_reply_to_user_id": "1898752794754232320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992079657513222605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laicaixuesheng 我要死了我难受我求你们了抖音能不能帮我冲一下评论区让她删了啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-22T03:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992080091892134264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898752794754232320",
+              "start": 0,
+              "username": "laicaixuesheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992080091892134264",
+        "in_reply_to_user_id": "1898752794754232320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992079657513222605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laicaixuesheng 我要死了我难受我求你们了抖音能不能帮我冲一下评论区让她删了啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898752794754232320",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-22T03:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992079657513222605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992079657513222605",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992072552999690362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 马上迎来一波抖人视奸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 70,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T15:08:48.000Z",
+        "description": "呵呵",
+        "id": "1898752794754232320",
+        "name": "我恨死你了呵呵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991573218730340357/LcMcRFKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 26,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 51
+        },
+        "username": "laicaixuesheng",
+        "verified": false
+      }
+    ]
+  }
+}

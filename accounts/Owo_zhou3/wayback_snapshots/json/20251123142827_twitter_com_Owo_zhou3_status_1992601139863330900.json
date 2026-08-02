@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992072552999690362",
+    "created_at": "2025-11-23T14:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992601139863330900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1984704328322727938",
+          "start": 0,
+          "username": "bn3kci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992601139863330900",
+    "in_reply_to_user_id": "1984704328322727938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992600994283417684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bn3kci 就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-23T14:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992601139863330900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1984704328322727938",
+              "start": 0,
+              "username": "bn3kci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992601139863330900",
+        "in_reply_to_user_id": "1984704328322727938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992600994283417684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bn3kci 就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984704328322727938",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-23T14:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992600994283417684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992600994283417684",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992072552999690362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 死冯了吧。。当时刷抖音刷到了我还在想这人是不是脑子有泡 。，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 75,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T19:29:30.000Z",
+        "description": "不月 什么圈子都懂一点 人很好说话 眼熟的话会互",
+        "id": "1984704328322727938",
+        "name": "瑶瑶你别哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991921447497760768/eWqv1zuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "username": "bn3kci",
+        "verified": false
+      }
+    ]
+  }
+}

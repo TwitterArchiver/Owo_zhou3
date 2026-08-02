@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024477955980976128"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "2024477962876362874",
+    "created_at": "2026-02-19T13:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024477962876362874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eWfGGmMCeA",
+          "end": 31,
+          "expanded_url": "https://x.com/Owo_zhou3/status/2024477962876362874/photo/1",
+          "media_key": "3_2024477955980976128",
+          "start": 8,
+          "url": "https://t.co/eWfGGmMCeA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024477962876362874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿嘿嘿笑死我了 https://t.co/eWfGGmMCeA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2024477955980976128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhj-Y3a4AACrT9.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024477955980976128"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "2024477962876362874",
+        "created_at": "2026-02-19T13:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024477962876362874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWfGGmMCeA",
+              "end": 31,
+              "expanded_url": "https://x.com/Owo_zhou3/status/2024477962876362874/photo/1",
+              "media_key": "3_2024477955980976128",
+              "start": 8,
+              "url": "https://t.co/eWfGGmMCeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024477962876362874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿嘿笑死我了 https://t.co/eWfGGmMCeA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420,
+          "following_count": 99,
+          "like_count": 897,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 2730
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

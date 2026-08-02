@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2043728872135610460",
+    "created_at": "2026-04-15T03:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T04:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044253552856707211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757733375446577152",
+          "start": 0,
+          "username": "YJing82155"
+        },
+        {
+          "end": 26,
+          "id": "1781275129311555584",
+          "start": 12,
+          "username": "dao_kong36618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044253552856707211",
+    "in_reply_to_user_id": "1757733375446577152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043929823480033398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJing82155 @dao_kong36618 我真求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2043728872135610460",
+        "created_at": "2026-04-15T03:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044253552856707211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757733375446577152",
+              "start": 0,
+              "username": "YJing82155"
+            },
+            {
+              "end": 26,
+              "id": "1781275129311555584",
+              "start": 12,
+              "username": "dao_kong36618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044253552856707211",
+        "in_reply_to_user_id": "1757733375446577152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043929823480033398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJing82155 @dao_kong36618 我真求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757733375446577152",
+        "conversation_id": "2043728872135610460",
+        "created_at": "2026-04-14T05:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043929823480033398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781275129311555584",
+              "start": 0,
+              "username": "dao_kong36618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043929823480033398",
+        "in_reply_to_user_id": "1781275129311555584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6935,
+          "like_count": 214,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043728872135610460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dao_kong36618 谁不想看一个绝望的b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私｜推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 110,
+          "like_count": 948,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 3171
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T11:48:16.000Z",
+        "description": "",
+        "id": "1757733375446577152",
+        "name": "雨宫京",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001455901753102336/df4f0mub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 104,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 78
+        },
+        "username": "YJing82155",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T10:54:27.000Z",
+        "description": "@koiiiko191252不线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "koiiiko191252"
+              }
+            ]
+          }
+        },
+        "id": "1781275129311555584",
+        "location": "🚪88/188/520",
+        "name": "ou",
+        "pinned_tweet_id": "2015814649028264160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996377166800728065/IuzkWsx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15976,
+          "following_count": 4,
+          "like_count": 490,
+          "listed_count": 48,
+          "media_count": 56,
+          "tweet_count": 470
+        },
+        "username": "dao_kong36618",
+        "verified": false
+      }
+    ]
+  }
+}

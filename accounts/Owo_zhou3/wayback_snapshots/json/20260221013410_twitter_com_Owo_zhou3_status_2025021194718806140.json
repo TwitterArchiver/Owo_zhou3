@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2024887690425180160",
+    "created_at": "2026-02-21T01:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T02:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025021194718806140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947628495896477696",
+          "start": 0,
+          "username": "Resfeber0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025021194718806140",
+    "in_reply_to_user_id": "1947628495896477696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024887690425180160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Resfeber0 拜见财神熊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_2024887680400760832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnYnfRaIAA251b.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2024887690425180160",
+        "created_at": "2026-02-21T01:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025021194718806140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947628495896477696",
+              "start": 0,
+              "username": "Resfeber0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025021194718806140",
+        "in_reply_to_user_id": "1947628495896477696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024887690425180160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Resfeber0 拜见财神熊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024887680400760832"
+          ]
+        },
+        "author_id": "1947628495896477696",
+        "conversation_id": "2024887690425180160",
+        "created_at": "2026-02-20T16:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024887690425180160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAQcY8bpA3",
+              "end": 31,
+              "expanded_url": "https://x.com/Resfeber0/status/2024887690425180160/photo/1",
+              "media_key": "3_2024887680400760832",
+              "start": 8,
+              "url": "https://t.co/yAQcY8bpA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024887690425180160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10592,
+          "like_count": 472,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "初五迎财神！！ https://t.co/yAQcY8bpA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4556,
+          "following_count": 101,
+          "like_count": 897,
+          "listed_count": 4,
+          "media_count": 304,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:03:21.000Z",
+        "description": "人好 我是屁",
+        "id": "1947628495896477696",
+        "location": "🚪520",
+        "name": "Utopia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005641663503556608/nkntROV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21010,
+          "following_count": 157,
+          "like_count": 510,
+          "listed_count": 52,
+          "media_count": 141,
+          "tweet_count": 1372
+        },
+        "username": "Resfeber0",
+        "verified": false
+      }
+    ]
+  }
+}

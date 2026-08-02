@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1989686673299718496",
+    "created_at": "2025-11-16T04:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T05:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989920991334862987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737139405662597120",
+          "start": 0,
+          "username": "wShuibuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989920991334862987",
+    "in_reply_to_user_id": "1737139405662597120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989686673299718496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wShuibuxing 我真接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_1989686668174176256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zJe57aMAARWIn.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1989686673299718496",
+        "created_at": "2025-11-16T04:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989920991334862987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737139405662597120",
+              "start": 0,
+              "username": "wShuibuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989920991334862987",
+        "in_reply_to_user_id": "1737139405662597120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989686673299718496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wShuibuxing 我真接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989686668174176256"
+          ]
+        },
+        "author_id": "1737139405662597120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989686673299718496",
+        "created_at": "2025-11-15T13:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989686673299718496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9FzaZVgMG",
+              "end": 40,
+              "expanded_url": "https://x.com/wShuibuxing/status/1989686673299718496/photo/1",
+              "media_key": "3_1989686668174176256",
+              "start": 17,
+              "url": "https://t.co/Z9FzaZVgMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989686673299718496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17324,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我收五千还没负能量的时候咋没人接 https://t.co/Z9FzaZVgMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 68,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T15:54:57.000Z",
+        "description": "暗恋的人@竹美人  让我水个好饺吧",
+        "id": "1737139405662597120",
+        "name": "瘦🐱",
+        "pinned_tweet_id": "1989705593481728396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975173601096810497/wxm07Jrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 295,
+          "like_count": 36774,
+          "listed_count": 5,
+          "media_count": 11,
+          "tweet_count": 4332
+        },
+        "username": "wShuibuxing",
+        "verified": false
+      }
+    ]
+  }
+}

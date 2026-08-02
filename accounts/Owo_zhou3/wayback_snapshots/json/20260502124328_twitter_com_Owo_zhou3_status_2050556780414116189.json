@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2050135296319324430",
+    "created_at": "2026-05-02T12:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050556780414116189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044852252779970560",
+          "start": 0,
+          "username": "xiaoman_uu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050556780414116189",
+    "in_reply_to_user_id": "2044852252779970560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050547256227680642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoman_uu 我受不了了我身边好多这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2050135296319324430",
+        "created_at": "2026-05-02T12:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050556780414116189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044852252779970560",
+              "start": 0,
+              "username": "xiaoman_uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050556780414116189",
+        "in_reply_to_user_id": "2044852252779970560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050547256227680642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoman_uu 我受不了了我身边好多这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044852252779970560",
+        "conversation_id": "2050135296319324430",
+        "created_at": "2026-05-02T12:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050547256227680642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050547256227680642",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050135296319324430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我草我初中同学特贱一男的现在在抖音上成奶狗小网红了看得我要气晕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 113,
+          "like_count": 975,
+          "listed_count": 4,
+          "media_count": 375,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T18:59:27.000Z",
+        "description": "没礼貌的人不要骚扰我\n好友一般不加^ ^",
+        "id": "2044852252779970560",
+        "name": "小悠u",
+        "pinned_tweet_id": "2048845598405919069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048575212422402048/TZSOFpXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 38,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 333
+        },
+        "username": "xiaoman_uu",
+        "verified": false
+      }
+    ]
+  }
+}

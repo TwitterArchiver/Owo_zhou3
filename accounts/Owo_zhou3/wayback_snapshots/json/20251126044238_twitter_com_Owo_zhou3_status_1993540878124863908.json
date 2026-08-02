@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993540878124863908",
+    "created_at": "2025-11-26T04:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T05:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993540878124863908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936283321568509952",
+          "start": 3,
+          "username": "mingxing311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993540878124863908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993219143198548438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingxing311: 我说实话 我每天上推 看看黄段子 逗逗互关 骂骂私信 发发美照 我感觉挺幸福的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993540878124863908",
+        "created_at": "2025-11-26T04:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993540878124863908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936283321568509952",
+              "start": 3,
+              "username": "mingxing311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993540878124863908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993219143198548438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingxing311: 我说实话 我每天上推 看看黄段子 逗逗互关 骂骂私信 发发美照 我感觉挺幸福的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936283321568509952",
+        "conversation_id": "1993219143198548438",
+        "created_at": "2025-11-25T07:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993219143198548438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993219143198548438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 37346,
+          "like_count": 203,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我说实话 我每天上推 看看黄段子 逗逗互关 骂骂私信 发发美照 我感觉挺幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 77,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T04:41:43.000Z",
+        "description": "私信可发小号在这里@latiaomeimo2 男的不许露脸吓我 女宝宝可以互关喵 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "latiaomeimo2"
+              }
+            ]
+          }
+        },
+        "id": "1936283321568509952",
+        "name": "辣条魅魔",
+        "pinned_tweet_id": "1993538236850069956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979817604710551552/O5RruRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 24,
+          "like_count": 2034,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 337
+        },
+        "username": "mingxing311",
+        "verified": false
+      }
+    ]
+  }
+}

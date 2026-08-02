@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988268514873057568",
+    "created_at": "2025-11-11T21:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T22:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988362185857482863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1765747893766623232",
+          "start": 0,
+          "username": "yi302030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988362185857482863",
+    "in_reply_to_user_id": "1765747893766623232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988268514873057568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi302030 气疯了这是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988268498834116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5e_qlcbUAAmFsb.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988268514873057568",
+        "created_at": "2025-11-11T21:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988362185857482863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1765747893766623232",
+              "start": 0,
+              "username": "yi302030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988362185857482863",
+        "in_reply_to_user_id": "1765747893766623232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988268514873057568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi302030 气疯了这是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988268498834116608"
+          ]
+        },
+        "author_id": "1765747893766623232",
+        "conversation_id": "1988268514873057568",
+        "created_at": "2025-11-11T15:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988268514873057568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dw0Jg84Kb4",
+              "end": 38,
+              "expanded_url": "https://x.com/yi302030/status/1988268514873057568/photo/1",
+              "media_key": "3_1988268498834116608",
+              "start": 15,
+              "url": "https://t.co/dw0Jg84Kb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988268514873057568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8640,
+          "like_count": 116,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不是 我鬼上身都说不出这种话 https://t.co/dw0Jg84Kb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 55,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T14:34:46.000Z",
+        "description": "INFP 天蝎 一个很懒的人 喜欢视奸粉丝｜男的 直的｜录本请私信授权｜希望会是个有意义的树洞 匿名信链接https://t.co/cuggsv4VXO｜自用达蒙vpn：https://t.co/CJADnYh2Ff｜接转推 推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%80%BF",
+                "end": 76,
+                "expanded_url": "https://ngl.link/%E6%80%BF",
+                "start": 53,
+                "url": "https://t.co/cuggsv4VXO"
+              },
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=yPTlMcVE",
+                "start": 85,
+                "url": "https://t.co/CJADnYh2Ff"
+              }
+            ]
+          }
+        },
+        "id": "1765747893766623232",
+        "name": "怿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904592827390054400/jUtJBSO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9731,
+          "following_count": 318,
+          "like_count": 11750,
+          "listed_count": 14,
+          "media_count": 770,
+          "tweet_count": 4281
+        },
+        "username": "yi302030",
+        "verified": false
+      }
+    ]
+  }
+}

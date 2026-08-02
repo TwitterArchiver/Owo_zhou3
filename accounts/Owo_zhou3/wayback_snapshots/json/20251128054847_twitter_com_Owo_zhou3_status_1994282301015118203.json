@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994282301015118203",
+    "created_at": "2025-11-28T05:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994282301015118203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 62,
+          "id": "1962554097120485377",
+          "start": 52,
+          "username": "Owo_zhou3"
+        }
+      ],
+      "urls": [
+        {
+          "description": "幸福就是虽然贫穷，但是大家身体都很健康。",
+          "display_url": "t.me/Owo_zhou3",
+          "end": 39,
+          "expanded_url": "http://t.me/Owo_zhou3",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1994282307193327618/dJldxuVi?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1994282307193327618/dJldxuVi?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "小梨别",
+          "unwound_url": "https://t.me/Owo_zhou3",
+          "url": "https://t.co/ipExahw6ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994282301015118203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "X相册已经更新啦 ！\n唯一电宝：https://t.co/ipExahw6ty\n链接打不开的可电报搜索：@Owo_zhou3\n复制我的电报用户名到电报上打开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994282301015118203",
+        "created_at": "2025-11-28T05:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994282301015118203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1962554097120485377",
+              "start": 52,
+              "username": "Owo_zhou3"
+            }
+          ],
+          "urls": [
+            {
+              "description": "幸福就是虽然贫穷，但是大家身体都很健康。",
+              "display_url": "t.me/Owo_zhou3",
+              "end": 39,
+              "expanded_url": "http://t.me/Owo_zhou3",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1994282307193327618/dJldxuVi?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1994282307193327618/dJldxuVi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "小梨别",
+              "unwound_url": "https://t.me/Owo_zhou3",
+              "url": "https://t.co/ipExahw6ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994282301015118203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "X相册已经更新啦 ！\n唯一电宝：https://t.co/ipExahw6ty\n链接打不开的可电报搜索：@Owo_zhou3\n复制我的电报用户名到电报上打开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜推广自便",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 78,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

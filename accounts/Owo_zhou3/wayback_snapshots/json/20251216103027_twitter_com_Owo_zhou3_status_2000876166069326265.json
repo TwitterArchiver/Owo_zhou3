@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2000556757735866814",
+    "created_at": "2025-12-16T10:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T11:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000876166069326265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "放下个人素质，享受淫荡人生",
+          "display_url": "t.me/Owo_zhou3",
+          "end": 31,
+          "expanded_url": "http://t.me/Owo_zhou3",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1999391763258310660/AHs3ZbQc?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1999391763258310660/AHs3ZbQc?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "小梨别",
+          "unwound_url": "https://t.me/Owo_zhou3",
+          "url": "https://t.co/ipExahw6ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000876166069326265",
+    "in_reply_to_user_id": "1962554097120485377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000556757735866814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点报联系领福利：https://t.co/ipExahw6ty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2000556750391631872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Nnw9waYAAOJNa.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2000556757735866814",
+        "created_at": "2025-12-16T10:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000876166069326265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "放下个人素质，享受淫荡人生",
+              "display_url": "t.me/Owo_zhou3",
+              "end": 31,
+              "expanded_url": "http://t.me/Owo_zhou3",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1999391763258310660/AHs3ZbQc?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999391763258310660/AHs3ZbQc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "小梨别",
+              "unwound_url": "https://t.me/Owo_zhou3",
+              "url": "https://t.co/ipExahw6ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000876166069326265",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000556757735866814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点报联系领福利：https://t.co/ipExahw6ty"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000556750391631872"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "2000556757735866814",
+        "created_at": "2025-12-15T13:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000556757735866814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjMoaHcH4N",
+              "end": 34,
+              "expanded_url": "https://x.com/Owo_zhou3/status/2000556757735866814/photo/1",
+              "media_key": "3_2000556750391631872",
+              "start": 11,
+              "url": "https://t.co/mjMoaHcH4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000556757735866814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 658846,
+          "like_count": 2747,
+          "quote_count": 8,
+          "reply_count": 98,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "我的道德在和笑点打架 https://t.co/mjMoaHcH4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3067,
+          "following_count": 113,
+          "like_count": 675,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      }
+    ]
+  }
+}

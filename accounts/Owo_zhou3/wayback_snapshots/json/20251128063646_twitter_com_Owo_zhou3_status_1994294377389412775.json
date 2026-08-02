@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994294371269922816",
+        "3_1994294371269922827",
+        "3_1994294371282505728"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994294377389412775",
+    "created_at": "2025-11-28T06:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994294377389412775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnhnnGQkfH",
+          "end": 43,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1994294377389412775/photo/1",
+          "media_key": "3_1994294371269922816",
+          "start": 20,
+          "url": "https://t.co/AnhnnGQkfH"
+        },
+        {
+          "display_url": "pic.x.com/AnhnnGQkfH",
+          "end": 43,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1994294377389412775/photo/1",
+          "media_key": "3_1994294371269922827",
+          "start": 20,
+          "url": "https://t.co/AnhnnGQkfH"
+        },
+        {
+          "display_url": "pic.x.com/AnhnnGQkfH",
+          "end": 43,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1994294377389412775/photo/1",
+          "media_key": "3_1994294371282505728",
+          "start": 20,
+          "url": "https://t.co/AnhnnGQkfH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994294377389412775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "第一个人机吧下一个\n谢谢我也喜欢\n🈚️ https://t.co/AnhnnGQkfH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994294371269922816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60oKhka0AAwVCf.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994294371269922827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60oKhka0AsA9v6.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994294371282505728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60oKhna0AATUD_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994294371269922816",
+            "3_1994294371269922827",
+            "3_1994294371282505728"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994294377389412775",
+        "created_at": "2025-11-28T06:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994294377389412775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnhnnGQkfH",
+              "end": 43,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1994294377389412775/photo/1",
+              "media_key": "3_1994294371269922816",
+              "start": 20,
+              "url": "https://t.co/AnhnnGQkfH"
+            },
+            {
+              "display_url": "pic.x.com/AnhnnGQkfH",
+              "end": 43,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1994294377389412775/photo/1",
+              "media_key": "3_1994294371269922827",
+              "start": 20,
+              "url": "https://t.co/AnhnnGQkfH"
+            },
+            {
+              "display_url": "pic.x.com/AnhnnGQkfH",
+              "end": 43,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1994294377389412775/photo/1",
+              "media_key": "3_1994294371282505728",
+              "start": 20,
+              "url": "https://t.co/AnhnnGQkfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994294377389412775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "第一个人机吧下一个\n谢谢我也喜欢\n🈚️ https://t.co/AnhnnGQkfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自便",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 78,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

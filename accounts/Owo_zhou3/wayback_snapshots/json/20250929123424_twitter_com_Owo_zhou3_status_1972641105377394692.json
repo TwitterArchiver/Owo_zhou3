@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1972226606379999520",
+    "created_at": "2025-09-29T12:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T13:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972641105377394692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859611110237929472",
+          "start": 0,
+          "username": "xiaoyng466"
+        },
+        {
+          "end": 24,
+          "id": "1926115911276146688",
+          "start": 12,
+          "username": "mirro50150y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972641105377394692",
+    "in_reply_to_user_id": "1859611110237929472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972309961767346211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyng466 @mirro50150y 俺娘嘞。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1972226606379999520",
+        "created_at": "2025-09-29T12:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972641105377394692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859611110237929472",
+              "start": 0,
+              "username": "xiaoyng466"
+            },
+            {
+              "end": 24,
+              "id": "1926115911276146688",
+              "start": 12,
+              "username": "mirro50150y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972641105377394692",
+        "in_reply_to_user_id": "1859611110237929472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972309961767346211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyng466 @mirro50150y 俺娘嘞。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859611110237929472",
+        "conversation_id": "1972226606379999520",
+        "created_at": "2025-09-28T14:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972309961767346211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926115911276146688",
+              "start": 0,
+              "username": "mirro50150y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972309961767346211",
+        "in_reply_to_user_id": "1926115911276146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21492,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972226606379999520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirro50150y 有的兄弟有的，我跟前男友说我玩推特，他从那以后就不把我当人看了当鸡看，老跟我开黄色玩笑呵呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972118774305509379/ICA27RGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 47,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T14:53:42.000Z",
+        "description": "这个账号的使用者是只小猫",
+        "id": "1859611110237929472",
+        "location": "/ᐠ˵- ᴗ -˵マ ᶻ 𝗓 𐰁　",
+        "name": "知樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972312745040363520/oDGVfJZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 451,
+          "like_count": 1778,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1621
+        },
+        "username": "xiaoyng466",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "关我屁事 推广自辨🫶",
+        "id": "1926115911276146688",
+        "location": "不喜欢聊天➕v有🚪",
+        "name": "ivee",
+        "pinned_tweet_id": "1972243375693967402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 48,
+          "like_count": 8934,
+          "listed_count": 12,
+          "media_count": 189,
+          "tweet_count": 1933
+        },
+        "username": "mirro50150y",
+        "verified": false
+      }
+    ]
+  }
+}

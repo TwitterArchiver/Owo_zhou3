@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992072552999690362",
+    "created_at": "2025-11-22T04:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992085938621854180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908600469360164864",
+          "start": 0,
+          "username": "aiykissyou"
+        },
+        {
+          "end": 27,
+          "id": "1898752794754232320",
+          "start": 12,
+          "username": "laicaixuesheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992085938621854180",
+    "in_reply_to_user_id": "1908600469360164864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992085862893638129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiykissyou @laicaixuesheng 装看不见中。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-22T04:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992085938621854180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908600469360164864",
+              "start": 0,
+              "username": "aiykissyou"
+            },
+            {
+              "end": 27,
+              "id": "1898752794754232320",
+              "start": 12,
+              "username": "laicaixuesheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992085938621854180",
+        "in_reply_to_user_id": "1908600469360164864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992085862893638129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiykissyou @laicaixuesheng 装看不见中。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908600469360164864",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-22T04:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992085862893638129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898752794754232320",
+              "start": 0,
+              "username": "laicaixuesheng"
+            },
+            {
+              "end": 26,
+              "id": "1962554097120485377",
+              "start": 16,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992085862893638129",
+        "in_reply_to_user_id": "1898752794754232320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992085238722461796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laicaixuesheng @Owo_zhou3 装死中…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 70,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T19:19:57.000Z",
+        "description": "🚪128纯绿",
+        "id": "1908600469360164864",
+        "location": "100m",
+        "name": "uu",
+        "pinned_tweet_id": "1986139296068149542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991130986751709184/xrQI-ZaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 50,
+          "like_count": 2804,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1860
+        },
+        "username": "aiykissyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T15:08:48.000Z",
+        "description": "呵呵",
+        "id": "1898752794754232320",
+        "name": "我恨死你了呵呵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991573218730340357/LcMcRFKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 52
+        },
+        "username": "laicaixuesheng",
+        "verified": false
+      }
+    ]
+  }
+}

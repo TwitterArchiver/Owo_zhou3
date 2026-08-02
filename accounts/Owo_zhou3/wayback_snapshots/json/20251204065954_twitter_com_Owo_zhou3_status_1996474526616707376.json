@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1996427479201014180",
+    "created_at": "2025-12-04T06:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T07:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996474526616707376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996474526616707376",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996427479201014180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTbreak 找存在感以为自己很好玩的一群抽象傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996427455125659648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S8MWKaIAADGgV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996427455230525440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S8MWjaQAAebEU.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996427455108980736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S8MWGboAAJW8L.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1996427479201014180",
+        "created_at": "2025-12-04T06:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996474526616707376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996474526616707376",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996427479201014180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTbreak 找存在感以为自己很好玩的一群抽象傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996427455125659648",
+            "3_1996427455230525440",
+            "3_1996427455108980736"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "1996427479201014180",
+        "created_at": "2025-12-04T03:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T04:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996427479201014180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDskE4TJwM",
+              "end": 97,
+              "expanded_url": "https://x.com/TvTbreak/status/1996427479201014180/photo/1",
+              "media_key": "3_1996427455125659648",
+              "start": 74,
+              "url": "https://t.co/vDskE4TJwM"
+            },
+            {
+              "display_url": "pic.x.com/vDskE4TJwM",
+              "end": 97,
+              "expanded_url": "https://x.com/TvTbreak/status/1996427479201014180/photo/1",
+              "media_key": "3_1996427455230525440",
+              "start": 74,
+              "url": "https://t.co/vDskE4TJwM"
+            },
+            {
+              "display_url": "pic.x.com/vDskE4TJwM",
+              "end": 97,
+              "expanded_url": "https://x.com/TvTbreak/status/1996427479201014180/photo/1",
+              "media_key": "3_1996427455108980736",
+              "start": 74,
+              "url": "https://t.co/vDskE4TJwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996427479201014180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8916,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这些起号的能不能滚远点啊？先是那个什么下蛋的咯咯哒，紧接着私信里来了个找妈妈的小鸡，评论区又莫名其妙来个曼波，你曼波你爸个雷霆啊。蠢人多作怪。滚。 https://t.co/vDskE4TJwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1996167657264193849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 78,
+          "like_count": 550,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1531
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "不加联系方式",
+        "id": "1883157644711796736",
+        "location": "请埋葬我所有的痛和悲",
+        "name": "死非絕命",
+        "pinned_tweet_id": "1974349235505279243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996080136278736896/2dDzgCMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6040,
+          "following_count": 149,
+          "like_count": 8663,
+          "listed_count": 22,
+          "media_count": 147,
+          "tweet_count": 3734
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

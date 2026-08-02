@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994962259869929976",
+    "created_at": "2025-11-30T03:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994971759976878393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1877265097426681856",
+          "start": 0,
+          "username": "guai_da79862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994971759976878393",
+    "in_reply_to_user_id": "1877265097426681856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994968907283845392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guai_da79862 俺不中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994962259869929976",
+        "created_at": "2025-11-30T03:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994971759976878393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1877265097426681856",
+              "start": 0,
+              "username": "guai_da79862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994971759976878393",
+        "in_reply_to_user_id": "1877265097426681856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994968907283845392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guai_da79862 俺不中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877265097426681856",
+        "conversation_id": "1994962259869929976",
+        "created_at": "2025-11-30T03:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994968907283845392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994968907283845392",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994962259869929976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 ok啊，接下来我来告诉大家考零分攻略：进去考试，写上班级姓名考号，在试卷和草纸上写或画自己感兴趣的（这步可有可无），通过睡觉来跳过时间，最后交卷喵核心就是空白的答题卡喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 80,
+          "like_count": 499,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T08:04:45.000Z",
+        "description": "一只back猫，19岁，因为无聊所以会四处游荡喵！会因为突发奇想就干某些事情的喵！是好back猫！🚪114514或350234（bushi）可以找我塔罗喵！（fo一下喵QWQ）",
+        "id": "1877265097426681856",
+        "location": "太阳系地球",
+        "name": "back猫！",
+        "pinned_tweet_id": "1983434323077541984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983434486508314624/_2mRCzj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 31,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 55
+        },
+        "username": "guai_da79862",
+        "verified": false
+      }
+    ]
+  }
+}

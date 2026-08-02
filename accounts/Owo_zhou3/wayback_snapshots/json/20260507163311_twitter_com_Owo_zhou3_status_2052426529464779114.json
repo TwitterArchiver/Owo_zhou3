@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2052252864903614492",
+    "created_at": "2026-05-07T16:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052426529464779114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888980783509192704",
+          "start": 0,
+          "username": "94264983364z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052426529464779114",
+    "in_reply_to_user_id": "1888980783509192704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052425824205500892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@94264983364z 在语音厅消费还不如找个妹妹1v1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2052252864903614492",
+        "created_at": "2026-05-07T16:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052426529464779114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888980783509192704",
+              "start": 0,
+              "username": "94264983364z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052426529464779114",
+        "in_reply_to_user_id": "1888980783509192704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052425824205500892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@94264983364z 在语音厅消费还不如找个妹妹1v1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888980783509192704",
+        "conversation_id": "2052252864903614492",
+        "created_at": "2026-05-07T16:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052425824205500892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052425824205500892",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052252864903614492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 哇 是我这种傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5068,
+          "following_count": 114,
+          "like_count": 1005,
+          "listed_count": 5,
+          "media_count": 381,
+          "tweet_count": 3411
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T15:58:41.000Z",
+        "description": "",
+        "id": "1888980783509192704",
+        "name": "waterdrinker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928023959783755777/hPPcHe6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 1237,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "username": "94264983364z",
+        "verified": false
+      }
+    ]
+  }
+}

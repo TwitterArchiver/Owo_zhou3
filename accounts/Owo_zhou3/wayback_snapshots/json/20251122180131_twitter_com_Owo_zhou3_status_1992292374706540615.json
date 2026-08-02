@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992077287915921765",
+    "created_at": "2025-11-22T18:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T19:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992292374706540615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1796177968777080835",
+          "start": 0,
+          "username": "QiLin36"
+        },
+        {
+          "end": 21,
+          "id": "1944051566442688512",
+          "start": 9,
+          "username": "can0305love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992292374706540615",
+    "in_reply_to_user_id": "1796177968777080835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992291953409704174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiLin36 @can0305love 笑死我了防范意识这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T18:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992292374706540615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1796177968777080835",
+              "start": 0,
+              "username": "QiLin36"
+            },
+            {
+              "end": 21,
+              "id": "1944051566442688512",
+              "start": 9,
+              "username": "can0305love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992292374706540615",
+        "in_reply_to_user_id": "1796177968777080835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992291953409704174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiLin36 @can0305love 笑死我了防范意识这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796177968777080835",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T17:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992291953409704174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944051566442688512",
+              "start": 0,
+              "username": "can0305love"
+            },
+            {
+              "end": 23,
+              "id": "1962554097120485377",
+              "start": 13,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992291953409704174",
+        "in_reply_to_user_id": "1944051566442688512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992200435499925799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@can0305love @Owo_zhou3 抖人倒是知道给自己打个码😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 75,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T13:53:03.000Z",
+        "description": "双性恋｜重抑中焦 割手od｜sub m｜bbw｜09｜开学上推少 急事联系我抖音｜抖音号：qiquxiaolu_36",
+        "id": "1796177968777080835",
+        "location": "划开溢血珠−·•——•·…。_•-",
+        "name": "崎岖小路。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992282609003700224/ZXc3r-g5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 287,
+          "like_count": 14100,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2117
+        },
+        "username": "QiLin36",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T15:09:59.000Z",
+        "description": "世界对我好残忍",
+        "id": "1944051566442688512",
+        "name": "Tokiya",
+        "pinned_tweet_id": "1947331198369288664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990081376562081792/3T4j8AtB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 134,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 212
+        },
+        "username": "can0305love",
+        "verified": false
+      }
+    ]
+  }
+}

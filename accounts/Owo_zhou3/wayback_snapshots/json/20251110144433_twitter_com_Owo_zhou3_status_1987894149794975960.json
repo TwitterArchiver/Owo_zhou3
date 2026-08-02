@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1987894149794975960",
+    "created_at": "2025-11-10T14:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987894149794975960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874895356452130816",
+          "start": 3,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987894149794975960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987829284027990211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @newkitty412: 其实我每次给人发完牛牛，我都会。很难过。会哭。非常奇怪因为。我老是想，我把最隐私的东西给你看了。你能不能，别离开的那么快。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1987894149794975960",
+        "created_at": "2025-11-10T14:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987894149794975960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874895356452130816",
+              "start": 3,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987894149794975960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987829284027990211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @newkitty412: 其实我每次给人发完牛牛，我都会。很难过。会哭。非常奇怪因为。我老是想，我把最隐私的东西给你看了。你能不能，别离开的那么快。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "1987829284027990211",
+        "created_at": "2025-11-10T10:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T11:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987829284027990211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987829284027990211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19988,
+          "like_count": 169,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "其实我每次给人发完牛牛，我都会。很难过。会哭。非常奇怪因为。我老是想，我把最隐私的东西给你看了。你能不能，别离开的那么快。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 53,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "置顶推广自辩 | 抽象毁一辈子 日记本@yeeeyme0688 自用vpn➡️https://t.co/Pwcci2PkyA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "yeeeyme0688"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://cmespeed.com/#/register?code=R9BuoZgK",
+                "start": 39,
+                "url": "https://t.co/Pwcci2PkyA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7Ojrl"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "🚪52/88  右边匿名信箱📭",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1968227499294568467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969336716940230656/aNawclHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 295,
+          "like_count": 8448,
+          "listed_count": 9,
+          "media_count": 95,
+          "tweet_count": 2869
+        },
+        "url": "https://t.co/5ZgSd7Ojrl",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

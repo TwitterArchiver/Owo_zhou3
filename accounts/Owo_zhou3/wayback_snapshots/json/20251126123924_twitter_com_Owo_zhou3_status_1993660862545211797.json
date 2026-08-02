@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993659028250284463",
+    "created_at": "2025-11-26T12:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993660862545211797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841733584358346752",
+          "start": 0,
+          "username": "hnhn973157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993660862545211797",
+    "in_reply_to_user_id": "1841733584358346752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993660467362103565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnhn973157 女孩我也喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993659028250284463",
+        "created_at": "2025-11-26T12:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993660862545211797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841733584358346752",
+              "start": 0,
+              "username": "hnhn973157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993660862545211797",
+        "in_reply_to_user_id": "1841733584358346752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993660467362103565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnhn973157 女孩我也喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841733584358346752",
+        "conversation_id": "1993659028250284463",
+        "created_at": "2025-11-26T12:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993660467362103565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993660467362103565",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993659028250284463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 78,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T06:54:46.000Z",
+        "description": "我已经接受了自己是个无聊的人这个残酷的现实",
+        "id": "1841733584358346752",
+        "name": "每天都好糟糕",
+        "pinned_tweet_id": "1939410908725256492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992232876377808896/kbsA8ID7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 5,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 218
+        },
+        "username": "hnhn973157",
+        "verified": false
+      }
+    ]
+  }
+}

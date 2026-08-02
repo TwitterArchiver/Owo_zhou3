@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1997334818229821750",
+    "created_at": "2025-12-08T05:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T06:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997900394719285596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528713880691691520",
+          "start": 0,
+          "username": "Sheep94510210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997900394719285596",
+    "in_reply_to_user_id": "1528713880691691520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997334818229821750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sheep94510210 停停停"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1997334818229821750",
+        "created_at": "2025-12-08T05:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997900394719285596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528713880691691520",
+              "start": 0,
+              "username": "Sheep94510210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997900394719285596",
+        "in_reply_to_user_id": "1528713880691691520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997334818229821750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sheep94510210 停停停"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528713880691691520",
+        "conversation_id": "1997334818229821750",
+        "created_at": "2025-12-06T15:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997334818229821750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997334818229821750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 387759,
+          "like_count": 2028,
+          "quote_count": 75,
+          "reply_count": 718,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "你一直刷推 是因为没人和你聊天吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 81,
+          "like_count": 565,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T12:26:25.000Z",
+        "description": "日常",
+        "id": "1528713880691691520",
+        "location": "你好",
+        "name": "Alcoholic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873025699453300736/e6yNz4rS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 199,
+          "like_count": 2357,
+          "listed_count": 8,
+          "media_count": 682,
+          "tweet_count": 3379
+        },
+        "username": "Sheep94510210",
+        "verified": false
+      }
+    ]
+  }
+}

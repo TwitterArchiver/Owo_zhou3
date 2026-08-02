@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993312682087473427",
+    "created_at": "2025-11-25T13:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993313397061173694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546458302623596544",
+          "start": 0,
+          "username": "OlDESTING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993313397061173694",
+    "in_reply_to_user_id": "1546458302623596544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993313295949029871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OlDESTING 一堆傻逼给我私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993312682087473427",
+        "created_at": "2025-11-25T13:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993313397061173694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546458302623596544",
+              "start": 0,
+              "username": "OlDESTING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993313397061173694",
+        "in_reply_to_user_id": "1546458302623596544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993313295949029871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OlDESTING 一堆傻逼给我私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546458302623596544",
+        "conversation_id": "1993312682087473427",
+        "created_at": "2025-11-25T13:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993313295949029871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993313295949029871",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993312682087473427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 77,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T11:36:21.000Z",
+        "description": "去他妈的世界  https://t.co/Jp9ktiJNs7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oldesting64975",
+                "end": 31,
+                "expanded_url": "https://ngl.link/oldesting64975",
+                "start": 8,
+                "url": "https://t.co/Jp9ktiJNs7"
+              }
+            ]
+          }
+        },
+        "id": "1546458302623596544",
+        "location": "精神病院中心园",
+        "name": "阿迪克斯",
+        "pinned_tweet_id": "1968483000858915001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885317951546679301/m17XslbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 448,
+          "like_count": 195186,
+          "listed_count": 5,
+          "media_count": 1693,
+          "tweet_count": 23910
+        },
+        "username": "OlDESTING",
+        "verified": false
+      }
+    ]
+  }
+}

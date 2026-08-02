@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1995963104161890610",
+    "created_at": "2025-12-03T05:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T06:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996096675262464416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1187797478470541312",
+          "start": 0,
+          "username": "piinkimi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996096675262464416",
+    "in_reply_to_user_id": "1187797478470541312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995963104161890610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piinkimi_ 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1481,
+        "media_key": "3_1995963073975205889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7MV1zkWwAEP_FD.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1995963104161890610",
+        "created_at": "2025-12-03T05:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996096675262464416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1187797478470541312",
+              "start": 0,
+              "username": "piinkimi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996096675262464416",
+        "in_reply_to_user_id": "1187797478470541312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995963104161890610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piinkimi_ 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995963073975205889"
+          ]
+        },
+        "author_id": "1187797478470541312",
+        "conversation_id": "1995963104161890610",
+        "created_at": "2025-12-02T21:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T22:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995963104161890610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5Adhk9pPB",
+              "end": 23,
+              "expanded_url": "https://x.com/piinkimi_/status/1995963104161890610/photo/1",
+              "media_key": "3_1995963073975205889",
+              "start": 0,
+              "url": "https://t.co/u5Adhk9pPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995963104161890610",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 26206,
+          "like_count": 2631,
+          "quote_count": 17,
+          "reply_count": 8,
+          "retweet_count": 349
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/u5Adhk9pPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 78,
+          "like_count": 533,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-25T18:26:22.000Z",
+        "description": "everything pink & girly ৎ୭˚˖٠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinkimi.carrd.co",
+                "end": 23,
+                "expanded_url": "https://pinkimi.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VtSzqXoq3K"
+              }
+            ]
+          }
+        },
+        "id": "1187797478470541312",
+        "location": "any inquiries here ❥",
+        "name": "˖ ꜝ❤︎ kimi 𑣲 ⏦ﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957229760355901441/hEq1kTiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317968,
+          "following_count": 459,
+          "like_count": 16099,
+          "listed_count": 1470,
+          "media_count": 8836,
+          "tweet_count": 21161
+        },
+        "url": "https://t.co/VtSzqXoq3K",
+        "username": "piinkimi_",
+        "verified": false
+      }
+    ]
+  }
+}

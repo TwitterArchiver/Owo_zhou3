@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003142904597078068",
+    "created_at": "2025-12-27T04:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T05:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004778994093490393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829379491401265152",
+          "start": 0,
+          "username": "jiebaozuikeai"
+        },
+        {
+          "end": 26,
+          "id": "1629957678465437697",
+          "start": 15,
+          "username": "zzzzxian17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004778994093490393",
+    "in_reply_to_user_id": "1829379491401265152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003496946661753115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiebaozuikeai @zzzzxian17 你也是个傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003142904597078068",
+        "created_at": "2025-12-27T04:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004778994093490393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829379491401265152",
+              "start": 0,
+              "username": "jiebaozuikeai"
+            },
+            {
+              "end": 26,
+              "id": "1629957678465437697",
+              "start": 15,
+              "username": "zzzzxian17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004778994093490393",
+        "in_reply_to_user_id": "1829379491401265152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003496946661753115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiebaozuikeai @zzzzxian17 你也是个傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829379491401265152",
+        "conversation_id": "2003142904597078068",
+        "created_at": "2025-12-23T16:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003496946661753115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 22,
+              "id": "1629957678465437697",
+              "start": 11,
+              "username": "zzzzxian17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003496946661753115",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003453104046637271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @zzzzxian17 卖逼立牌坊真把自己当个人了笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733,
+          "following_count": 96,
+          "like_count": 800,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 2192
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T04:44:05.000Z",
+        "description": "。",
+        "id": "1829379491401265152",
+        "location": "Yau Tsim Mong District",
+        "name": "只有我不存在的街道",
+        "pinned_tweet_id": "1855594676335866076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861556894336458754/BOqvQodl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 82,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 121
+        },
+        "username": "jiebaozuikeai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T21:32:58.000Z",
+        "description": "",
+        "id": "1629957678465437697",
+        "location": "0.1km",
+        "name": "zzxian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764824500678660096/ZWOzhsN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "zzzzxian17",
+        "verified": false
+      }
+    ]
+  }
+}

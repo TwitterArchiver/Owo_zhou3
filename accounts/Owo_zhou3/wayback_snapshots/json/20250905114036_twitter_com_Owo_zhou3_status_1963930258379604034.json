@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963812726276554976",
+    "created_at": "2025-09-05T11:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T12:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963930258379604034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1593966299658715136",
+          "start": 0,
+          "username": "chillpink_star"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963930258379604034",
+    "in_reply_to_user_id": "1593966299658715136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963812726276554976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chillpink_star 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963812726276554976",
+        "created_at": "2025-09-05T11:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963930258379604034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1593966299658715136",
+              "start": 0,
+              "username": "chillpink_star"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963930258379604034",
+        "in_reply_to_user_id": "1593966299658715136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963812726276554976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chillpink_star 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593966299658715136",
+        "conversation_id": "1963812726276554976",
+        "created_at": "2025-09-05T03:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T04:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963812726276554976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963812726276554976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1730,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有人以为的追人：\n《微信打卡365天，高冷女神竟主动求婚？》\n《我的打卡成神系统：每天问候捡个女友》\n《全网最狂签到男：早安晚安变老婆》\n《这届女神太好追：微信打卡就白给？》\n《坚持签到第100天，校花跪求当我女友》\n《我的恋爱全靠打卡：微信问候就脱单》\n《签到就送女朋友？这系统太逆天！》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 94
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T13:56:07.000Z",
+        "description": "我好没意思",
+        "id": "1593966299658715136",
+        "name": "星星饼干",
+        "pinned_tweet_id": "1842742470381310463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924137620210081792/OzBnV75C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7454,
+          "following_count": 192,
+          "like_count": 15855,
+          "listed_count": 32,
+          "media_count": 1676,
+          "tweet_count": 10455
+        },
+        "username": "chillpink_star",
+        "verified": false
+      }
+    ]
+  }
+}

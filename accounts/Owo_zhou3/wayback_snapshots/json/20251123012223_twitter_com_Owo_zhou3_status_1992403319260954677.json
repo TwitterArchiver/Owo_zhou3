@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992403313321721856"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992072552999690362",
+    "created_at": "2025-11-23T01:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T02:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992403319260954677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FDlhaPaedv",
+          "end": 30,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1992403319260954677/photo/1",
+          "media_key": "3_1992403313321721856",
+          "start": 7,
+          "url": "https://t.co/FDlhaPaedv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992403319260954677",
+    "in_reply_to_user_id": "1962554097120485377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992072552999690362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就这样模仿。 https://t.co/FDlhaPaedv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992403313321721856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ZwQdvaQAACLEi.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992072547366780928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VDbWiawAAhrwm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992403313321721856"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-23T01:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992403319260954677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDlhaPaedv",
+              "end": 30,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1992403319260954677/photo/1",
+              "media_key": "3_1992403313321721856",
+              "start": 7,
+              "url": "https://t.co/FDlhaPaedv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992403319260954677",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992072552999690362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这样模仿。 https://t.co/FDlhaPaedv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992072547366780928"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-22T03:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992072552999690362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTIEcI0r7Y",
+              "end": 93,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1992072552999690362/photo/1",
+              "media_key": "3_1992072547366780928",
+              "start": 70,
+              "url": "https://t.co/xTIEcI0r7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992072552999690362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 261251,
+          "like_count": 1172,
+          "quote_count": 1,
+          "reply_count": 99,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "踏马的我求你了 我吓得手一直在抖 发我之前能不能问我一下比我流量都好啥意思气的我难受 发私信还发错了只能等明天 你看到了可以自己来联系我吗 https://t.co/xTIEcI0r7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 75,
+          "like_count": 398,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

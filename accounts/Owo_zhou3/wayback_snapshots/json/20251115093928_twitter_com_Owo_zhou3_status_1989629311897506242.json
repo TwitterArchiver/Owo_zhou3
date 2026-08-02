@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989629304402235392"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1989629311897506242",
+    "created_at": "2025-11-15T09:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T10:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989629311897506242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cc3VWEGZGc",
+          "end": 26,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1989629311897506242/photo/1",
+          "media_key": "3_1989629304402235392",
+          "start": 3,
+          "url": "https://t.co/Cc3VWEGZGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989629311897506242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享 https://t.co/Cc3VWEGZGc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989629304402235392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yVT5OaUAAKHxj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989629304402235392"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1989629311897506242",
+        "created_at": "2025-11-15T09:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989629311897506242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cc3VWEGZGc",
+              "end": 26,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1989629311897506242/photo/1",
+              "media_key": "3_1989629304402235392",
+              "start": 3,
+              "url": "https://t.co/Cc3VWEGZGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989629311897506242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享 https://t.co/Cc3VWEGZGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 65,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

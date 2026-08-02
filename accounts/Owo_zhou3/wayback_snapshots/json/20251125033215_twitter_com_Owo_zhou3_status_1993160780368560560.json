@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992901062181691530",
+    "created_at": "2025-11-25T03:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993160780368560560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576944312327151617",
+          "start": 0,
+          "username": "Sonnet12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993160780368560560",
+    "in_reply_to_user_id": "1576944312327151617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992901062181691530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sonnet12138 笑得我想死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_1992901054560960512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6g080WbgAANQ30.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992901062181691530",
+        "created_at": "2025-11-25T03:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993160780368560560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576944312327151617",
+              "start": 0,
+              "username": "Sonnet12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993160780368560560",
+        "in_reply_to_user_id": "1576944312327151617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992901062181691530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sonnet12138 笑得我想死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992901054560960512"
+          ]
+        },
+        "author_id": "1576944312327151617",
+        "conversation_id": "1992901062181691530",
+        "created_at": "2025-11-24T10:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992901062181691530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5O7gBARvMW",
+              "end": 33,
+              "expanded_url": "https://x.com/Sonnet12138/status/1992901062181691530/photo/1",
+              "media_key": "3_1992901054560960512",
+              "start": 10,
+              "url": "https://t.co/5O7gBARvMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992901062181691530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16213,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊，他不尴尬吗 https://t.co/5O7gBARvMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 76,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T14:36:45.000Z",
+        "description": "高p，推广自辨",
+        "id": "1576944312327151617",
+        "name": "不知名美羊羊",
+        "pinned_tweet_id": "1988168540365660269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606885802138828800/GQN_TZDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45611,
+          "following_count": 192,
+          "like_count": 600,
+          "listed_count": 135,
+          "media_count": 78,
+          "tweet_count": 591
+        },
+        "username": "Sonnet12138",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963594131915293148",
+    "created_at": "2025-09-04T20:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T21:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963699550130176111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907757379305041920",
+          "start": 0,
+          "username": "doilove119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963699550130176111",
+    "in_reply_to_user_id": "1907757379305041920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963594131915293148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doilove119 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963594131915293148",
+        "created_at": "2025-09-04T20:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T21:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963699550130176111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1907757379305041920",
+              "start": 0,
+              "username": "doilove119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963699550130176111",
+        "in_reply_to_user_id": "1907757379305041920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963594131915293148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doilove119 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907757379305041920",
+        "conversation_id": "1963594131915293148",
+        "created_at": "2025-09-04T13:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T14:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963594131915293148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963594131915293148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天他说我是他的宝宝今天他一天不回消息。我再也不信男人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "name": "小梨别",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 33,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 59
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T11:29:53.000Z",
+        "description": "骂我的人全家都死了",
+        "id": "1907757379305041920",
+        "name": "螺蛳粉梦女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907757495378128900/aRZQdAX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 180,
+          "like_count": 2863,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 1707
+        },
+        "username": "doilove119",
+        "verified": false
+      }
+    ]
+  }
+}

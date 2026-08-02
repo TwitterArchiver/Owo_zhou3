@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1977456294211756381",
+    "created_at": "2025-10-12T19:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T20:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977456294211756381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928905986783457283",
+          "start": 3,
+          "username": "enheng_meng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977456294211756381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976823027825582175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enheng_meng: 男的除了荡妇羞辱讲不出别的话了呗 要不然就是爹妈逼屌的 好幽默 到底谁会在意这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1977456294211756381",
+        "created_at": "2025-10-12T19:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977456294211756381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928905986783457283",
+              "start": 3,
+              "username": "enheng_meng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977456294211756381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976823027825582175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enheng_meng: 男的除了荡妇羞辱讲不出别的话了呗 要不然就是爹妈逼屌的 好幽默 到底谁会在意这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928905986783457283",
+        "conversation_id": "1976823027825582175",
+        "created_at": "2025-10-11T01:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T02:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976823027825582175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976823027825582175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 60282,
+          "like_count": 798,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "男的除了荡妇羞辱讲不出别的话了呗 要不然就是爹妈逼屌的 好幽默 到底谁会在意这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T20:06:47.000Z",
+        "description": "『不懂姐0萌妹1的有难了』已婚情侣号 男的看我家破人亡被阉割 ❌禁一切墙内 转载我的全部不得好死❌ 🤲🏻推广请私（带产品）🤲🏻",
+        "id": "1928905986783457283",
+        "location": "🚪52 纯绿🟢",
+        "name": "卖萌被骂装货",
+        "pinned_tweet_id": "1951641120871481453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945912101483982848/fHxR2Fvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21368,
+          "following_count": 23,
+          "like_count": 847,
+          "listed_count": 27,
+          "media_count": 48,
+          "tweet_count": 518
+        },
+        "username": "enheng_meng",
+        "verified": false
+      }
+    ]
+  }
+}

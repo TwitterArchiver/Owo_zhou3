@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993541251728376284",
+    "created_at": "2025-11-26T04:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T05:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993541251728376284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1708457167072985091",
+          "start": 3,
+          "username": "askeunchi_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993541251728376284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993161311270891542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @askeunchi_7777: 妹子们 跟爸妈说国内压力太大 他们终于同意我出国了 最近在办签证 以后天国见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993541251728376284",
+        "created_at": "2025-11-26T04:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993541251728376284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1708457167072985091",
+              "start": 3,
+              "username": "askeunchi_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993541251728376284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993161311270891542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @askeunchi_7777: 妹子们 跟爸妈说国内压力太大 他们终于同意我出国了 最近在办签证 以后天国见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708457167072985091",
+        "conversation_id": "1993161311270891542",
+        "created_at": "2025-11-25T03:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993161311270891542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993161311270891542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 72993,
+          "like_count": 461,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "妹子们 跟爸妈说国内压力太大 他们终于同意我出国了 最近在办签证 以后天国见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 77,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T12:22:06.000Z",
+        "description": "INFP 天蝎 骚扰私信不回",
+        "id": "1708457167072985091",
+        "location": "有🚪",
+        "name": "池7777",
+        "pinned_tweet_id": "1993539509724840401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930249390738026498/_IVpjWrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3267,
+          "following_count": 664,
+          "like_count": 13680,
+          "listed_count": 9,
+          "media_count": 896,
+          "tweet_count": 8127
+        },
+        "username": "askeunchi_7777",
+        "verified": false
+      }
+    ]
+  }
+}

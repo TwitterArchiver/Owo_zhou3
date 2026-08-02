@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2000201555904168280",
+    "created_at": "2025-12-15T07:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000469403759186309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957104304034394112",
+          "start": 0,
+          "username": "cunyuanyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000469403759186309",
+    "in_reply_to_user_id": "1957104304034394112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000201555904168280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cunyuanyu 黑色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2000201555904168280",
+        "created_at": "2025-12-15T07:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000469403759186309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957104304034394112",
+              "start": 0,
+              "username": "cunyuanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000469403759186309",
+        "in_reply_to_user_id": "1957104304034394112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000201555904168280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cunyuanyu 黑色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957104304034394112",
+        "conversation_id": "2000201555904168280",
+        "created_at": "2025-12-14T13:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000201555904168280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000201555904168280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 24841,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 128,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯色美甲做什么颜色好看呀宝宝们！上次做了白色和蓝色。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 112,
+          "like_count": 654,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T15:37:11.000Z",
+        "description": "捡到喜欢的贝壳就不要去海边了",
+        "id": "1957104304034394112",
+        "location": "🚪100纯绿",
+        "name": "笨笨你又怎么了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997861506499977216/X9Cvi4gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 53,
+          "like_count": 2562,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 2752
+        },
+        "username": "cunyuanyu",
+        "verified": false
+      }
+    ]
+  }
+}

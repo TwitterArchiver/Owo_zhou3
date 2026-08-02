@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992065125642280960"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1992065131287883931",
+    "created_at": "2025-11-22T02:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T03:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992065131287883931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HBYx5naAD8",
+          "end": 48,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1992065131287883931/photo/1",
+          "media_key": "3_1992065125642280960",
+          "start": 25,
+          "url": "https://t.co/HBYx5naAD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992065131287883931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无可奉告\n我有很多喜欢的 最喜欢的应该是孤独摇滚 https://t.co/HBYx5naAD8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_1992065125642280960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6U8rWdaIAAMkXt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992065125642280960"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1992065131287883931",
+        "created_at": "2025-11-22T02:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992065131287883931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HBYx5naAD8",
+              "end": 48,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1992065131287883931/photo/1",
+              "media_key": "3_1992065125642280960",
+              "start": 25,
+              "url": "https://t.co/HBYx5naAD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992065131287883931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无可奉告\n我有很多喜欢的 最喜欢的应该是孤独摇滚 https://t.co/HBYx5naAD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 69,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010024582556856320"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "2010024589854982584",
+    "created_at": "2026-01-10T16:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T17:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010024589854982584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RSB8119Uzd",
+          "end": 52,
+          "expanded_url": "https://x.com/Owo_zhou3/status/2010024589854982584/photo/1",
+          "media_key": "3_2010024582556856320",
+          "start": 29,
+          "url": "https://t.co/RSB8119Uzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010024589854982584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我第一次在抖音收到这样的陌生人私信我还以为我打开错软件了 https://t.co/RSB8119Uzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2010024582556856320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UKtVEasAAlugc.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010024582556856320"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "2010024589854982584",
+        "created_at": "2026-01-10T16:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010024589854982584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSB8119Uzd",
+              "end": 52,
+              "expanded_url": "https://x.com/Owo_zhou3/status/2010024589854982584/photo/1",
+              "media_key": "3_2010024582556856320",
+              "start": 29,
+              "url": "https://t.co/RSB8119Uzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010024589854982584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次在抖音收到这样的陌生人私信我还以为我打开错软件了 https://t.co/RSB8119Uzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3953,
+          "following_count": 99,
+          "like_count": 835,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 2344
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      }
+    ]
+  }
+}

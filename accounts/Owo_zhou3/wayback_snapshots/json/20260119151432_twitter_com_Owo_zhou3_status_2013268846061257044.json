@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2013080965460189240",
+    "created_at": "2026-01-19T15:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T16:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013268846061257044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002776505420824576",
+          "start": 0,
+          "username": "well0604"
+        },
+        {
+          "end": 19,
+          "id": "1765622080135974912",
+          "start": 10,
+          "username": "nn091126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013268846061257044",
+    "in_reply_to_user_id": "2002776505420824576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013265327237251273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@well0604 @nn091126 真的假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2013080965460189240",
+        "created_at": "2026-01-19T15:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013268846061257044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002776505420824576",
+              "start": 0,
+              "username": "well0604"
+            },
+            {
+              "end": 19,
+              "id": "1765622080135974912",
+              "start": 10,
+              "username": "nn091126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013268846061257044",
+        "in_reply_to_user_id": "2002776505420824576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013265327237251273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@well0604 @nn091126 真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002776505420824576",
+        "conversation_id": "2013080965460189240",
+        "created_at": "2026-01-19T15:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013265327237251273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1765622080135974912",
+              "start": 0,
+              "username": "nn091126"
+            },
+            {
+              "end": 20,
+              "id": "1962554097120485377",
+              "start": 10,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013265327237251273",
+        "in_reply_to_user_id": "1765622080135974912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013171299435139270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn091126 @Owo_zhou3 咋了你穿了？，穿了必挂科"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信｜推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwBJRw"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4213,
+          "following_count": 100,
+          "like_count": 865,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 2439
+        },
+        "url": "https://t.co/rPNhEwBJRw",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T16:22:05.000Z",
+        "description": "互关，北京 01",
+        "id": "2002776505420824576",
+        "name": "仓鼠球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002803149468577792/EotTuuzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 108,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 114
+        },
+        "username": "well0604",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T06:14:53.000Z",
+        "description": "还真是高高在上呢亲",
+        "id": "1765622080135974912",
+        "name": "句句",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928534314784010242/mUbI_uuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 68,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "nn091126",
+        "verified": false
+      }
+    ]
+  }
+}

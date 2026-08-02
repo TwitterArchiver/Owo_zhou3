@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992251762347229660",
+    "created_at": "2025-11-22T15:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T16:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992255316516569581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529292829704716288",
+          "start": 0,
+          "username": "kqKoJamH0ihT9gV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992255316516569581",
+    "in_reply_to_user_id": "1529292829704716288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992255228096496022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kqKoJamH0ihT9gV 噢噢给钱就行很简单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992251762347229660",
+        "created_at": "2025-11-22T15:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992255316516569581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529292829704716288",
+              "start": 0,
+              "username": "kqKoJamH0ihT9gV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992255316516569581",
+        "in_reply_to_user_id": "1529292829704716288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992255228096496022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kqKoJamH0ihT9gV 噢噢给钱就行很简单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529292829704716288",
+        "conversation_id": "1992251762347229660",
+        "created_at": "2025-11-22T15:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992255228096496022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992255228096496022",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992251762347229660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 意思是人和人链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 75,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T02:46:55.000Z",
+        "description": "幸福版",
+        "id": "1529292829704716288",
+        "name": "kk",
+        "pinned_tweet_id": "1878049281166438572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949882756621578240/kEnLFmBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 948,
+          "like_count": 166157,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 30134
+        },
+        "username": "kqKoJamH0ihT9gV",
+        "verified": false
+      }
+    ]
+  }
+}

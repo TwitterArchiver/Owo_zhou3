@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2025257333702656342",
+    "created_at": "2026-02-28T19:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T20:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027831870319435943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1979587317359939584",
+          "start": 0,
+          "username": "SS12OW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027831870319435943",
+    "in_reply_to_user_id": "1979587317359939584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025257333702656342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SS12OW 这臭骗子咋这么坏😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_2025257321845456898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsozc9bgAIA72z.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2025257333702656342",
+        "created_at": "2026-02-28T19:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T20:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027831870319435943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1979587317359939584",
+              "start": 0,
+              "username": "SS12OW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027831870319435943",
+        "in_reply_to_user_id": "1979587317359939584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025257333702656342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SS12OW 这臭骗子咋这么坏😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025257321845456898"
+          ]
+        },
+        "author_id": "1979587317359939584",
+        "conversation_id": "2025257333702656342",
+        "created_at": "2026-02-21T17:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025257333702656342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgJekXjIfE",
+              "end": 125,
+              "expanded_url": "https://x.com/SS12OW/status/2025257333702656342/photo/1",
+              "media_key": "3_2025257321845456898",
+              "start": 102,
+              "url": "https://t.co/SgJekXjIfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025257333702656342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 82171,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "@xihaunni030\n⚠️此号找不回来了 很心痛\n我没有处理好卖号的流程 被骗子骗了\n求大家点点举报 因为里面我所有的照片视频都没有删掉 求认识的朋友转发一下 大家点点举报把这个账号整废 谢谢大家🧎 https://t.co/SgJekXjIfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 105,
+          "like_count": 913,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 2854
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T16:36:39.000Z",
+        "description": "有对象｜这个号@xihuanni030已不是本人 被骗子骗走了 找不回来了 求大家点点举报！！！谢谢！！ 互关宝宝请私信我！！！😭呜呜呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xihuanni030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/Hgmfaaosne"
+              }
+            ]
+          }
+        },
+        "id": "1979587317359939584",
+        "location": "自用vpn",
+        "name": "糯米侠（原号已被骗）",
+        "pinned_tweet_id": "2025257333702656342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025257610543595525/wpRGU4kR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 74,
+          "like_count": 151,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/Hgmfaaosne",
+        "username": "SS12OW",
+        "verified": false
+      }
+    ]
+  }
+}

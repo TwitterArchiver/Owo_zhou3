@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1991411390649893283",
+    "created_at": "2025-11-21T03:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T04:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991715128409231402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1065614948",
+          "start": 0,
+          "username": "iamyanp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991715128409231402",
+    "in_reply_to_user_id": "1065614948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991708204250874042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamyanp 根本没人愿意当我的男人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1991411390649893283",
+        "created_at": "2025-11-21T03:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991715128409231402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1065614948",
+              "start": 0,
+              "username": "iamyanp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991715128409231402",
+        "in_reply_to_user_id": "1065614948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991708204250874042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamyanp 根本没人愿意当我的男人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1065614948",
+        "conversation_id": "1991411390649893283",
+        "created_at": "2025-11-21T03:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991708204250874042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991708204250874042",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991411390649893283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 每个成功的女人背后都有一个默默付出的男人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 68,
+          "like_count": 322,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-06T12:43:06.000Z",
+        "description": "Software Developer, bug inventor and passionate scuba diver/swimmer. Avid traveler and explorer of the unknown. focus on #AIGC #LLMs E/acc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 121,
+                "tag": "AIGC"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "LLMs"
+              }
+            ]
+          }
+        },
+        "id": "1065614948",
+        "location": "San Jose, CA",
+        "name": "Joseph",
+        "pinned_tweet_id": "1980600460009697305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654771141502988289/bEt-5u4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 3716,
+          "like_count": 11597,
+          "listed_count": 10,
+          "media_count": 18001,
+          "tweet_count": 21385
+        },
+        "username": "iamyanp",
+        "verified": false
+      }
+    ]
+  }
+}

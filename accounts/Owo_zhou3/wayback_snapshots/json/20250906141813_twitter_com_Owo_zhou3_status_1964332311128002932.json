@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964332311128002932",
+    "created_at": "2025-09-06T14:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964332311128002932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds520/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hgds520/status/1964327179640340632",
+          "start": 11,
+          "url": "https://t.co/UX2gbzyf1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964332311128002932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964327179640340632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得我应该吃老鼠药 https://t.co/UX2gbzyf1n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964332311128002932",
+        "created_at": "2025-09-06T14:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964332311128002932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds520/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hgds520/status/1964327179640340632",
+              "start": 11,
+              "url": "https://t.co/UX2gbzyf1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964332311128002932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964327179640340632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我应该吃老鼠药 https://t.co/UX2gbzyf1n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1964327179640340632",
+        "created_at": "2025-09-06T13:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T14:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964327179640340632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964327179640340632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底该拖着这个没用的身体活下去还是吃老鼠药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 44,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "你读这句话的时候这几秒就没了 因为我是时间掠夺者 专门发无聊的东西来浪费你的时间",
+        "id": "1826321786834944000",
+        "location": "乱发的",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1953803355685372350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 442,
+          "like_count": 7193,
+          "listed_count": 9,
+          "media_count": 71,
+          "tweet_count": 441
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

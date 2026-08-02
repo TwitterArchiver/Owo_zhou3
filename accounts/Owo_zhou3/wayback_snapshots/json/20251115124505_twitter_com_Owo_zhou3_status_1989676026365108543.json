@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1989676026365108543",
+    "created_at": "2025-11-15T12:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989676026365108543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuuuu999666/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yuuuu999666/status/1989339397238788285",
+          "start": 13,
+          "url": "https://t.co/T2xiiHAgRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989676026365108543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989339397238788285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉是的没错 就是这个道理 https://t.co/T2xiiHAgRH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1989676026365108543",
+        "created_at": "2025-11-15T12:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989676026365108543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuuuu999666/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yuuuu999666/status/1989339397238788285",
+              "start": 13,
+              "url": "https://t.co/T2xiiHAgRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989676026365108543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989339397238788285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉是的没错 就是这个道理 https://t.co/T2xiiHAgRH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871223001846624256",
+        "conversation_id": "1989339397238788285",
+        "created_at": "2025-11-14T14:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989339397238788285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989339397238788285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 69920,
+          "like_count": 422,
+          "quote_count": 7,
+          "reply_count": 55,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "对一个人祛魅只需要看他的关注……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 67,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T15:55:16.000Z",
+        "description": "我有厌蠢症 不加v 不收门 不接置顶",
+        "id": "1871223001846624256",
+        "name": "你是不是油饼",
+        "pinned_tweet_id": "1985621837825655089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886615285282824193/k1wYQaIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6859,
+          "following_count": 143,
+          "like_count": 3375,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 2613
+        },
+        "username": "yuuuu999666",
+        "verified": false
+      }
+    ]
+  }
+}

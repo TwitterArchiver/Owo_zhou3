@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964212402523951421",
+    "created_at": "2025-09-06T17:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T18:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964380913120538818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899021424121065472",
+          "start": 0,
+          "username": "Tom_joseph23"
+        },
+        {
+          "end": 25,
+          "id": "1797748262142914560",
+          "start": 14,
+          "username": "JiaDi75222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964380913120538818",
+    "in_reply_to_user_id": "1899021424121065472",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964212402523951421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_joseph23 @JiaDi75222"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964212402523951421",
+        "created_at": "2025-09-06T17:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964380913120538818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899021424121065472",
+              "start": 0,
+              "username": "Tom_joseph23"
+            },
+            {
+              "end": 25,
+              "id": "1797748262142914560",
+              "start": 14,
+              "username": "JiaDi75222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964380913120538818",
+        "in_reply_to_user_id": "1899021424121065472",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964212402523951421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_joseph23 @JiaDi75222"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899021424121065472",
+        "conversation_id": "1964212402523951421",
+        "created_at": "2025-09-06T06:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T07:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964212402523951421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964212402523951421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 33165,
+          "like_count": 320,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "约了4i女实践，结果说要事前调教我一下，我以为是情趣性的play，还跟我玩上了捆绑，结果下一刻掏出了她的鞭子。三鞭打醒m魂，主银我是正常人！！！😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 45,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T08:56:14.000Z",
+        "description": "2月水瓶♒entp  switch  可以叫我joseph也可以叫我小jo\n\n 自用蜂鸟vpn:https://t.co/g3Qk6OmDQy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=beNPB4NZ",
+                "start": 48,
+                "url": "https://t.co/g3Qk6OmDQy"
+              }
+            ]
+          }
+        },
+        "id": "1899021424121065472",
+        "name": "joseph",
+        "pinned_tweet_id": "1949627046231195913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954539234507014144/GscjWris_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 293,
+          "like_count": 46295,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 5749
+        },
+        "username": "Tom_joseph23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T21:52:53.000Z",
+        "description": "",
+        "id": "1797748262142914560",
+        "name": "bzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797748330019336192/y-4uvArt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 50,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "JiaDi75222",
+        "verified": false
+      }
+    ]
+  }
+}

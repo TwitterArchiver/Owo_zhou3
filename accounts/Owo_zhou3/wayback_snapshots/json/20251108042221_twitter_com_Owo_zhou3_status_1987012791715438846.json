@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1949971518546387421",
+    "created_at": "2025-11-08T04:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987012791715438846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930462628629098498",
+          "start": 0,
+          "username": "xiangyaoyigeren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987012791715438846",
+    "in_reply_to_user_id": "1930462628629098498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949971518546387421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangyaoyigeren 握草我好喜欢这个图片我能不能保存"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_1949971514901618689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw-wwuvXYAEwrOP.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1949971518546387421",
+        "created_at": "2025-11-08T04:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987012791715438846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930462628629098498",
+              "start": 0,
+              "username": "xiangyaoyigeren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987012791715438846",
+        "in_reply_to_user_id": "1930462628629098498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949971518546387421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangyaoyigeren 握草我好喜欢这个图片我能不能保存"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949971514901618689"
+          ]
+        },
+        "author_id": "1930462628629098498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1949971518546387421",
+        "created_at": "2025-07-28T23:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T00:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949971518546387421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fw1VpSYUkd",
+              "end": 32,
+              "expanded_url": "https://x.com/xiangyaoyigeren/status/1949971518546387421/photo/1",
+              "media_key": "3_1949971514901618689",
+              "start": 9,
+              "url": "https://t.co/Fw1VpSYUkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949971518546387421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 86028,
+          "like_count": 1167,
+          "quote_count": 5,
+          "reply_count": 109,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "好吃，酸酸甜甜的 https://t.co/Fw1VpSYUkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 51,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T03:12:34.000Z",
+        "description": "",
+        "id": "1930462628629098498",
+        "name": "Shyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977188070182277120/-uklYeLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 53,
+          "like_count": 8412,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 95
+        },
+        "username": "xiangyaoyigeren",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988552487985414321",
+    "created_at": "2025-11-12T10:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988552487985414321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1829882799018618880",
+          "start": 3,
+          "username": "Mermercury52955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988552487985414321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988298815166926942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mermercury52955: 其实比起网黄到底有没有钱 我更在乎你们那些大额转账和收到的电子产品奢侈品啥的到底是哪里来的。。。演的还是真的。。。我咋一直接不到😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988552487985414321",
+        "created_at": "2025-11-12T10:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988552487985414321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1829882799018618880",
+              "start": 3,
+              "username": "Mermercury52955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988552487985414321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988298815166926942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mermercury52955: 其实比起网黄到底有没有钱 我更在乎你们那些大额转账和收到的电子产品奢侈品啥的到底是哪里来的。。。演的还是真的。。。我咋一直接不到😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829882799018618880",
+        "conversation_id": "1988298815166926942",
+        "created_at": "2025-11-11T17:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988298815166926942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988298815166926942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 26464,
+          "like_count": 157,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实比起网黄到底有没有钱 我更在乎你们那些大额转账和收到的电子产品奢侈品啥的到底是哪里来的。。。演的还是真的。。。我咋一直接不到😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 57,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T14:04:23.000Z",
+        "description": "原号@Mermercury38811 已被盗 新号求善待🏳️/🚪88 | 128 | 188 | 520/爱我请给我打钱💕/互关宝宝都来私联我🙇🏻‍♀️/诚收atm奴💰/关评tg自辨⚠️/我宝宝@YiQuandbn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Mermercury38811"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "YiQuandbn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=nJpdb0Yw",
+                "start": 0,
+                "url": "https://t.co/uItb8iTGgB"
+              }
+            ]
+          }
+        },
+        "id": "1829882799018618880",
+        "location": "自用vpn：",
+        "name": "Mermercury（养号版）",
+        "pinned_tweet_id": "1987423958560583913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829883693147848704/zpxtO0Ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8344,
+          "following_count": 246,
+          "like_count": 845,
+          "listed_count": 13,
+          "media_count": 131,
+          "tweet_count": 1754
+        },
+        "url": "https://t.co/uItb8iTGgB",
+        "username": "Mermercury52955",
+        "verified": false
+      }
+    ]
+  }
+}

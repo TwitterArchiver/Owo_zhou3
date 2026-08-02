@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1979645915079299479",
+    "created_at": "2025-10-18T20:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T21:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979645915079299479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xssj9464/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/xssj9464/status/1979502910389326154",
+          "start": 12,
+          "url": "https://t.co/lRjBPrqD1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979645915079299479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979502910389326154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我付出真心就这样被对待 https://t.co/lRjBPrqD1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1979502901509705728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ibZqxXUAAYX20.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1979645915079299479",
+        "created_at": "2025-10-18T20:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T21:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979645915079299479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xssj9464/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xssj9464/status/1979502910389326154",
+              "start": 12,
+              "url": "https://t.co/lRjBPrqD1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979645915079299479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979502910389326154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我付出真心就这样被对待 https://t.co/lRjBPrqD1i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979502901509705728"
+          ]
+        },
+        "author_id": "1822003489373089792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979502910389326154",
+        "created_at": "2025-10-18T11:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979502910389326154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FinuRoTpV5",
+              "end": 35,
+              "expanded_url": "https://x.com/xssj9464/status/1979502910389326154/photo/1",
+              "media_key": "3_1979502901509705728",
+              "start": 12,
+              "url": "https://t.co/FinuRoTpV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979502910389326154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15121,
+          "like_count": 193,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我付出真心就这样被对待 https://t.co/FinuRoTpV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 47,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T20:14:25.000Z",
+        "description": "出稳定vpn价格便宜 约稿/占塔罗19.9私 不准不收钱（占卜只回复占卜问题 别把我当陪聊 请不要长时间不回信息 浪费时间）爱搞抽象 当真的建议去医院测智商 置顶电报推广自辨！！！",
+        "id": "1822003489373089792",
+        "location": "冰岛",
+        "name": "sad",
+        "pinned_tweet_id": "1958169213589184694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973529929401892864/22HNxfHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3069,
+          "following_count": 187,
+          "like_count": 3877,
+          "listed_count": 5,
+          "media_count": 268,
+          "tweet_count": 2720
+        },
+        "username": "xssj9464",
+        "verified": false
+      }
+    ]
+  }
+}

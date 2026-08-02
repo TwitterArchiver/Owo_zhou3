@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2015659830254489669",
+    "created_at": "2026-01-26T05:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T06:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015659830254489669"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015659830254489669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢群主恁没有踢俺，俺一个乡下来咧在这个群里根本某存在感，也木人会稀罕俺也不会说好听话，游戏也玩嘞不中，上嘞学校也不行，俺布袋里也某啥钱，长哩也信球，个儿也不高，也不懂很多梗，能看着恁聊天，俺就很美慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2015659830254489669",
+        "created_at": "2026-01-26T05:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015659830254489669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015659830254489669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢群主恁没有踢俺，俺一个乡下来咧在这个群里根本某存在感，也木人会稀罕俺也不会说好听话，游戏也玩嘞不中，上嘞学校也不行，俺布袋里也某啥钱，长哩也信球，个儿也不高，也不懂很多梗，能看着恁聊天，俺就很美慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信｜推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwBJRw"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4157,
+          "following_count": 102,
+          "like_count": 872,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/rPNhEwBJRw",
+        "username": "Owo_zhou3",
+        "verified": true
+      }
+    ]
+  }
+}

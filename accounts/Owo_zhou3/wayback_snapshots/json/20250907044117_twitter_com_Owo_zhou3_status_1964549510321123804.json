@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964549510321123804",
+    "created_at": "2025-09-07T04:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T05:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964549510321123804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mianbao0923/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/mianbao0923/status/1964356720748351683",
+          "start": 10,
+          "url": "https://t.co/DqtXuyE6xI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964549510321123804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964356720748351683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁长的好看不露脸？ https://t.co/DqtXuyE6xI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964549510321123804",
+        "created_at": "2025-09-07T04:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T05:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964549510321123804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mianbao0923/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/mianbao0923/status/1964356720748351683",
+              "start": 10,
+              "url": "https://t.co/DqtXuyE6xI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964549510321123804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964356720748351683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁长的好看不露脸？ https://t.co/DqtXuyE6xI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785295939168788481",
+        "conversation_id": "1964356720748351683",
+        "created_at": "2025-09-06T15:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T16:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964356720748351683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964356720748351683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7332,
+          "like_count": 123,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们就信我的吧不露脸就是长的丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 47,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:11:47.000Z",
+        "description": "🍞面包大王｜男女混血❤️‍🔥/卧室✈️客厅｜互关可以+v",
+        "id": "1785295939168788481",
+        "location": "🚪",
+        "name": "面包圈儿",
+        "pinned_tweet_id": "1903828298335158776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901688079536238592/QdPmUU_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4038,
+          "following_count": 260,
+          "like_count": 3736,
+          "listed_count": 12,
+          "media_count": 51,
+          "tweet_count": 752
+        },
+        "username": "mianbao0923",
+        "verified": false
+      }
+    ]
+  }
+}

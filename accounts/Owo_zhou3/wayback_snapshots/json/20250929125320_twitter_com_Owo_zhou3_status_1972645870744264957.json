@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1971956701420310758",
+    "created_at": "2025-09-29T12:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T13:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972645870744264957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878487072060923905",
+          "start": 0,
+          "username": "en_zhang22317"
+        },
+        {
+          "end": 27,
+          "id": "1688397365336850432",
+          "start": 15,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972645870744264957",
+    "in_reply_to_user_id": "1878487072060923905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971957471582605660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@en_zhang22317 @hongpigu980 笑得我好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1971956701420310758",
+        "created_at": "2025-09-29T12:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972645870744264957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878487072060923905",
+              "start": 0,
+              "username": "en_zhang22317"
+            },
+            {
+              "end": 27,
+              "id": "1688397365336850432",
+              "start": 15,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972645870744264957",
+        "in_reply_to_user_id": "1878487072060923905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971957471582605660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@en_zhang22317 @hongpigu980 笑得我好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878487072060923905",
+        "conversation_id": "1971956701420310758",
+        "created_at": "2025-09-27T15:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971957471582605660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971957471582605660",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2257,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971956701420310758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 你妈，牛要是知道费劲巴拉产的奶让你俩这种畜生糟蹋，卯足了劲儿也要顶死你俩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972118774305509379/ICA27RGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 47,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T17:00:12.000Z",
+        "description": "｜臀控晚期🍑｜上翘大🐔｜情绪记录本📝｜",
+        "id": "1878487072060923905",
+        "location": "🪬Hangzhou",
+        "name": "Z",
+        "pinned_tweet_id": "1969430872173789542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878487736669343744/vfxZW9g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 115,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 3026
+        },
+        "username": "en_zhang22317",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "dy：yiyiio3o “用性对抗平庸的生活”推广自辨/关评为广 🥇全球外围质量最高选➡️ @yunle111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "yunle111"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1971228496501538879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80890,
+          "following_count": 72,
+          "like_count": 83,
+          "listed_count": 81,
+          "media_count": 1271,
+          "tweet_count": 1657
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

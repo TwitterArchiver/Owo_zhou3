@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963540556489035982",
+    "created_at": "2025-09-04T22:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T23:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963729932506575259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531200287733473280",
+          "start": 0,
+          "username": "Bubblelightbulb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963729932506575259",
+    "in_reply_to_user_id": "1531200287733473280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963540556489035982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bubblelightbulb 笑得我想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963540556489035982",
+        "created_at": "2025-09-04T22:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T23:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963729932506575259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531200287733473280",
+              "start": 0,
+              "username": "Bubblelightbulb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963729932506575259",
+        "in_reply_to_user_id": "1531200287733473280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963540556489035982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bubblelightbulb 笑得我想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531200287733473280",
+        "conversation_id": "1963540556489035982",
+        "created_at": "2025-09-04T09:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963540556489035982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "睡奸"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "粉丝投稿"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963540556489035982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 80561,
+          "like_count": 1422,
+          "quote_count": 15,
+          "reply_count": 23,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "我说的睡奸是在迷迷糊糊半梦半醒的时候被强制爱，而不是在我已经陷入婴儿般的睡眠准备野性打呼的时候被乱捅。\n#睡奸 #粉丝投稿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "name": "小梨别",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T09:06:23.000Z",
+        "description": "Female／无属性写文机器／定制文90每千字／什么都写/ 任何需求请私信／兼职半个交友墙bot／不能回复为推广请自辨（吃完饭会好好回馈大家）",
+        "id": "1531200287733473280",
+        "location": "西風漂流帶",
+        "name": "BubbleLight",
+        "pinned_tweet_id": "1949970629538513120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932748338455326723/1UZCIGG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45190,
+          "following_count": 302,
+          "like_count": 156,
+          "listed_count": 73,
+          "media_count": 67,
+          "tweet_count": 800
+        },
+        "username": "Bubblelightbulb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2007295875295654378",
+    "created_at": "2026-01-05T06:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T07:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008060117934313559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1639455912007200769",
+          "start": 0,
+          "username": "xiaodeng190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008060117934313559",
+    "in_reply_to_user_id": "1639455912007200769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007996271223861625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaodeng190 一直都不喜欢 嘴太臭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2007295875295654378",
+        "created_at": "2026-01-05T06:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008060117934313559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1639455912007200769",
+              "start": 0,
+              "username": "xiaodeng190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008060117934313559",
+        "in_reply_to_user_id": "1639455912007200769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007996271223861625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaodeng190 一直都不喜欢 嘴太臭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639455912007200769",
+        "conversation_id": "2007295875295654378",
+        "created_at": "2026-01-05T02:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007996271223861625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007996271223861625",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007295875295654378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我以前还蛮喜欢看他的，后面好像塌方之后就没关注他了，也慢慢有点厌恶了，他后面复播我都不知道，抖音刷到才知道他复播了，但是感觉他很无聊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3826,
+          "following_count": 99,
+          "like_count": 822,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2301
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-25T02:35:41.000Z",
+        "description": "爱国爱党🇨🇳",
+        "id": "1639455912007200769",
+        "location": "距离她520m",
+        "name": "circulate",
+        "pinned_tweet_id": "1971045324266537365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963489690880983040/z1D3lP3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 953,
+          "like_count": 11753,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "xiaodeng190",
+        "verified": false
+      }
+    ]
+  }
+}

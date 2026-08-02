@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992269355774800052",
+    "created_at": "2025-11-22T16:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992269714543051133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1927912422385537024",
+          "start": 0,
+          "username": "giveson30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992269714543051133",
+    "in_reply_to_user_id": "1927912422385537024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992269633806913544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@giveson30 笑得我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992269355774800052",
+        "created_at": "2025-11-22T16:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992269714543051133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1927912422385537024",
+              "start": 0,
+              "username": "giveson30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992269714543051133",
+        "in_reply_to_user_id": "1927912422385537024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992269633806913544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giveson30 笑得我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927912422385537024",
+        "conversation_id": "1992269355774800052",
+        "created_at": "2025-11-22T16:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992269633806913544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992269633806913544",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992269355774800052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 好诡异，给生殖器整个齐刘海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 75,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T02:18:50.000Z",
+        "description": "一个很无聊的低脂发牢骚日常号/欢迎大家来找我聊天\n匿名在这里https://t.co/bapTaOI2DV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadnessduck1",
+                "end": 53,
+                "expanded_url": "https://ngl.link/sadnessduck1",
+                "start": 30,
+                "url": "https://t.co/bapTaOI2DV"
+              }
+            ]
+          }
+        },
+        "id": "1927912422385537024",
+        "name": "忧郁鸭子🦆",
+        "pinned_tweet_id": "1972329830030139885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949168743495634944/Je9AakIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 205,
+          "like_count": 11556,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 5888
+        },
+        "username": "giveson30",
+        "verified": false
+      }
+    ]
+  }
+}

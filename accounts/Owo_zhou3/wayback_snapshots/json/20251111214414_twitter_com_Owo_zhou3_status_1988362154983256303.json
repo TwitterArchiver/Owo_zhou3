@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988362154983256303",
+    "created_at": "2025-11-11T21:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T22:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988362154983256303"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988362154983256303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别喜欢细腻的文字 关注到我可能是因为我的抽象觉得我可爱又或许是样貌是你喜欢的风格 但我更想要等待一个觉得我和我有同样精神思想的人 我喜欢写长篇大论表达心里的想法 喜欢浮想联翩我的精神只有两个极端 过度抑郁和躁狂 而如果因为我的文字和那些新颖的思维让你喜欢我的话 那是最荣幸的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988362154983256303",
+        "created_at": "2025-11-11T21:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988362154983256303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988362154983256303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢细腻的文字 关注到我可能是因为我的抽象觉得我可爱又或许是样貌是你喜欢的风格 但我更想要等待一个觉得我和我有同样精神思想的人 我喜欢写长篇大论表达心里的想法 喜欢浮想联翩我的精神只有两个极端 过度抑郁和躁狂 而如果因为我的文字和那些新颖的思维让你喜欢我的话 那是最荣幸的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 55,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

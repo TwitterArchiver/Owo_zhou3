@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1987860776296800310",
+    "created_at": "2025-11-11T11:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T12:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988209035464921091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732775121797136384",
+          "start": 0,
+          "username": "zuilizhishier"
+        },
+        {
+          "end": 26,
+          "id": "1697814206903361536",
+          "start": 15,
+          "username": "Ttttjx1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988209035464921091",
+    "in_reply_to_user_id": "1732775121797136384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987860776296800310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuilizhishier @Ttttjx1124 咋搓的🤨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_1987860522294001664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZMnOZbQAAaxLa.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1987860776296800310",
+        "created_at": "2025-11-11T11:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988209035464921091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732775121797136384",
+              "start": 0,
+              "username": "zuilizhishier"
+            },
+            {
+              "end": 26,
+              "id": "1697814206903361536",
+              "start": 15,
+              "username": "Ttttjx1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988209035464921091",
+        "in_reply_to_user_id": "1732775121797136384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987860776296800310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuilizhishier @Ttttjx1124 咋搓的🤨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987860522294001664"
+          ]
+        },
+        "author_id": "1732775121797136384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987860776296800310",
+        "created_at": "2025-11-10T12:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987860776296800310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lus2uuOfzU",
+              "end": 30,
+              "expanded_url": "https://x.com/zuilizhishier/status/1987860776296800310/photo/1",
+              "media_key": "3_1987860522294001664",
+              "start": 7,
+              "url": "https://t.co/lus2uuOfzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987860776296800310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 435666,
+          "like_count": 4829,
+          "quote_count": 8,
+          "reply_count": 51,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "东北恐怖故事 https://t.co/lus2uuOfzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 54,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:52:46.000Z",
+        "description": "熟悉的人都在身旁 日子过得漫长且温暖 你可以和以前一样 同故人做旧事 也可以投身新事物 明天对你来说只是明天 无关压力 离别和死亡",
+        "id": "1732775121797136384",
+        "location": "长春市新民大街",
+        "name": "番茄哈猫🍐",
+        "pinned_tweet_id": "1987459249954553860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986314715342249985/IwbPq21S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 356,
+          "like_count": 5928,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 3314
+        },
+        "username": "zuilizhishier",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T03:30:40.000Z",
+        "description": "",
+        "id": "1697814206903361536",
+        "name": "忧忧又郁郁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988189959355068418/B1qzhq53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "Ttttjx1124",
+        "verified": false
+      }
+    ]
+  }
+}

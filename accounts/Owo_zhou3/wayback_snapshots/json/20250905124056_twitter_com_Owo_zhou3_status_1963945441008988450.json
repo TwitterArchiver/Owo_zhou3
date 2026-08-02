@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963945163958485382",
+    "created_at": "2025-09-05T12:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963945441008988450"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1963945441008988450",
+    "in_reply_to_user_id": "1962554097120485377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963945163958485382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "握草我咋越看越丑"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18218,
+        "height": 960,
+        "media_key": "13_1963945100716994560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963945100716994560/img/jO5Fj7I296Y0zady.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963945100716994560/vid/avc1/320x426/WkUps6CuVKf1cFau.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963945100716994560/vid/avc1/480x640/a3RE9zNZ_Z2EKjQD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963945100716994560/vid/avc1/720x960/B9JW3gw2P1FHRQYU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963945100716994560/pl/conywe7ISsyudqaF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963945163958485382",
+        "created_at": "2025-09-05T12:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963945441008988450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963945441008988450",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963945163958485382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "握草我咋越看越丑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963945100716994560"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963945163958485382",
+        "created_at": "2025-09-05T12:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963945163958485382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvUcPeQNwA",
+              "end": 52,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1963945163958485382/video/1",
+              "media_key": "13_1963945100716994560",
+              "start": 29,
+              "url": "https://t.co/MvUcPeQNwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963945163958485382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个其实我挺喜欢的 但是这个封烟画质让我很火大你知道吧对 https://t.co/MvUcPeQNwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963931431652249966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 114
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

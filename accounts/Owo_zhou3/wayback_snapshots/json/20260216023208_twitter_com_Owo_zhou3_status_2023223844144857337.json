@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2023041608338514375",
+    "created_at": "2026-02-16T02:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023223844144857337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551435000075038720",
+          "start": 0,
+          "username": "shanzaiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023223844144857337",
+    "in_reply_to_user_id": "1551435000075038720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023081117981761689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanzaiwu 鵝媽媽憑本事賺錢吧 屬於我的心心呢..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2023041608338514375",
+        "created_at": "2026-02-16T02:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023223844144857337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551435000075038720",
+              "start": 0,
+              "username": "shanzaiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023223844144857337",
+        "in_reply_to_user_id": "1551435000075038720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023081117981761689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanzaiwu 鵝媽媽憑本事賺錢吧 屬於我的心心呢..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551435000075038720",
+        "conversation_id": "2023041608338514375",
+        "created_at": "2026-02-15T17:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023081117981761689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023081117981761689",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023041608338514375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 心心还说一句 这是秦豪才有的态度\n我感觉心心就是靠emm火起来的 这么说发抖音 搞得自己很深情 其实就是一个愿打一个愿挨 在他心里那些只是他的生活费 如果我是emm我会很难受 我只是一个穷人 心心把钱分给别人也管不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 99,
+          "like_count": 891,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T05:11:52.000Z",
+        "description": "🚪88/188/288 江苏",
+        "id": "1551435000075038720",
+        "name": "鎮靜劑",
+        "pinned_tweet_id": "1967509600745443833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949470451539017729/m4dH5zmQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 5,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 139
+        },
+        "username": "shanzaiwu",
+        "verified": false
+      }
+    ]
+  }
+}

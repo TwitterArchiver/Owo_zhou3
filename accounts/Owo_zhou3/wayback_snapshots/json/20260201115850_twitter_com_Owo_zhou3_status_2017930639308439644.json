@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2017901384914346451",
+    "created_at": "2026-02-01T11:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T12:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017930639308439644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993224784336048128",
+          "start": 0,
+          "username": "XixiYyybuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017930639308439644",
+    "in_reply_to_user_id": "1993224784336048128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017901384914346451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XixiYyybuu 姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_2017901371001888768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEGmwpXYAALRVz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2017901384914346451",
+        "created_at": "2026-02-01T11:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017930639308439644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993224784336048128",
+              "start": 0,
+              "username": "XixiYyybuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017930639308439644",
+        "in_reply_to_user_id": "1993224784336048128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017901384914346451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XixiYyybuu 姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017901371001888768"
+          ]
+        },
+        "author_id": "1993224784336048128",
+        "conversation_id": "2017901384914346451",
+        "created_at": "2026-02-01T10:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017901384914346451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7C6RjtjhYw",
+              "end": 37,
+              "expanded_url": "https://x.com/XixiYyybuu/status/2017901384914346451/photo/1",
+              "media_key": "3_2017901371001888768",
+              "start": 14,
+              "url": "https://t.co/7C6RjtjhYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017901384914346451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13188,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2026从今天开始幸福起来 https://t.co/7C6RjtjhYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 99,
+          "like_count": 884,
+          "listed_count": 4,
+          "media_count": 282,
+          "tweet_count": 2573
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T07:49:05.000Z",
+        "description": "05 |超级日常碎碎念大王🧩 | 游戏🎮健身🏋️| 现充～不网恋 |(*≧ω≦)只回正经提问和口令 | 不约不线下！欢迎你来提问箱https://t.co/qVGvFKqr0I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xieefozuxx",
+                "end": 88,
+                "expanded_url": "https://ngl.link/xieefozuxx",
+                "start": 65,
+                "url": "https://t.co/qVGvFKqr0I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://pilot.damoplane.com/#/register?code=fO1uFsvi",
+                "start": 0,
+                "url": "https://t.co/VOfwfU4jqw"
+              }
+            ]
+          }
+        },
+        "id": "1993224784336048128",
+        "location": "🚪388/520/pyq/日常|纯绿|自用vpn👇",
+        "name": "‎₊˚꩜ XiXi酱 ✮˚₊",
+        "pinned_tweet_id": "2012431407214195118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013250755147210752/ww_uIP0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13753,
+          "following_count": 74,
+          "like_count": 728,
+          "listed_count": 22,
+          "media_count": 81,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/VOfwfU4jqw",
+        "username": "XixiYyybuu",
+        "verified": false
+      }
+    ]
+  }
+}

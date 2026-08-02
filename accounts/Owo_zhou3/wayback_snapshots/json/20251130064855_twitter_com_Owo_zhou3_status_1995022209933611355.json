@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1995022209933611355",
+    "created_at": "2025-11-30T06:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995022209933611355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woailashi8/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/woailashi8/status/1994782896759214319",
+          "start": 25,
+          "url": "https://t.co/UDCyyvHmQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995022209933611355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994782896759214319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我私人推我想说什么就说什么，你想让我闭嘴请转账! https://t.co/UDCyyvHmQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_1994782894351695872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67keT3bwAAwS9Y.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1995022209933611355",
+        "created_at": "2025-11-30T06:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995022209933611355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woailashi8/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/woailashi8/status/1994782896759214319",
+              "start": 25,
+              "url": "https://t.co/UDCyyvHmQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995022209933611355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994782896759214319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我私人推我想说什么就说什么，你想让我闭嘴请转账! https://t.co/UDCyyvHmQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994782894351695872"
+          ]
+        },
+        "author_id": "1948779307045978112",
+        "conversation_id": "1994782896759214319",
+        "created_at": "2025-11-29T14:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994782896759214319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcl0aoVizk",
+              "end": 47,
+              "expanded_url": "https://x.com/woAiLashi8/status/1994782896759214319/photo/1",
+              "media_key": "3_1994782894351695872",
+              "start": 24,
+              "url": "https://t.co/bcl0aoVizk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994782896759214319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8037,
+          "like_count": 94,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我私人推我想说什么说什么，你想让我闭嘴请转账！ https://t.co/bcl0aoVizk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 80,
+          "like_count": 499,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "我只和喜欢的人玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/walssthh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/walssthh",
+                "start": 0,
+                "url": "https://t.co/X6yb4bgUA7"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "一起拉屎吧！",
+        "pinned_tweet_id": "1972603526909186289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988191909253439488/r_Va_bnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4704,
+          "following_count": 384,
+          "like_count": 53640,
+          "listed_count": 7,
+          "media_count": 485,
+          "tweet_count": 19822
+        },
+        "url": "https://t.co/X6yb4bgUA7",
+        "username": "woAiLashi8",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2022638403335131644",
+    "created_at": "2026-02-14T15:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022697464630059107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1509884529133056004",
+          "start": 0,
+          "username": "xcnnz12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022697464630059107",
+    "in_reply_to_user_id": "1509884529133056004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022638403335131644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcnnz12 咋这样啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022638395978321922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHa551akAIhed3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2022638403335131644",
+        "created_at": "2026-02-14T15:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022697464630059107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1509884529133056004",
+              "start": 0,
+              "username": "xcnnz12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022697464630059107",
+        "in_reply_to_user_id": "1509884529133056004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022638403335131644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcnnz12 咋这样啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022638395978321922"
+          ]
+        },
+        "author_id": "1509884529133056004",
+        "conversation_id": "2022638403335131644",
+        "created_at": "2026-02-14T11:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022638403335131644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECWTlbqNow",
+              "end": 40,
+              "expanded_url": "https://x.com/xcnnz12/status/2022638403335131644/photo/1",
+              "media_key": "3_2022638395978321922",
+              "start": 17,
+              "url": "https://t.co/ECWTlbqNow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022638403335131644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1512,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸就宠我吧 就给我惊喜吧🌚🌚🌚 https://t.co/ECWTlbqNow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4390,
+          "following_count": 99,
+          "like_count": 892,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 2679
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T13:25:17.000Z",
+        "description": "iiii 我只是一个善良的女孩 私信请带照片 卡颜🌚 @K9CinvBvPn61437 小号 只回照片和🚪88 私信没回多发几次 可能被吞了 互关直接加v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "K9CinvBvPn61437"
+              }
+            ]
+          }
+        },
+        "id": "1509884529133056004",
+        "name": "qq",
+        "pinned_tweet_id": "2022676071704072699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987022507921293312/T8-tBjKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6369,
+          "following_count": 263,
+          "like_count": 759,
+          "listed_count": 11,
+          "media_count": 47,
+          "tweet_count": 291
+        },
+        "username": "xcnnz12",
+        "verified": false
+      }
+    ]
+  }
+}

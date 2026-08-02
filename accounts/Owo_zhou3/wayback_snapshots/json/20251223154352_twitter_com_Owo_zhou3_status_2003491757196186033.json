@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003142904597078068",
+    "created_at": "2025-12-23T15:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T16:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003491757196186033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745816484759384064",
+          "start": 0,
+          "username": "iojVziSl5553622"
+        },
+        {
+          "end": 28,
+          "id": "1866487660216565760",
+          "start": 17,
+          "username": "yyyy874840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003491757196186033",
+    "in_reply_to_user_id": "1745816484759384064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003485609441263963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iojVziSl5553622 @yyyy874840 啥子不会翻墙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003142904597078068",
+        "created_at": "2025-12-23T15:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003491757196186033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745816484759384064",
+              "start": 0,
+              "username": "iojVziSl5553622"
+            },
+            {
+              "end": 28,
+              "id": "1866487660216565760",
+              "start": 17,
+              "username": "yyyy874840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003491757196186033",
+        "in_reply_to_user_id": "1745816484759384064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003485609441263963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iojVziSl5553622 @yyyy874840 啥子不会翻墙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745816484759384064",
+        "conversation_id": "2003142904597078068",
+        "created_at": "2025-12-23T15:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003485609441263963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866487660216565760",
+              "start": 0,
+              "username": "yyyy874840"
+            },
+            {
+              "end": 22,
+              "id": "1962554097120485377",
+              "start": 12,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003485609441263963",
+        "in_reply_to_user_id": "1866487660216565760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003253842369237331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyy874840 @Owo_zhou3 推特能好哪去？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3456,
+          "following_count": 116,
+          "like_count": 777,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T14:34:27.000Z",
+        "description": "",
+        "id": "1745816484759384064",
+        "location": "Tokyo-to, Japan",
+        "name": "樂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886547962689650688/H1jQSmoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 216,
+          "like_count": 5506,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 243
+        },
+        "username": "iojVziSl5553622",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T14:18:38.000Z",
+        "description": "你好我是奕澜一只来自四川的狼🐺此账号仅做日常分享/不涉政/18🚫/推止于推/扩列🐧:355679110 很高兴认识你",
+        "id": "1866487660216565760",
+        "name": "island",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993720075338289152/mTOcA9Yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 103,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "yyyy874840",
+        "verified": false
+      }
+    ]
+  }
+}

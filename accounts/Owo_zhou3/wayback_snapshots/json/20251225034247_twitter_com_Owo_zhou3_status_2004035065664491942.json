@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003142904597078068",
+    "created_at": "2025-12-25T03:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T04:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004035065664491942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653016199385714688",
+          "start": 0,
+          "username": "kiritox1007"
+        },
+        {
+          "end": 29,
+          "id": "1877596279309832192",
+          "start": 13,
+          "username": "worldfrien69132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004035065664491942",
+    "in_reply_to_user_id": "1653016199385714688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003874993609101332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiritox1007 @worldfrien69132 我躁狂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003142904597078068",
+        "created_at": "2025-12-25T03:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004035065664491942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653016199385714688",
+              "start": 0,
+              "username": "kiritox1007"
+            },
+            {
+              "end": 29,
+              "id": "1877596279309832192",
+              "start": 13,
+              "username": "worldfrien69132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004035065664491942",
+        "in_reply_to_user_id": "1653016199385714688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003874993609101332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiritox1007 @worldfrien69132 我躁狂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653016199385714688",
+        "conversation_id": "2003142904597078068",
+        "created_at": "2025-12-24T17:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003874993609101332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 27,
+              "id": "1877596279309832192",
+              "start": 11,
+              "username": "worldfrien69132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003874993609101332",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003863872323944473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @worldfrien69132 他抑郁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3658,
+          "following_count": 117,
+          "like_count": 787,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-01T12:40:14.000Z",
+        "description": "อู๋หู",
+        "id": "1653016199385714688",
+        "location": "XD",
+        "name": "hiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829131497481146369/qKLTQtX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 125,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "kiritox1007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T06:00:41.000Z",
+        "description": "",
+        "id": "1877596279309832192",
+        "name": "world friend",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 73,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "worldfrien69132",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987792569007509505"
+      ],
+      "media_source_tweet_id": [
+        "1987792584497049852"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988176544716800046",
+    "created_at": "2025-11-11T09:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T10:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988176544716800046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "916479921949515776",
+          "start": 3,
+          "username": "chaoyueziwo111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uo0avswW54",
+          "end": 43,
+          "expanded_url": "https://x.com/chaoyueziwo111/status/1987792584497049852/photo/1",
+          "media_key": "3_1987792569007509505",
+          "start": 20,
+          "url": "https://t.co/Uo0avswW54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988176544716800046",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 609
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987792584497049852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chaoyueziwo111: https://t.co/Uo0avswW54"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988176544716800046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988176544716800046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988176544716800046"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987792569007509505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YOz0rakAEDFvR.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987792569007509505"
+          ]
+        },
+        "author_id": "916479921949515776",
+        "conversation_id": "1987792584497049852",
+        "created_at": "2025-11-10T08:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T09:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987792584497049852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uo0avswW54",
+              "end": 23,
+              "expanded_url": "https://x.com/chaoyueziwo111/status/1987792584497049852/photo/1",
+              "media_key": "3_1987792569007509505",
+              "start": 0,
+              "url": "https://t.co/Uo0avswW54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987792584497049852",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1448,
+          "impression_count": 189012,
+          "like_count": 7559,
+          "quote_count": 32,
+          "reply_count": 31,
+          "retweet_count": 609
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Uo0avswW54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 53,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T01:46:55.000Z",
+        "description": "⚠️有NSFW内容注意",
+        "id": "916479921949515776",
+        "name": "超越自我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968496467934593024/7JCS4CUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 191,
+          "like_count": 1766,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 152
+        },
+        "username": "chaoyueziwo111",
+        "verified": false
+      }
+    ]
+  }
+}

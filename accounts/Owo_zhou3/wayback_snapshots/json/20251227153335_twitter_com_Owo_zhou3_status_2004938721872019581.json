@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2004915838772744447",
+    "created_at": "2025-12-27T15:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T16:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004938721872019581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1148860181427736577",
+          "start": 0,
+          "username": "Why_So_SeriousA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004938721872019581",
+    "in_reply_to_user_id": "1148860181427736577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004915838772744447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Why_So_SeriousA 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004915836365004800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9LkVKcXYAAS42j.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2004915838772744447",
+        "created_at": "2025-12-27T15:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004938721872019581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1148860181427736577",
+              "start": 0,
+              "username": "Why_So_SeriousA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004938721872019581",
+        "in_reply_to_user_id": "1148860181427736577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004915838772744447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Why_So_SeriousA 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004915836365004800"
+          ]
+        },
+        "author_id": "1148860181427736577",
+        "conversation_id": "2004915838772744447",
+        "created_at": "2025-12-27T14:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004915838772744447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqBUsGtGft",
+              "end": 44,
+              "expanded_url": "https://x.com/Why_So_SeriousA/status/2004915838772744447/photo/1",
+              "media_key": "3_2004915836365004800",
+              "start": 21,
+              "url": "https://t.co/mqBUsGtGft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004915838772744447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4501,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一千多的🚪图片有什么好盗的，你们盗这张吧 https://t.co/mqBUsGtGft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 96,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 2200
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-10T07:43:06.000Z",
+        "description": "手控声控/每一面都是我/🚪",
+        "id": "1148860181427736577",
+        "location": "NY",
+        "name": "A✨ ✨ ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661545886105608196/6r0HKrNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11744,
+          "following_count": 110,
+          "like_count": 3351,
+          "listed_count": 26,
+          "media_count": 169,
+          "tweet_count": 4482
+        },
+        "username": "Why_So_SeriousA",
+        "verified": false
+      }
+    ]
+  }
+}

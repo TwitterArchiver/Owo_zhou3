@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1966852485399576879",
+    "created_at": "2025-09-14T11:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967184289201811860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1857857105832849409",
+          "start": 0,
+          "username": "bb2222227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967184289201811860",
+    "in_reply_to_user_id": "1857857105832849409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966852485399576879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bb2222227 有的人几把很大但是很丑 你现实总不能找丑的睡吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1966852485399576879",
+        "created_at": "2025-09-14T11:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967184289201811860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1857857105832849409",
+              "start": 0,
+              "username": "bb2222227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967184289201811860",
+        "in_reply_to_user_id": "1857857105832849409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966852485399576879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bb2222227 有的人几把很大但是很丑 你现实总不能找丑的睡吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857857105832849409",
+        "conversation_id": "1966852485399576879",
+        "created_at": "2025-09-13T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966852485399576879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966852485399576879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18897,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个疑问困扰ovo很久了为什么大几把全在网上 现实中全是小几把 我想不通"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 48,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T18:43:57.000Z",
+        "description": "我要在这里碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b%E2%80%86k%E2…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b%E2%80%86k%E2%80%86n%E2%80%86y7",
+                "start": 0,
+                "url": "https://t.co/atKQM7mIZa"
+              }
+            ]
+          }
+        },
+        "id": "1857857105832849409",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914567433601667072/FQg56xeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4834,
+          "following_count": 41,
+          "like_count": 1484,
+          "listed_count": 8,
+          "media_count": 21,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/atKQM7mIZa",
+        "username": "bb2222227",
+        "verified": false
+      }
+    ]
+  }
+}

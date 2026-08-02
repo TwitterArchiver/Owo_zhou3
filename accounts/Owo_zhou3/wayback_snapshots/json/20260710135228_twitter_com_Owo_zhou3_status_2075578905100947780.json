@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075578892455149568"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "2075578905100947780",
+    "created_at": "2026-07-10T13:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075578905100947780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NdOPQG04Yo",
+          "end": 65,
+          "expanded_url": "https://x.com/Owo_zhou3/status/2075578905100947780/photo/1",
+          "media_key": "3_2075578892455149568",
+          "start": 42,
+          "url": "https://t.co/NdOPQG04Yo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075578905100947780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wok 我终于找到了我的梦中情衣 我苦苦等待多年不就是在等这件吗 啊哈哈哈哈哈哈哈 https://t.co/NdOPQG04Yo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075578892455149568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3wAXwWgAA-Zjw.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075578892455149568"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "2075578905100947780",
+        "created_at": "2026-07-10T13:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075578905100947780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdOPQG04Yo",
+              "end": 65,
+              "expanded_url": "https://x.com/Owo_zhou3/status/2075578905100947780/photo/1",
+              "media_key": "3_2075578892455149568",
+              "start": 42,
+              "url": "https://t.co/NdOPQG04Yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075578905100947780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wok 我终于找到了我的梦中情衣 我苦苦等待多年不就是在等这件吗 啊哈哈哈哈哈哈哈 https://t.co/NdOPQG04Yo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5131,
+          "following_count": 111,
+          "like_count": 1017,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

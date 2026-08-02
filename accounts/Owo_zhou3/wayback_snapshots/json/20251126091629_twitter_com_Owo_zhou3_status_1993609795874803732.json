@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993501644437524978",
+    "created_at": "2025-11-26T09:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993609795874803732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299035695776841728",
+          "start": 0,
+          "username": "DOsZK0pV5jwT9nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993609795874803732",
+    "in_reply_to_user_id": "1299035695776841728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993609604924907875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOsZK0pV5jwT9nz 我根本没作。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993501644437524978",
+        "created_at": "2025-11-26T09:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993609795874803732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299035695776841728",
+              "start": 0,
+              "username": "DOsZK0pV5jwT9nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993609795874803732",
+        "in_reply_to_user_id": "1299035695776841728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993609604924907875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOsZK0pV5jwT9nz 我根本没作。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299035695776841728",
+        "conversation_id": "1993501644437524978",
+        "created_at": "2025-11-26T09:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993609604924907875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993609604924907875",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993501644437524978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 别作，就有人喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 77,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-27T17:27:07.000Z",
+        "description": "直的",
+        "id": "1299035695776841728",
+        "location": "青岛",
+        "name": "fallout",
+        "pinned_tweet_id": "1975267683525705864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845929438757994496/jDjO6Ny8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 81,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 350
+        },
+        "username": "DOsZK0pV5jwT9nz",
+        "verified": false
+      }
+    ]
+  }
+}

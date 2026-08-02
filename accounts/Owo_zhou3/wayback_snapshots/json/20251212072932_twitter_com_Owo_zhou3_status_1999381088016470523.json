@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1999058347442700511",
+    "created_at": "2025-12-12T07:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999381088016470523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797449460840366080",
+          "start": 0,
+          "username": "victorwang642"
+        },
+        {
+          "end": 25,
+          "id": "1832664562086060032",
+          "start": 15,
+          "username": "Amy526969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999381088016470523",
+    "in_reply_to_user_id": "1797449460840366080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999352053303509155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@victorwang642 @Amy526969 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1999058347442700511",
+        "created_at": "2025-12-12T07:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999381088016470523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797449460840366080",
+              "start": 0,
+              "username": "victorwang642"
+            },
+            {
+              "end": 25,
+              "id": "1832664562086060032",
+              "start": 15,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999381088016470523",
+        "in_reply_to_user_id": "1797449460840366080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999352053303509155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@victorwang642 @Amy526969 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797449460840366080",
+        "conversation_id": "1999058347442700511",
+        "created_at": "2025-12-12T05:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999352053303509155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 21,
+              "id": "1832664562086060032",
+              "start": 11,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999352053303509155",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999322372093178209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @Amy526969 什么无行人？没鸡鸡没比比？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 108,
+          "like_count": 607,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T02:05:36.000Z",
+        "description": "",
+        "id": "1797449460840366080",
+        "name": "victor wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797449526653116416/VLrEoLIY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 194,
+          "like_count": 451,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 275
+        },
+        "username": "victorwang642",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "05｜INTJ｜🎺 @mili07190 ｜提问箱https://t.co/mQpJze4fzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 48,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 25,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "name": "amy",
+        "pinned_tweet_id": "1983125418573013044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 127,
+          "like_count": 10036,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 3486
+        },
+        "username": "Amy526969",
+        "verified": false
+      }
+    ]
+  }
+}

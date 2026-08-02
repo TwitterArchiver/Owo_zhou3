@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1972244640402391529",
+    "created_at": "2025-09-28T17:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972355394111774776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952113762112299008",
+          "start": 0,
+          "username": "Avogadro444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972355394111774776",
+    "in_reply_to_user_id": "1952113762112299008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972244640402391529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avogadro444 你长这样啥意思 你让别的男生怎么办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972244626175385600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17SCcFbYAABiXE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1972244640402391529",
+        "created_at": "2025-09-28T17:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972355394111774776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952113762112299008",
+              "start": 0,
+              "username": "Avogadro444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972355394111774776",
+        "in_reply_to_user_id": "1952113762112299008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972244640402391529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avogadro444 你长这样啥意思 你让别的男生怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972244626175385600"
+          ]
+        },
+        "author_id": "1952113762112299008",
+        "conversation_id": "1972244640402391529",
+        "created_at": "2025-09-28T10:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972244640402391529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EcHknxtWZk",
+              "end": 34,
+              "expanded_url": "https://x.com/Avogadro444/status/1972244640402391529/photo/1",
+              "media_key": "3_1972244626175385600",
+              "start": 11,
+              "url": "https://t.co/EcHknxtWZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972244640402391529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10814,
+          "like_count": 259,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原来我的耐心是消耗品 https://t.co/EcHknxtWZk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972118774305509379/ICA27RGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 46,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T21:06:14.000Z",
+        "description": "老子是直男",
+        "id": "1952113762112299008",
+        "name": "梨子",
+        "pinned_tweet_id": "1969788971745259644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952122707539357696/5qsDkITD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 157,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 719
+        },
+        "username": "Avogadro444",
+        "verified": false
+      }
+    ]
+  }
+}

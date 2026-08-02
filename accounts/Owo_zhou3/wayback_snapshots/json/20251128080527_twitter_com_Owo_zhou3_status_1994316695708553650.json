@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994316695708553650",
+    "created_at": "2025-11-28T08:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994316695708553650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843510390090792960",
+          "start": 3,
+          "username": "s_m1l_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994316695708553650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 668
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993973713461760146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s_m1l_: 约到粉丝啦，趁家里没人就把他带回来了。\n\n他说我今天穿得很好看，先拍照留个纪念。裙子一掀才发现我没穿内裤，瞬间硬了，隔着丝袜就插了进来，还问我老公的事，越问插得越狠。\n\n不过光有力还不够，我更喜欢懂前戏、会说情话的，让身体和大脑一起沦陷才上瘾。\n\n希望下…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994316695708553650].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994316695708553650",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994316695708553650"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1993973644704579584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wEdyAbgAAK4Kl.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993973644704579584"
+          ]
+        },
+        "author_id": "1843510390090792960",
+        "conversation_id": "1993973713461760146",
+        "created_at": "2025-11-27T09:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993973713461760146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSXwiaov6X",
+              "end": 167,
+              "expanded_url": "https://x.com/s_m1l_/status/1993973713461760146/photo/1",
+              "media_key": "3_1993973644704579584",
+              "start": 144,
+              "url": "https://t.co/nSXwiaov6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993973713461760146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 204379,
+          "like_count": 350,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 668
+        },
+        "reply_settings": "everyone",
+        "text": "约到粉丝啦，趁家里没人就把他带回来了。\n\n他说我今天穿得很好看，先拍照留个纪念。裙子一掀才发现我没穿内裤，瞬间硬了，隔着丝袜就插了进来，还问我老公的事，越问插得越狠。\n\n不过光有力还不够，我更喜欢懂前戏、会说情话的，让身体和大脑一起沦陷才上瘾。\n\n希望下次能有更好的体验，同城可以报名～ https://t.co/nSXwiaov6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自便",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 78,
+          "like_count": 468,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1338
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T04:35:27.000Z",
+        "description": "国企阿姨一枚，被体制内的工作磨平了棱角，和老公也失去了生活的激情。两个孩子都不小了，趁着自己还没老，希望在推特寻求下第二春，补充一下还没感受过的刺激。私信/电报可以认识，礼貌的打招呼都会回复的～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SX1E1",
+                "end": 23,
+                "expanded_url": "https://t.me/SX1E1",
+                "start": 0,
+                "url": "https://t.co/1jLzpnLchH"
+              }
+            ]
+          }
+        },
+        "id": "1843510390090792960",
+        "location": "12.6km     我的电报➡️",
+        "name": "小娴有点湿",
+        "pinned_tweet_id": "1993362944604922053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990738501479124992/Ylu7BInK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3512,
+          "following_count": 0,
+          "like_count": 63,
+          "listed_count": 11,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/1jLzpnLchH",
+        "username": "s_m1l_",
+        "verified": false
+      }
+    ]
+  }
+}

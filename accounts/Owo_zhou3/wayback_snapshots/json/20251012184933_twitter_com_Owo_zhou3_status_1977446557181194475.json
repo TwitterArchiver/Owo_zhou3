@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976938238490427395"
+      ],
+      "media_source_tweet_id": [
+        "1976938248900616573"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1977446557181194475",
+    "created_at": "2025-10-12T18:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T19:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977446557181194475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1964690216049909762",
+          "start": 3,
+          "username": "GirlCanGetSad07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fblT80gJoW",
+          "end": 44,
+          "expanded_url": "https://x.com/GirlCanGetSad07/status/1976938248900616573/photo/1",
+          "media_key": "3_1976938238490427395",
+          "start": 21,
+          "url": "https://t.co/fblT80gJoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977446557181194475",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976938248900616573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GirlCanGetSad07: https://t.co/fblT80gJoW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_1976938238490427395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29-2ogbwAM4lFU.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976938238490427395"
+          ],
+          "media_source_tweet_id": [
+            "1976938248900616573"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1977446557181194475",
+        "created_at": "2025-10-12T18:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977446557181194475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1964690216049909762",
+              "start": 3,
+              "username": "GirlCanGetSad07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fblT80gJoW",
+              "end": 44,
+              "expanded_url": "https://x.com/GirlCanGetSad07/status/1976938248900616573/photo/1",
+              "media_key": "3_1976938238490427395",
+              "start": 21,
+              "url": "https://t.co/fblT80gJoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977446557181194475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976938248900616573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GirlCanGetSad07: https://t.co/fblT80gJoW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976938238490427395"
+          ]
+        },
+        "author_id": "1964690216049909762",
+        "conversation_id": "1976938248900616573",
+        "created_at": "2025-10-11T09:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976938248900616573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fblT80gJoW",
+              "end": 23,
+              "expanded_url": "https://x.com/GirlCanGetSad07/status/1976938248900616573/photo/1",
+              "media_key": "3_1976938238490427395",
+              "start": 0,
+              "url": "https://t.co/fblT80gJoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976938248900616573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 44766,
+          "like_count": 476,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fblT80gJoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T14:00:39.000Z",
+        "description": "没有你想看的拜拜",
+        "id": "1964690216049909762",
+        "location": "答应我会幸福",
+        "name": "我服了宝宝全新版",
+        "pinned_tweet_id": "1971661444627509468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965930146897985536/pI1kx1Qo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4125,
+          "following_count": 242,
+          "like_count": 4539,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 2044
+        },
+        "username": "GirlCanGetSad07",
+        "verified": false
+      }
+    ]
+  }
+}

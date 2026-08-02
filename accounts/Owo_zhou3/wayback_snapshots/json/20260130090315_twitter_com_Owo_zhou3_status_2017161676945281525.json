@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2017065159525880178",
+    "created_at": "2026-01-30T09:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017161676945281525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1235398833116340224",
+          "start": 0,
+          "username": "yiifyoung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017161676945281525",
+    "in_reply_to_user_id": "1235398833116340224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017119647456428391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiifyoung 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2017065159525880178",
+        "created_at": "2026-01-30T09:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017161676945281525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1235398833116340224",
+              "start": 0,
+              "username": "yiifyoung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017161676945281525",
+        "in_reply_to_user_id": "1235398833116340224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017119647456428391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiifyoung 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235398833116340224",
+        "conversation_id": "2017065159525880178",
+        "created_at": "2026-01-30T06:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017119647456428391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017119647456428391",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017065159525880178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 前段时间总刷到 有种古早qq空间 不转发不是中国人啥的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信｜推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwBJRw"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4169,
+          "following_count": 101,
+          "like_count": 880,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 2523
+        },
+        "url": "https://t.co/rPNhEwBJRw",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-05T02:57:01.000Z",
+        "description": "",
+        "id": "1235398833116340224",
+        "name": "Post1ude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782773182644301825/A2C4DPe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 105,
+          "like_count": 2145,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 489
+        },
+        "username": "yiifyoung",
+        "verified": false
+      }
+    ]
+  }
+}

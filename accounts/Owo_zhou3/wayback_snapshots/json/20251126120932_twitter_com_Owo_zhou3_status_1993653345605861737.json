@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993542519720943712",
+    "created_at": "2025-11-26T12:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993653345605861737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911084879095455744",
+          "start": 0,
+          "username": "ivvviann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993653345605861737",
+    "in_reply_to_user_id": "1911084879095455744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993566154489823624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivvviann 我喜欢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993542519720943712",
+        "created_at": "2025-11-26T12:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993653345605861737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911084879095455744",
+              "start": 0,
+              "username": "ivvviann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993653345605861737",
+        "in_reply_to_user_id": "1911084879095455744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993566154489823624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivvviann 我喜欢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911084879095455744",
+        "conversation_id": "1993542519720943712",
+        "created_at": "2025-11-26T06:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993566154489823624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993566154489823624",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993542519720943712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我理你，在干嘛呀小宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 77,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T15:52:24.000Z",
+        "description": "entp社畜\n\n稳定发癫\n偶尔稳定\n\n朋友越来越多了，大家叫我小e 海苔 海带都可以💕💕",
+        "id": "1911084879095455744",
+        "name": "eviann",
+        "pinned_tweet_id": "1971211458752221600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957476674288996352/tc4RVqG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 44,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1049
+        },
+        "username": "ivvviann",
+        "verified": false
+      }
+    ]
+  }
+}

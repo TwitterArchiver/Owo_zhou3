@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993972283543789568"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993972288514052607",
+    "created_at": "2025-11-27T09:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993972288514052607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AtSS0EUbbc",
+          "end": 100,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1993972288514052607/photo/1",
+          "media_key": "3_1993972283543789568",
+          "start": 77,
+          "url": "https://t.co/AtSS0EUbbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993972288514052607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人要疯狂动物城电影票嘛？当地都能兑换，哎烦，买了两张，本来想请心仪女生去的，结果又放我飞机了，每次鼓起勇气换来的都是这样的结果，你们谁想去的自取吧…… https://t.co/AtSS0EUbbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_1993972283543789568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wDOjSaIAAoGTD.jpg",
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993972283543789568"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993972288514052607",
+        "created_at": "2025-11-27T09:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993972288514052607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtSS0EUbbc",
+              "end": 100,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1993972288514052607/photo/1",
+              "media_key": "3_1993972283543789568",
+              "start": 77,
+              "url": "https://t.co/AtSS0EUbbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993972288514052607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人要疯狂动物城电影票嘛？当地都能兑换，哎烦，买了两张，本来想请心仪女生去的，结果又放我飞机了，每次鼓起勇气换来的都是这样的结果，你们谁想去的自取吧…… https://t.co/AtSS0EUbbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜欢迎互关🎄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 78,
+          "like_count": 453,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

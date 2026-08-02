@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993299901011444052",
+    "created_at": "2025-11-26T11:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T12:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993640177471041611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1780733904976220160",
+          "start": 0,
+          "username": "AudreyB89679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993640177471041611",
+    "in_reply_to_user_id": "1780733904976220160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993299901011444052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AudreyB89679 接。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993299889116299264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mfsC2aQAAzeSy.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993299901011444052",
+        "created_at": "2025-11-26T11:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993640177471041611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780733904976220160",
+              "start": 0,
+              "username": "AudreyB89679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993640177471041611",
+        "in_reply_to_user_id": "1780733904976220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993299901011444052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AudreyB89679 接。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993299889116299264"
+          ]
+        },
+        "author_id": "1780733904976220160",
+        "conversation_id": "1993299901011444052",
+        "created_at": "2025-11-25T12:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993299901011444052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPT7HegS3f",
+              "end": 32,
+              "expanded_url": "https://x.com/AudreyB89679/status/1993299901011444052/photo/1",
+              "media_key": "3_1993299889116299264",
+              "start": 9,
+              "url": "https://t.co/NPT7HegS3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993299901011444052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5521,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "竟然有神医？？？ https://t.co/NPT7HegS3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 77,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T23:04:16.000Z",
+        "description": "不要对我莫名其妙丨上网纯冲浪 线下查无此人丨不要污染我的眼睛 丨脾气很好 对个别非人类行为除外丨发骚别烦我 不收狗 当狗v我520丨夸我我就亲亲你ovo",
+        "id": "1780733904976220160",
+        "location": "🚪128 / 520",
+        "name": "小泪k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990946288670814210/AvFoNpEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5522,
+          "following_count": 34,
+          "like_count": 265,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 277
+        },
+        "username": "AudreyB89679",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988517852517650903",
+    "created_at": "2025-11-12T12:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988589651792425108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699680752894427136",
+          "start": 0,
+          "username": "baobaobao268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988589651792425108",
+    "in_reply_to_user_id": "1699680752894427136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988517852517650903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobaobao268 不太像唉。如果不说赵露思根本想不到 但是超级美啊好有自己的特点🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988517706191269888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iiUXMa8AAieGf.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988517706187042816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iiUXLacAATBzg.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988517852517650903",
+        "created_at": "2025-11-12T12:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988589651792425108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699680752894427136",
+              "start": 0,
+              "username": "baobaobao268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988589651792425108",
+        "in_reply_to_user_id": "1699680752894427136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988517852517650903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobaobao268 不太像唉。如果不说赵露思根本想不到 但是超级美啊好有自己的特点🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988517706191269888",
+            "3_1988517706187042816"
+          ]
+        },
+        "author_id": "1699680752894427136",
+        "conversation_id": "1988517852517650903",
+        "created_at": "2025-11-12T08:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988517852517650903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEdBedHXag",
+              "end": 47,
+              "expanded_url": "https://x.com/baobaobao268/status/1988517852517650903/photo/1",
+              "media_key": "3_1988517706191269888",
+              "start": 24,
+              "url": "https://t.co/hEdBedHXag"
+            },
+            {
+              "display_url": "pic.x.com/hEdBedHXag",
+              "end": 47,
+              "expanded_url": "https://x.com/baobaobao268/status/1988517852517650903/photo/1",
+              "media_key": "3_1988517706187042816",
+              "start": 24,
+              "url": "https://t.co/hEdBedHXag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988517852517650903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13502,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不管照片放哪个平台都会有人说像赵露思(纯感慨！ https://t.co/hEdBedHXag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 58,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T07:07:25.000Z",
+        "description": "一些碎碎念|🐱|🐑|照片存放地|美好的肉体就是艺术|卷甲虫|和我的好朋友马纳纳@Manana2029",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Manana2029"
+              }
+            ]
+          }
+        },
+        "id": "1699680752894427136",
+        "name": "包包包好运",
+        "pinned_tweet_id": "1804095541522935892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731699775005933568/uqPXckil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33030,
+          "following_count": 340,
+          "like_count": 20528,
+          "listed_count": 74,
+          "media_count": 2121,
+          "tweet_count": 6662
+        },
+        "username": "baobaobao268",
+        "verified": false
+      }
+    ]
+  }
+}

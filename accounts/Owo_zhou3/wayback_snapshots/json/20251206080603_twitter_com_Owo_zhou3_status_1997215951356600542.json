@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1997171244517806513",
+    "created_at": "2025-12-06T08:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T09:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997215951356600542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933086270114471936",
+          "start": 0,
+          "username": "CuiShu77006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997215951356600542",
+    "in_reply_to_user_id": "1933086270114471936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997171244517806513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiShu77006 接。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997171228826914824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dgprHb0AgSDKp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997171228835196928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dgprJaMAAKmLm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1997171244517806513",
+        "created_at": "2025-12-06T08:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T09:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997215951356600542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933086270114471936",
+              "start": 0,
+              "username": "CuiShu77006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997215951356600542",
+        "in_reply_to_user_id": "1933086270114471936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997171244517806513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiShu77006 接。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997171228826914824",
+            "3_1997171228835196928"
+          ]
+        },
+        "author_id": "1933086270114471936",
+        "conversation_id": "1997171244517806513",
+        "created_at": "2025-12-06T05:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997171244517806513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IqAQ7uXpa",
+              "end": 34,
+              "expanded_url": "https://x.com/CuiShu77006/status/1997171244517806513/photo/1",
+              "media_key": "3_1997171228826914824",
+              "start": 11,
+              "url": "https://t.co/3IqAQ7uXpa"
+            },
+            {
+              "display_url": "pic.x.com/3IqAQ7uXpa",
+              "end": 34,
+              "expanded_url": "https://x.com/CuiShu77006/status/1997171244517806513/photo/1",
+              "media_key": "3_1997171228835196928",
+              "start": 11,
+              "url": "https://t.co/3IqAQ7uXpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997171244517806513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4535,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们。让我接到了🤓 https://t.co/3IqAQ7uXpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1996167657264193849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 77,
+          "like_count": 557,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T08:57:49.000Z",
+        "description": "03｜172/90｜白羊座爱看剧的小女孩儿｜碎碎念｜日常｜不搞黄私信礼貌一点谢谢｜发吊永远硬不了哈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuishu77006",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuishu77006",
+                "start": 0,
+                "url": "https://t.co/J92behREG1"
+              }
+            ]
+          }
+        },
+        "id": "1933086270114471936",
+        "location": "🚪88/188支付宝口令 下面是匿名箱（傻逼不回）",
+        "name": "脆薯饼",
+        "pinned_tweet_id": "1993899408094842919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933086727846944768/YMUFM2XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 109,
+          "like_count": 6311,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/J92behREG1",
+        "username": "CuiShu77006",
+        "verified": false
+      }
+    ]
+  }
+}

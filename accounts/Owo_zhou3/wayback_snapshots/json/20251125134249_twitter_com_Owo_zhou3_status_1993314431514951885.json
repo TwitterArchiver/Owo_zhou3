@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993314431514951885",
+    "created_at": "2025-11-25T13:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993314431514951885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wonna_zare/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/wonna_zare/status/1992943581527728518",
+          "start": 6,
+          "url": "https://t.co/kqBNjeryoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993314431514951885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992943581527728518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "秀色可餐。 https://t.co/kqBNjeryoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11450,
+        "height": 960,
+        "media_key": "7_1829397282334359552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1829397282334359552/pu/img/C5piyc6t_kV8uG77.jpg",
+        "public_metrics": {
+          "view_count": 2493421
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829397282334359552/pu/vid/avc1/320x426/LGJ20-R6-YXgFbWi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829397282334359552/pu/vid/avc1/480x640/FzIy4UUJys3qZqY2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829397282334359552/pu/vid/avc1/720x960/dXH8if8Cm7kPsmHO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1829397282334359552/pu/pl/eJujdRkzTl2XjKoS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993314431514951885",
+        "created_at": "2025-11-25T13:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993314431514951885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wonna_zare/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/wonna_zare/status/1992943581527728518",
+              "start": 6,
+              "url": "https://t.co/kqBNjeryoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993314431514951885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992943581527728518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "秀色可餐。 https://t.co/kqBNjeryoe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1829397282334359552"
+          ],
+          "media_source_tweet_id": [
+            "1829397304639672333"
+          ]
+        },
+        "author_id": "1590886319282012160",
+        "conversation_id": "1992943581527728518",
+        "created_at": "2025-11-24T13:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992943581527728518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFnUbGuzjy",
+              "end": 54,
+              "expanded_url": "https://x.com/rie3_husahsua/status/1829397304639672333/video/1",
+              "media_key": "7_1829397282334359552",
+              "start": 31,
+              "url": "https://t.co/BFnUbGuzjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992943581527728518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 898,
+          "impression_count": 311693,
+          "like_count": 6145,
+          "quote_count": 126,
+          "reply_count": 18,
+          "retweet_count": 477
+        },
+        "reply_settings": "everyone",
+        "text": "これやっちゃうの本当あるあるだと思う。\n可愛い赤ちゃん…\n\n https://t.co/BFnUbGuzjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 77,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T01:57:20.000Z",
+        "description": "。",
+        "id": "1590886319282012160",
+        "name": "戯言ちゃん",
+        "pinned_tweet_id": "1757162782707827008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931276907762573312/vtfZWLIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20191,
+          "following_count": 819,
+          "like_count": 4670,
+          "listed_count": 27,
+          "media_count": 284,
+          "tweet_count": 1851
+        },
+        "username": "wonna_zare",
+        "verified": false
+      }
+    ]
+  }
+}

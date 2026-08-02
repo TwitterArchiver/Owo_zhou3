@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1995115000411648120",
+    "created_at": "2025-11-30T18:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T19:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995202272457089132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525487854763364354",
+          "start": 0,
+          "username": "xinzhongdeaishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995202272457089132",
+    "in_reply_to_user_id": "1525487854763364354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995115000411648120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinzhongdeaishi 我好久没收到了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1995115000411648120",
+        "created_at": "2025-11-30T18:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T19:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995202272457089132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525487854763364354",
+              "start": 0,
+              "username": "xinzhongdeaishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995202272457089132",
+        "in_reply_to_user_id": "1525487854763364354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995115000411648120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinzhongdeaishi 我好久没收到了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525487854763364354",
+        "conversation_id": "1995115000411648120",
+        "created_at": "2025-11-30T12:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995115000411648120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995115000411648120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6229,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我为啥收不到带神秘数字的私信，，，我真的不想收到那些给我发自拍问我长得帅不帅或者问我能不能交朋友的私信了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 78,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:50:17.000Z",
+        "description": "德语区留子 | 只发碎碎念和照片 | 可以叫我小希",
+        "id": "1525487854763364354",
+        "location": "🚪188纯绿",
+        "name": "sisi77_",
+        "pinned_tweet_id": "1986811703636742277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916502927822172160/96CNH58c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 93,
+          "like_count": 3398,
+          "listed_count": 7,
+          "media_count": 139,
+          "tweet_count": 2483
+        },
+        "username": "xinzhongdeaishi",
+        "verified": false
+      }
+    ]
+  }
+}

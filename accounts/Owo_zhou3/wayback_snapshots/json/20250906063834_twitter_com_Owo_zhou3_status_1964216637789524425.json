@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964212406609203533",
+    "created_at": "2025-09-06T06:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T07:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964216637789524425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1900493277557911552",
+          "start": 0,
+          "username": "zaynespuppy905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964216637789524425",
+    "in_reply_to_user_id": "1900493277557911552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964212406609203533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaynespuppy905 我是塔斯汀忠实粉丝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964212380990414848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0JIwPBboAAgQDg.jpg",
+        "width": 543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964212406609203533",
+        "created_at": "2025-09-06T06:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T07:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964216637789524425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900493277557911552",
+              "start": 0,
+              "username": "zaynespuppy905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964216637789524425",
+        "in_reply_to_user_id": "1900493277557911552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964212406609203533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaynespuppy905 我是塔斯汀忠实粉丝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964212380990414848"
+          ]
+        },
+        "author_id": "1900493277557911552",
+        "conversation_id": "1964212406609203533",
+        "created_at": "2025-09-06T06:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T07:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964212406609203533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Q40vK3uZy",
+              "end": 32,
+              "expanded_url": "https://x.com/zaynespuppy905/status/1964212406609203533/photo/1",
+              "media_key": "3_1964212380990414848",
+              "start": 9,
+              "url": "https://t.co/2Q40vK3uZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964212406609203533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是一味的买汉堡 https://t.co/2Q40vK3uZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 44,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T10:24:49.000Z",
+        "description": "喜欢自言自语什么都会发\n（不聊骚纯口嗨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/htut63238",
+                "end": 23,
+                "expanded_url": "https://ngl.link/htut63238",
+                "start": 0,
+                "url": "https://t.co/7Hv6kZSrSM"
+              }
+            ]
+          }
+        },
+        "id": "1900493277557911552",
+        "location": "akso医院",
+        "name": "饭又糊了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933421346702458880/DpGq8u9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 108,
+          "like_count": 6632,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/7Hv6kZSrSM",
+        "username": "zaynespuppy905",
+        "verified": false
+      }
+    ]
+  }
+}

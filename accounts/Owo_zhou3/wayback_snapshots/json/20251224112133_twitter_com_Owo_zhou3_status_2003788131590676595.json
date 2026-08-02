@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003348901366235182",
+    "created_at": "2025-12-24T11:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T12:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003788131590676595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1602544622881890310",
+          "start": 0,
+          "username": "IShaoKongHua"
+        },
+        {
+          "end": 27,
+          "id": "1538466714639212544",
+          "start": 14,
+          "username": "fuccccccing1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003788131590676595",
+    "in_reply_to_user_id": "1602544622881890310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003769358330507479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IShaoKongHua @fuccccccing1 知道打快手码不知道打我名字和ID码？尊重过原推主吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003348901366235182",
+        "created_at": "2025-12-24T11:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003788131590676595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1602544622881890310",
+              "start": 0,
+              "username": "IShaoKongHua"
+            },
+            {
+              "end": 27,
+              "id": "1538466714639212544",
+              "start": 14,
+              "username": "fuccccccing1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003788131590676595",
+        "in_reply_to_user_id": "1602544622881890310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003769358330507479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IShaoKongHua @fuccccccing1 知道打快手码不知道打我名字和ID码？尊重过原推主吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602544622881890310",
+        "conversation_id": "2003348901366235182",
+        "created_at": "2025-12-24T10:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T11:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003769358330507479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            },
+            {
+              "end": 24,
+              "id": "1538466714639212544",
+              "start": 11,
+              "username": "fuccccccing1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003769358330507479",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003389615789785164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 @fuccccccing1 不是已经打码了吗？dog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 116,
+          "like_count": 780,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-13T06:03:23.000Z",
+        "description": "QAQ",
+        "id": "1602544622881890310",
+        "name": "韶空华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680546819108126721/DlGHvl_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "IShaoKongHua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T10:20:36.000Z",
+        "description": "二级市场的韭菜，梦想靠二级市场发家致富，涉及股票，基金，大宗商品，虚拟货币",
+        "id": "1538466714639212544",
+        "name": "风口上的猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787015097308905472/CKYiGMfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 54,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "fuccccccing1",
+        "verified": false
+      }
+    ]
+  }
+}

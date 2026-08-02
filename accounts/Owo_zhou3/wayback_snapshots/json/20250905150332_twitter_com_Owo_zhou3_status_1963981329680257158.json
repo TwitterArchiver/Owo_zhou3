@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963981329680257158",
+    "created_at": "2025-09-05T15:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T16:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963981329680257158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cici060611/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/cici060611/status/1963658236386742604",
+          "start": 3,
+          "url": "https://t.co/yxtbsUExty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963981329680257158",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963658236386742604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持 https://t.co/yxtbsUExty"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963981329680257158",
+        "created_at": "2025-09-05T15:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963981329680257158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cici060611/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/cici060611/status/1963658236386742604",
+              "start": 3,
+              "url": "https://t.co/yxtbsUExty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963981329680257158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963658236386742604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/yxtbsUExty"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775688932203626497",
+        "conversation_id": "1963658236386742604",
+        "created_at": "2025-09-04T17:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T18:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963658236386742604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963658236386742604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4903,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个小女孩身上穿的 手里用的 脸上抹的 脖子戴的 都跟你没有半毛钱关系 那你一句我爱你能值几个钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 125
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T00:57:03.000Z",
+        "description": "我基本上是忧郁的性格 请好好相处 也许会稀罕地看到我可爱的一面。话唠。漏关小窗call我。一个infj。",
+        "id": "1775688932203626497",
+        "name": "ra1ny_",
+        "pinned_tweet_id": "1955918494387855512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959317442502836224/RQhJDW-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 210,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 965
+        },
+        "username": "Cici060611",
+        "verified": false
+      }
+    ]
+  }
+}

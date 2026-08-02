@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1998540336948457971",
+    "created_at": "2025-12-10T03:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T04:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998597146158010478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935399856048336896",
+          "start": 0,
+          "username": "apple423423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998597146158010478",
+    "in_reply_to_user_id": "1935399856048336896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998590633074925774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple423423 我没有渴求！我只是很疑惑 我遇到的人都对我不好我是这个意思也不只是对我不好也可能是他就是这样的一个人 所以我才会说为什么我遇不到正常人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1998540336948457971",
+        "created_at": "2025-12-10T03:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T04:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998597146158010478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935399856048336896",
+              "start": 0,
+              "username": "apple423423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998597146158010478",
+        "in_reply_to_user_id": "1935399856048336896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998590633074925774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple423423 我没有渴求！我只是很疑惑 我遇到的人都对我不好我是这个意思也不只是对我不好也可能是他就是这样的一个人 所以我才会说为什么我遇不到正常人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935399856048336896",
+        "conversation_id": "1998540336948457971",
+        "created_at": "2025-12-10T03:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T04:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998590633074925774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998590633074925774",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998587996246085777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 正因为你是人！所以首先你是你自己！自己先接受自己！你很自爱了！不关心别人接受不接受你的时候，别人才会接受你！\n而非现在一样渴求别人接受自己，不像一个独立的人！🚬所以就爱人先爱己！（其实我也是站着说话不腰疼。说教味有点浓了，你可以当我放屁\n而且很多时候就是真心换不到真心，人就是很贱🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 97,
+          "like_count": 584,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T18:11:17.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lone10776",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lone10776",
+                "start": 0,
+                "url": "https://t.co/5ITCey1jyf"
+              }
+            ]
+          }
+        },
+        "id": "1935399856048336896",
+        "name": "🧃",
+        "pinned_tweet_id": "1996482742109012018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972130225686560768/7yqOWYS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 155,
+          "like_count": 3254,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/5ITCey1jyf",
+        "username": "apple423423",
+        "verified": false
+      }
+    ]
+  }
+}

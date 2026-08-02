@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003348901366235182",
+    "created_at": "2025-12-25T23:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T00:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004329901772755006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1524761298227154945",
+          "start": 0,
+          "username": "liyuan200502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004329901772755006",
+    "in_reply_to_user_id": "1524761298227154945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003719609753768270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyuan200502 不是所有人都喜欢这种感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003348901366235182",
+        "created_at": "2025-12-25T23:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T00:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004329901772755006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1524761298227154945",
+              "start": 0,
+              "username": "liyuan200502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004329901772755006",
+        "in_reply_to_user_id": "1524761298227154945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003719609753768270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyuan200502 不是所有人都喜欢这种感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524761298227154945",
+        "conversation_id": "2003348901366235182",
+        "created_at": "2025-12-24T06:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T07:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003719609753768270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003719609753768270",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003348901366235182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 线下有啥影响吗不是很能get到这点 还是说会觉得自己又被骚扰到 我理解是被转发还标明出处给自己加流量 算是好事吧也许？有点不理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 117,
+          "like_count": 791,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 2176
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-12T14:40:06.000Z",
+        "description": "05 | 努力成为终身学习者 | AI | BNB",
+        "id": "1524761298227154945",
+        "name": "yukiw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998644402038910980/aA5qaRUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 105,
+          "like_count": 78,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 129
+        },
+        "username": "liyuan200502",
+        "verified": false
+      }
+    ]
+  }
+}

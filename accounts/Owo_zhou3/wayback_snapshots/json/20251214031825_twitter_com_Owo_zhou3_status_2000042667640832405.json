@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1999812862584446994",
+    "created_at": "2025-12-14T03:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000042667640832405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1411351538404970499",
+          "start": 0,
+          "username": "ucancallme_kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000042667640832405",
+    "in_reply_to_user_id": "1411351538404970499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999812862584446994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ucancallme_kk 我根本不用 我推特只有一堆熟人在那里乱叫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 517,
+        "media_key": "3_1999812855831670784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DDMmkbMAAG1JK.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1999812862584446994",
+        "created_at": "2025-12-14T03:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000042667640832405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1411351538404970499",
+              "start": 0,
+              "username": "ucancallme_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000042667640832405",
+        "in_reply_to_user_id": "1411351538404970499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999812862584446994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ucancallme_kk 我根本不用 我推特只有一堆熟人在那里乱叫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999812855831670784"
+          ]
+        },
+        "author_id": "1411351538404970499",
+        "conversation_id": "1999812862584446994",
+        "created_at": "2025-12-13T12:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999812862584446994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2s6HVuObaL",
+              "end": 35,
+              "expanded_url": "https://x.com/ucancallme_kk/status/1999812862584446994/photo/1",
+              "media_key": "3_1999812855831670784",
+              "start": 12,
+              "url": "https://t.co/2s6HVuObaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999812862584446994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 44788,
+          "like_count": 981,
+          "quote_count": 7,
+          "reply_count": 27,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "每次要在外面打開推特： https://t.co/2s6HVuObaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 110,
+          "like_count": 631,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-03T15:50:12.000Z",
+        "description": "straight/21大四/詐騙退散/嘴炮技能LV.MAX/別找我吵架/哪天看我不見了就是交到女友了/不加賴不傳🦅照",
+        "id": "1411351538404970499",
+        "location": "Taipei City, Taiwan",
+        "name": "KK",
+        "pinned_tweet_id": "1990516851877847279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888299971868520448/rNMXLGFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 124,
+          "like_count": 114,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 491
+        },
+        "username": "ucancallme_kk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992077287915921765",
+    "created_at": "2025-11-22T14:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992246281876672971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746487672598642688",
+          "start": 0,
+          "username": "mjzsswdcy8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992246281876672971",
+    "in_reply_to_user_id": "1746487672598642688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992246180940804357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mjzsswdcy8964 为啥呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T14:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992246281876672971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746487672598642688",
+              "start": 0,
+              "username": "mjzsswdcy8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992246281876672971",
+        "in_reply_to_user_id": "1746487672598642688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992246180940804357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mjzsswdcy8964 为啥呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746487672598642688",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T14:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992246180940804357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992246180940804357",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992077287915921765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 id后面加8964就不会被搬运了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（我就是那种贪财好色的小女孩）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 75,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T11:01:35.000Z",
+        "description": "无需深情与古怪的嘱托",
+        "id": "1746487672598642688",
+        "location": "🩵",
+        "name": "小饭，今夜我穿过你的火车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992242898151108608/SKzGRXP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 949,
+          "like_count": 2953,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 2584
+        },
+        "username": "mjzsswdcy8964",
+        "verified": false
+      }
+    ]
+  }
+}

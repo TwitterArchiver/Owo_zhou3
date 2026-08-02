@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1993316901242667329",
+    "created_at": "2025-11-25T13:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993316901242667329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ziitaa314/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ziitaa314/status/1991478405821567342",
+          "start": 16,
+          "url": "https://t.co/OoKpWR14GP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993316901242667329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991478405821567342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坏了我要给我的宝宝们买羽绒服了 https://t.co/OoKpWR14GP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1634,
+        "media_key": "3_1991478394337521668",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6MnDGBacAQ3nzY.jpg",
+        "width": 1243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1993316901242667329",
+        "created_at": "2025-11-25T13:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993316901242667329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ziitaa314/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ziitaa314/status/1991478405821567342",
+              "start": 16,
+              "url": "https://t.co/OoKpWR14GP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993316901242667329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991478405821567342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坏了我要给我的宝宝们买羽绒服了 https://t.co/OoKpWR14GP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991478394337521668"
+          ]
+        },
+        "author_id": "1893362495257280512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1991478405821567342",
+        "created_at": "2025-11-20T12:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T13:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991478405821567342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9a3EEP61r",
+              "end": 42,
+              "expanded_url": "https://x.com/ziitaa314/status/1991478405821567342/photo/1",
+              "media_key": "3_1991478394337521668",
+              "start": 19,
+              "url": "https://t.co/e9a3EEP61r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991478405821567342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1298,
+          "impression_count": 521235,
+          "like_count": 24176,
+          "quote_count": 164,
+          "reply_count": 28,
+          "retweet_count": 1943
+        },
+        "reply_settings": "everyone",
+        "text": "みんな、外出する時は防寒対策を！🧊🧊 https://t.co/e9a3EEP61r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 77,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T18:09:41.000Z",
+        "description": "Sharing content related to chiikawa🫶",
+        "id": "1893362495257280512",
+        "location": "Chiikawa Land",
+        "name": "eattoomuch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926487381634371584/L10t5mYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12636,
+          "following_count": 556,
+          "like_count": 1153,
+          "listed_count": 17,
+          "media_count": 213,
+          "tweet_count": 266
+        },
+        "username": "ziitaa314",
+        "verified": true
+      }
+    ]
+  }
+}

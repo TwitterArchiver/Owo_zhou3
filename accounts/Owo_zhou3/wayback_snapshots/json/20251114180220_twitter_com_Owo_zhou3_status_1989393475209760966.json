@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1989393475209760966",
+    "created_at": "2025-11-14T18:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T19:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989393475209760966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x1aoyuqaq/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/x1aoyuqaq/status/1989248442049409093",
+          "start": 6,
+          "url": "https://t.co/MdwmAyrgdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989393475209760966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989248442049409093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？我生气了 https://t.co/MdwmAyrgdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_1989248429328048128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5s66DAaIAAUvbb.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1989393475209760966",
+        "created_at": "2025-11-14T18:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T19:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989393475209760966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x1aoyuqaq/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/x1aoyuqaq/status/1989248442049409093",
+              "start": 6,
+              "url": "https://t.co/MdwmAyrgdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989393475209760966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989248442049409093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？我生气了 https://t.co/MdwmAyrgdE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989248429328048128"
+          ]
+        },
+        "author_id": "1924464777210077185",
+        "conversation_id": "1989248442049409093",
+        "created_at": "2025-11-14T08:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989248442049409093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/roOs33CwTt",
+              "end": 31,
+              "expanded_url": "https://x.com/X1aoYuQAQ/status/1989248442049409093/photo/1",
+              "media_key": "3_1989248429328048128",
+              "start": 8,
+              "url": "https://t.co/roOs33CwTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989248442049409093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 37549,
+          "like_count": 181,
+          "quote_count": 8,
+          "reply_count": 103,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "TvT我滴神啊 https://t.co/roOs33CwTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 63,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T13:59:45.000Z",
+        "description": "小雨｜天秤｜ISFP｜Switch｜偷盗存图替我挡灾｜废话日常｜打瓦厉害的请带我｜关评帖为推广真假自辩～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/xyuOVO",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/xyuOVO",
+                "start": 0,
+                "url": "https://t.co/s0M6884UJV"
+              }
+            ]
+          }
+        },
+        "id": "1924464777210077185",
+        "location": "饼干警长工作室 我的匿名提问箱⬇️",
+        "name": "YUuuu",
+        "pinned_tweet_id": "1985224436610736229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951329920313159680/Zs5S7rWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7081,
+          "following_count": 394,
+          "like_count": 2785,
+          "listed_count": 25,
+          "media_count": 109,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/s0M6884UJV",
+        "username": "X1aoYuQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

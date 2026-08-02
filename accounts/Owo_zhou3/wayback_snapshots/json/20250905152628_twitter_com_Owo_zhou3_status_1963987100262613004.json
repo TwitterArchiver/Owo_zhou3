@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963987100262613004",
+    "created_at": "2025-09-05T15:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T16:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963987100262613004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sumingbai71221…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/sumingbai71221/status/1963565089434321279",
+          "start": 26,
+          "url": "https://t.co/8H1q4VSPol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963987100262613004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963565089434321279",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抖音也是啊 每次刷几分钟小红书抖音我嘎嘣一下就死了 https://t.co/8H1q4VSPol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963987100262613004",
+        "created_at": "2025-09-05T15:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963987100262613004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sumingbai71221…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/sumingbai71221/status/1963565089434321279",
+              "start": 26,
+              "url": "https://t.co/8H1q4VSPol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963987100262613004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963565089434321279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抖音也是啊 每次刷几分钟小红书抖音我嘎嘣一下就死了 https://t.co/8H1q4VSPol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817903432344240128",
+        "conversation_id": "1963565089434321279",
+        "created_at": "2025-09-04T11:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963565089434321279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963565089434321279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2894,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不能看小红书。穷逼刷一会就跳楼了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌  匿名箱https://t.co/rPNhEwChH4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 32,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 9,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 127
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:42:19.000Z",
+        "description": "可以叫我梨花呀 06 switch 清水推|这里有大量性欲大爆发宣泄|废话|做饭日常|写一点字|私信找我玩 好无聊|塔斯汀忠实拥护者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumingbai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumingbai",
+                "start": 0,
+                "url": "https://t.co/1Pz4w1nOz0"
+              }
+            ]
+          }
+        },
+        "id": "1817903432344240128",
+        "name": "梨花刃（主理人版）",
+        "pinned_tweet_id": "1963762356321980490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824817551995457538/JltAQtin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 648,
+          "like_count": 23816,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 5163
+        },
+        "url": "https://t.co/1Pz4w1nOz0",
+        "username": "sumingbai71221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977403400485752832"
+      ],
+      "media_source_tweet_id": [
+        "1977403409138696639"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1977446142607868152",
+    "created_at": "2025-10-12T18:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T19:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977446142607868152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0MwtYApB2y",
+          "end": 46,
+          "expanded_url": "https://x.com/hgds0/status/1977403409138696639/photo/1",
+          "media_key": "3_1977403400485752832",
+          "start": 23,
+          "url": "https://t.co/0MwtYApB2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977446142607868152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977403409138696639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 我付出真心belike https://t.co/0MwtYApB2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 541,
+        "media_key": "3_1977403400485752832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3El6n-aUAAE_7m.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977403400485752832"
+          ],
+          "media_source_tweet_id": [
+            "1977403409138696639"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1977446142607868152",
+        "created_at": "2025-10-12T18:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977446142607868152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MwtYApB2y",
+              "end": 46,
+              "expanded_url": "https://x.com/hgds0/status/1977403409138696639/photo/1",
+              "media_key": "3_1977403400485752832",
+              "start": 23,
+              "url": "https://t.co/0MwtYApB2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977446142607868152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977403409138696639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 我付出真心belike https://t.co/0MwtYApB2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977403400485752832"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1977403409138696639",
+        "created_at": "2025-10-12T15:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977403409138696639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MwtYApB2y",
+              "end": 35,
+              "expanded_url": "https://x.com/hgds0/status/1977403409138696639/photo/1",
+              "media_key": "3_1977403400485752832",
+              "start": 12,
+              "url": "https://t.co/0MwtYApB2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977403409138696639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 37470,
+          "like_count": 374,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "我付出真心belike https://t.co/0MwtYApB2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1971459791269843266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91386,
+          "following_count": 2806,
+          "like_count": 43095,
+          "listed_count": 119,
+          "media_count": 2843,
+          "tweet_count": 7150
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

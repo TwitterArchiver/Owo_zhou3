@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992072552999690362",
+    "created_at": "2025-11-22T04:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992087087286514074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1981679062000287744",
+          "start": 0,
+          "username": "wzhzjq56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992087087286514074",
+    "in_reply_to_user_id": "1981679062000287744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992086592257941547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzhzjq56 就是贱啊气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-22T04:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992087087286514074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1981679062000287744",
+              "start": 0,
+              "username": "wzhzjq56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992087087286514074",
+        "in_reply_to_user_id": "1981679062000287744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992086592257941547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzhzjq56 就是贱啊气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981679062000287744",
+        "conversation_id": "1992072552999690362",
+        "created_at": "2025-11-22T04:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992086592257941547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992086592257941547",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992072552999690362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 我操好贱这种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 70,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T11:08:20.000Z",
+        "description": "那些欺负我的人都给我等着，等过两天我就忘记了。惹我的人你给我等着，我会让你一直等着。如果你把我惹毛了，那我就毛茸茸的走开。如果生活向我泼了一盆冷水，但我希望换成康师傅冰红茶。那些能打败我的人，我不跟你打。如果说对不起有用的话，那就对不起了。这么说吧，惹到我表面上虽然没什么事，但实际上也没什么事。",
+        "id": "1981679062000287744",
+        "location": "🚪52 陪玩陪聊 （纯绿纯无聊",
+        "name": "被生活嗦成小忙狗.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991489496450494475/-Ixymbye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 33,
+          "like_count": 1230,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "username": "wzhzjq56",
+        "verified": false
+      }
+    ]
+  }
+}

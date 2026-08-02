@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993310420799750282",
+    "created_at": "2025-11-26T09:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993611928158282034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1849162833428365312",
+          "start": 0,
+          "username": "syonriri2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993611928158282034",
+    "in_reply_to_user_id": "1849162833428365312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993310420799750282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syonriri2 这个我需要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993310420799750282",
+        "created_at": "2025-11-26T09:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993611928158282034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1849162833428365312",
+              "start": 0,
+              "username": "syonriri2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993611928158282034",
+        "in_reply_to_user_id": "1849162833428365312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993310420799750282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syonriri2 这个我需要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849162833428365312",
+        "conversation_id": "1993310420799750282",
+        "created_at": "2025-11-25T13:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993310420799750282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993310420799750282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19577,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没有🚪，因为我很喜欢聊到一半就失踪不回消息，也没有漏更多的涩图可以看。\n有没有那种聊几句日常就可以打钱的好事………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 77,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T18:55:59.000Z",
+        "description": "来财",
+        "id": "1849162833428365312",
+        "location": "Chengdu",
+        "name": "12",
+        "pinned_tweet_id": "1993499790714511709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909854286114127872/Tjfh0EA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12361,
+          "following_count": 62,
+          "like_count": 206,
+          "listed_count": 45,
+          "media_count": 46,
+          "tweet_count": 86
+        },
+        "username": "syonriri2",
+        "verified": false
+      }
+    ]
+  }
+}

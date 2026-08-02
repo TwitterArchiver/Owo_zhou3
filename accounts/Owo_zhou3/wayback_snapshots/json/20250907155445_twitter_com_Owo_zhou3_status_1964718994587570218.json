@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964578531134095643",
+    "created_at": "2025-09-07T15:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T16:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964718994587570218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882910113792655360",
+          "start": 0,
+          "username": "Resfeber0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964718994587570218",
+    "in_reply_to_user_id": "1882910113792655360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964578531134095643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Resfeber0 瑞幸的桂花茶 好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964578531134095643",
+        "created_at": "2025-09-07T15:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964718994587570218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882910113792655360",
+              "start": 0,
+              "username": "Resfeber0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964718994587570218",
+        "in_reply_to_user_id": "1882910113792655360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964578531134095643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Resfeber0 瑞幸的桂花茶 好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882910113792655360",
+        "conversation_id": "1964578531134095643",
+        "created_at": "2025-09-07T06:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964578531134095643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964578531134095643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8589,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝老师今天喝什么呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 46,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T21:55:39.000Z",
+        "description": "人好 我也是人",
+        "id": "1882910113792655360",
+        "name": "Utopia",
+        "pinned_tweet_id": "1939513074186166543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937175131652038656/3YzhjDc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39739,
+          "following_count": 275,
+          "like_count": 1316,
+          "listed_count": 85,
+          "media_count": 139,
+          "tweet_count": 2047
+        },
+        "username": "Resfeber0",
+        "verified": false
+      }
+    ]
+  }
+}

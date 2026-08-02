@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1997631288438624582",
+    "created_at": "2025-12-08T13:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T14:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998020135270137956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "845919642182860800",
+          "start": 0,
+          "username": "betangibo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998020135270137956",
+    "in_reply_to_user_id": "845919642182860800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997631288438624582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@betangibo 吓老子一跳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997631279895076864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kDEK5a4AADxO3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1997631288438624582",
+        "created_at": "2025-12-08T13:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998020135270137956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "845919642182860800",
+              "start": 0,
+              "username": "betangibo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998020135270137956",
+        "in_reply_to_user_id": "845919642182860800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997631288438624582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@betangibo 吓老子一跳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997631279895076864"
+          ]
+        },
+        "author_id": "845919642182860800",
+        "conversation_id": "1997631288438624582",
+        "created_at": "2025-12-07T11:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T12:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997631288438624582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFkovp9bjz",
+              "end": 29,
+              "expanded_url": "https://x.com/betangibo/status/1997631288438624582/photo/1",
+              "media_key": "3_1997631279895076864",
+              "start": 6,
+              "url": "https://t.co/DFkovp9bjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997631288438624582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 264937,
+          "like_count": 20948,
+          "quote_count": 232,
+          "reply_count": 59,
+          "retweet_count": 1181
+        },
+        "reply_settings": "everyone",
+        "text": "ひいいww https://t.co/DFkovp9bjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 83,
+          "like_count": 577,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-26T08:45:33.000Z",
+        "description": "350日酔っば！クレゲ一番くじの脳汁人間🧠酒と激辛でストレス発散してます ちい活🌰🐰推しYouTubeレモレモちゃんねる🍋TikTokレモちゃんhttps://t.co/dQ9uVLnQou わにまんインスタもよろしう😙",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@user123217237…",
+                "end": 95,
+                "expanded_url": "https://www.tiktok.com/@user1232172375622?_t=8kHuh5KPJ0Z&_r=1",
+                "start": 72,
+                "url": "https://t.co/dQ9uVLnQou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@remonbakunomi…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@remonbakunomi?feature=shared",
+                "start": 0,
+                "url": "https://t.co/6wGaVkLSmx"
+              }
+            ]
+          }
+        },
+        "id": "845919642182860800",
+        "location": "日本",
+        "name": "わにまん🍋",
+        "pinned_tweet_id": "1799382201702003036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709505462780268544/NaMQc6Or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 894,
+          "like_count": 87860,
+          "listed_count": 4,
+          "media_count": 2397,
+          "tweet_count": 42471
+        },
+        "url": "https://t.co/6wGaVkLSmx",
+        "username": "betangibo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003326841856360641",
+    "created_at": "2025-12-23T12:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T13:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003445618468143575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664120419711074304",
+          "start": 0,
+          "username": "SeYU1eScwt52054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003445618468143575",
+    "in_reply_to_user_id": "1664120419711074304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003326841856360641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeYU1eScwt52054 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 579,
+        "media_key": "3_2003326835275485184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G80_JIGaUAAvGH2.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003326841856360641",
+        "created_at": "2025-12-23T12:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003445618468143575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664120419711074304",
+              "start": 0,
+              "username": "SeYU1eScwt52054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003445618468143575",
+        "in_reply_to_user_id": "1664120419711074304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003326841856360641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeYU1eScwt52054 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003326835275485184"
+          ]
+        },
+        "author_id": "1664120419711074304",
+        "conversation_id": "2003326841856360641",
+        "created_at": "2025-12-23T04:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003326841856360641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6sfJ6y1W5",
+              "end": 37,
+              "expanded_url": "https://x.com/SeYU1eScwt52054/status/2003326841856360641/photo/1",
+              "media_key": "3_2003326835275485184",
+              "start": 14,
+              "url": "https://t.co/B6sfJ6y1W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003326841856360641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 70768,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有金主了，谢谢大家的关心🙏 https://t.co/B6sfJ6y1W5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3423,
+          "following_count": 116,
+          "like_count": 777,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-01T04:03:36.000Z",
+        "description": "我有病看不惯我就去死｜🚪520｜发着玩",
+        "id": "1664120419711074304",
+        "location": "南京",
+        "name": "悲伤的前妻",
+        "pinned_tweet_id": "1996073455012511901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872986534871482369/BQGtRX-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6260,
+          "following_count": 93,
+          "like_count": 10142,
+          "listed_count": 7,
+          "media_count": 766,
+          "tweet_count": 8725
+        },
+        "username": "SeYU1eScwt52054",
+        "verified": false
+      }
+    ]
+  }
+}

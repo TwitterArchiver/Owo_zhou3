@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992077287915921765",
+    "created_at": "2025-11-22T15:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T16:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992257795044024625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1770836943867146240",
+          "start": 0,
+          "username": "ka_aoa_ovxo1"
+        },
+        {
+          "end": 28,
+          "id": "1746487672598642688",
+          "start": 14,
+          "username": "mjzsswdcy8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992257795044024625",
+    "in_reply_to_user_id": "1770836943867146240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992257088438091875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ka_aoa_ovxo1 @mjzsswdcy8964 笑死我了我才意识到啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T15:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992257795044024625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1770836943867146240",
+              "start": 0,
+              "username": "ka_aoa_ovxo1"
+            },
+            {
+              "end": 28,
+              "id": "1746487672598642688",
+              "start": 14,
+              "username": "mjzsswdcy8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992257795044024625",
+        "in_reply_to_user_id": "1770836943867146240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992257088438091875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ka_aoa_ovxo1 @mjzsswdcy8964 笑死我了我才意识到啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770836943867146240",
+        "conversation_id": "1992077287915921765",
+        "created_at": "2025-11-22T15:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992257088438091875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746487672598642688",
+              "start": 0,
+              "username": "mjzsswdcy8964"
+            },
+            {
+              "end": 25,
+              "id": "1962554097120485377",
+              "start": 15,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992257088438091875",
+        "in_reply_to_user_id": "1746487672598642688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992246180940804357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mjzsswdcy8964 @Owo_zhou3 直接把对面号炸了是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 75,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1023
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T15:36:50.000Z",
+        "description": "猫教徒",
+        "id": "1770836943867146240",
+        "name": "ka^_aoa^_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989730391016837126/9Z4PcwTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 57,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "ka_aoa_ovxo1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T11:01:35.000Z",
+        "description": "无需深情与古怪的嘱托",
+        "id": "1746487672598642688",
+        "location": "🩵",
+        "name": "小饭，今夜我穿过你的火车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992242898151108608/SKzGRXP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 950,
+          "like_count": 2955,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 2585
+        },
+        "username": "mjzsswdcy8964",
+        "verified": false
+      }
+    ]
+  }
+}

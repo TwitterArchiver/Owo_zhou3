@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003348901366235182",
+    "created_at": "2025-12-23T08:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T09:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003389615789785164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538466714639212544",
+          "start": 0,
+          "username": "fuccccccing1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003389615789785164",
+    "in_reply_to_user_id": "1538466714639212544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003371779147071959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuccccccing1 帮我骂死她"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003371769973882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81oAq5WwAAbOZ0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003348901366235182",
+        "created_at": "2025-12-23T08:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T09:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003389615789785164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538466714639212544",
+              "start": 0,
+              "username": "fuccccccing1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003389615789785164",
+        "in_reply_to_user_id": "1538466714639212544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003371779147071959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuccccccing1 帮我骂死她"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003371769973882880"
+          ]
+        },
+        "author_id": "1538466714639212544",
+        "conversation_id": "2003348901366235182",
+        "created_at": "2025-12-23T07:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003371779147071959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGHkGXyBQS",
+              "end": 51,
+              "expanded_url": "https://x.com/fuccccccing1/status/2003371779147071959/photo/1",
+              "media_key": "3_2003371769973882880",
+              "start": 28,
+              "url": "https://t.co/SGHkGXyBQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003371779147071959",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003348901366235182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 你火了哈哈哈哈，我也是从dy来的 https://t.co/SGHkGXyBQS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3380,
+          "following_count": 116,
+          "like_count": 776,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-19T10:20:36.000Z",
+        "description": "二级市场的韭菜，梦想靠二级市场发家致富，涉及股票，基金，大宗商品，虚拟货币",
+        "id": "1538466714639212544",
+        "name": "风口上的猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787015097308905472/CKYiGMfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 54,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "fuccccccing1",
+        "verified": false
+      }
+    ]
+  }
+}

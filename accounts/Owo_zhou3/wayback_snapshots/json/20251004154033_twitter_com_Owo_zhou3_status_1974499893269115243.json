@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974402994260365312"
+      ],
+      "media_source_tweet_id": [
+        "1974403000476312003"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1974499893269115243",
+    "created_at": "2025-10-04T15:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974499893269115243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1489611149704192005",
+          "start": 3,
+          "username": "BiYebi1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/khyqX3tKiJ",
+          "end": 36,
+          "expanded_url": "https://x.com/BiYebi1/status/1974403000476312003/photo/1",
+          "media_key": "3_1974402994260365312",
+          "start": 13,
+          "url": "https://t.co/khyqX3tKiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974499893269115243",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974403000476312003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BiYebi1: https://t.co/khyqX3tKiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1219,
+        "media_key": "3_1974402994260365312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Z9D_xbUAAKagb.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974402994260365312"
+          ],
+          "media_source_tweet_id": [
+            "1974403000476312003"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1974499893269115243",
+        "created_at": "2025-10-04T15:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974499893269115243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489611149704192005",
+              "start": 3,
+              "username": "BiYebi1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/khyqX3tKiJ",
+              "end": 36,
+              "expanded_url": "https://x.com/BiYebi1/status/1974403000476312003/photo/1",
+              "media_key": "3_1974402994260365312",
+              "start": 13,
+              "url": "https://t.co/khyqX3tKiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974499893269115243",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974403000476312003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BiYebi1: https://t.co/khyqX3tKiJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974402994260365312"
+          ]
+        },
+        "author_id": "1489611149704192005",
+        "conversation_id": "1974403000476312003",
+        "created_at": "2025-10-04T09:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974403000476312003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khyqX3tKiJ",
+              "end": 23,
+              "expanded_url": "https://x.com/BiYebi1/status/1974403000476312003/photo/1",
+              "media_key": "3_1974402994260365312",
+              "start": 0,
+              "url": "https://t.co/khyqX3tKiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974403000476312003",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6714,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/khyqX3tKiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O  我不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 49,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T14:46:05.000Z",
+        "description": "原创/二创/meme 很高兴认识你/作品观点不代表本人观点 仅供娱乐",
+        "id": "1489611149704192005",
+        "name": "她",
+        "pinned_tweet_id": "1960276699410784320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973240061140541447/ZKbIY9eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7415,
+          "following_count": 23,
+          "like_count": 125,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 269
+        },
+        "username": "BiYebi1",
+        "verified": false
+      }
+    ]
+  }
+}

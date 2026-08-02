@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1988949986160300372",
+    "created_at": "2025-11-13T12:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988949986160300372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826321786834944000",
+          "start": 3,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988949986160300372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988805868000080220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds520: 对我来说，分享欲就约等于爱了。我向你分享我的童年，我最爱听的歌，分享路上遇到的小猫，长相奇怪的树，这是一遍一遍地告诉你：我愿意让你了解我、看见我，我很喜欢你，遇到什么事情我都想告诉你。它就像一根细细的针，把我、你和这个世界联系起来，从此以后再听到同一首…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1988949986160300372",
+        "created_at": "2025-11-13T12:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988949986160300372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826321786834944000",
+              "start": 3,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988949986160300372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988805868000080220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds520: 对我来说，分享欲就约等于爱了。我向你分享我的童年，我最爱听的歌，分享路上遇到的小猫，长相奇怪的树，这是一遍一遍地告诉你：我愿意让你了解我、看见我，我很喜欢你，遇到什么事情我都想告诉你。它就像一根细细的针，把我、你和这个世界联系起来，从此以后再听到同一首…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1988805868000080220",
+        "created_at": "2025-11-13T03:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988805868000080220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988805868000080220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 19670,
+          "like_count": 449,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "对我来说，分享欲就约等于爱了。我向你分享我的童年，我最爱听的歌，分享路上遇到的小猫，长相奇怪的树，这是一遍一遍地告诉你：我愿意让你了解我、看见我，我很喜欢你，遇到什么事情我都想告诉你。它就像一根细细的针，把我、你和这个世界联系起来，从此以后再听到同一首歌，我都会想起你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O /丑的敢和我私信就等着死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 60,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "感谢关注和支持/文案来源于网络 祝大家天天开心/接训练饮食计划 /接回收账号 价格美丽",
+        "id": "1826321786834944000",
+        "location": "搬运工",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1987056835313213480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 637,
+          "like_count": 9066,
+          "listed_count": 9,
+          "media_count": 108,
+          "tweet_count": 706
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

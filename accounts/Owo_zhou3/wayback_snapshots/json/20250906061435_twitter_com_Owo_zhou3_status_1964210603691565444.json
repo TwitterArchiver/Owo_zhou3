@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964105148328005632"
+      ],
+      "media_source_tweet_id": [
+        "1964105157001850886"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1964210603691565444",
+    "created_at": "2025-09-06T06:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T07:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964210603691565444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "JDE_Alva"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1mD5T6xWM3",
+          "end": 49,
+          "expanded_url": "https://x.com/JDE_Alva/status/1964105157001850886/photo/1",
+          "media_key": "3_1964105148328005632",
+          "start": 26,
+          "url": "https://t.co/1mD5T6xWM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964210603691565444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964105157001850886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JDE_Alva: 恭喜你 家里出了个勇士 https://t.co/1mD5T6xWM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1964105148328005632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0HnOeObUAAQ0VS.jpg",
+        "width": 801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964105148328005632"
+          ],
+          "media_source_tweet_id": [
+            "1964105157001850886"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964210603691565444",
+        "created_at": "2025-09-06T06:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T07:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964210603691565444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "JDE_Alva"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mD5T6xWM3",
+              "end": 49,
+              "expanded_url": "https://x.com/JDE_Alva/status/1964105157001850886/photo/1",
+              "media_key": "3_1964105148328005632",
+              "start": 26,
+              "url": "https://t.co/1mD5T6xWM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964210603691565444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964105157001850886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JDE_Alva: 恭喜你 家里出了个勇士 https://t.co/1mD5T6xWM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964105148328005632"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964105157001850886",
+        "created_at": "2025-09-05T23:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T00:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964105157001850886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mD5T6xWM3",
+              "end": 35,
+              "expanded_url": "https://x.com/JDE_Alva/status/1964105157001850886/photo/1",
+              "media_key": "3_1964105148328005632",
+              "start": 12,
+              "url": "https://t.co/1mD5T6xWM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964105157001850886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1386,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜你 家里出了个勇士 https://t.co/1mD5T6xWM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 44,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "E-Sports Coach.｜Enby.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3NYr"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1961440554384003295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 2065,
+          "like_count": 18859,
+          "listed_count": 9,
+          "media_count": 426,
+          "tweet_count": 2920
+        },
+        "url": "https://t.co/HOju3R3NYr",
+        "username": "JDE_Alva",
+        "verified": true
+      }
+    ]
+  }
+}

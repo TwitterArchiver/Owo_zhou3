@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1966818483271852128",
+    "created_at": "2025-09-14T11:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967182278616097120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1357123381712195584",
+          "start": 0,
+          "username": "sberrybambi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967182278616097120",
+    "in_reply_to_user_id": "1357123381712195584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966818483271852128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sberrybambi_ 接接接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1966818473205547008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uK-xEXwAA3V93.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1168,
+        "media_key": "3_1966818473201336322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uK-xDXgAIbW68.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1966818483271852128",
+        "created_at": "2025-09-14T11:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967182278616097120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1357123381712195584",
+              "start": 0,
+              "username": "sberrybambi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967182278616097120",
+        "in_reply_to_user_id": "1357123381712195584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966818483271852128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sberrybambi_ 接接接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966818473205547008",
+            "3_1966818473201336322"
+          ]
+        },
+        "author_id": "1357123381712195584",
+        "conversation_id": "1966818483271852128",
+        "created_at": "2025-09-13T10:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966818483271852128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLoMCItVMl",
+              "end": 35,
+              "expanded_url": "https://x.com/sberrybambi_/status/1966818483271852128/photo/1",
+              "media_key": "3_1966818473205547008",
+              "start": 12,
+              "url": "https://t.co/cLoMCItVMl"
+            },
+            {
+              "display_url": "pic.x.com/cLoMCItVMl",
+              "end": 35,
+              "expanded_url": "https://x.com/sberrybambi_/status/1966818483271852128/photo/1",
+              "media_key": "3_1966818473201336322",
+              "start": 12,
+              "url": "https://t.co/cLoMCItVMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966818483271852128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31199,
+          "like_count": 243,
+          "quote_count": 3,
+          "reply_count": 108,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们 近期财运拉满了 https://t.co/cLoMCItVMl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 48,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T00:26:49.000Z",
+        "description": "🖤♡ ₊˚ 小女孩日记 ₊˚ ♡🖤",
+        "id": "1357123381712195584",
+        "name": "🦦",
+        "pinned_tweet_id": "1952750564510466155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928635307886575616/m1aTZYXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13999,
+          "following_count": 215,
+          "like_count": 29448,
+          "listed_count": 14,
+          "media_count": 61,
+          "tweet_count": 4425
+        },
+        "username": "sberrybambi_",
+        "verified": false
+      }
+    ]
+  }
+}

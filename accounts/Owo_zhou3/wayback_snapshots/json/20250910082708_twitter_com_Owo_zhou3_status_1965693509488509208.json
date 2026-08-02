@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1965575186620764557",
+    "created_at": "2025-09-10T08:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T09:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965693509488509208"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788854643163877376",
+          "start": 0,
+          "username": "fffffffx286556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965693509488509208",
+    "in_reply_to_user_id": "1788854643163877376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965575186620764557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffffffx286556 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965575178974625795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0cgNhIbgAMJKlD.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1965575186620764557",
+        "created_at": "2025-09-10T08:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965693509488509208"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788854643163877376",
+              "start": 0,
+              "username": "fffffffx286556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965693509488509208",
+        "in_reply_to_user_id": "1788854643163877376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965575186620764557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffffffx286556 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965575178974625795"
+          ]
+        },
+        "author_id": "1788854643163877376",
+        "conversation_id": "1965575186620764557",
+        "created_at": "2025-09-10T00:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T01:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965575186620764557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJoBNSagdr",
+              "end": 25,
+              "expanded_url": "https://x.com/fffffffx286556/status/1965575186620764557/photo/1",
+              "media_key": "3_1965575178974625795",
+              "start": 2,
+              "url": "https://t.co/tJoBNSagdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965575186620764557",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6714,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🍓 https://t.co/tJoBNSagdr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 50,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T08:52:45.000Z",
+        "description": "纯分享",
+        "id": "1788854643163877376",
+        "name": "伤心猕猴桃",
+        "pinned_tweet_id": "1963468931634454682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890388842987077633/LeBW2kFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14587,
+          "following_count": 56,
+          "like_count": 1531,
+          "listed_count": 26,
+          "media_count": 88,
+          "tweet_count": 578
+        },
+        "username": "fffffffx286556",
+        "verified": false
+      }
+    ]
+  }
+}

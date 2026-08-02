@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045459901561135104"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "2045459962483368054",
+    "created_at": "2026-04-18T11:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045459962483368054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UW48bEUJvq",
+          "end": 30,
+          "expanded_url": "https://x.com/Owo_zhou3/status/2045459962483368054/video/1",
+          "media_key": "13_2045459901561135104",
+          "start": 7,
+          "url": "https://t.co/UW48bEUJvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045459962483368054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人叫姐姐 https://t.co/UW48bEUJvq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9268,
+        "height": 1280,
+        "media_key": "13_2045459901561135104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045459901561135104/img/yQmrnBZyNcmRYuH5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045459901561135104/vid/avc1/320x568/uD8FVBgz_bxVjica.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045459901561135104/vid/avc1/480x852/aDdcOGTI4OzI1ed2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045459901561135104/vid/avc1/720x1280/BB8naHxmgoDNCEgw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045459901561135104/pl/4HSoz6hhGUxfoGlg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045459901561135104"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "2045459962483368054",
+        "created_at": "2026-04-18T11:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045459962483368054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UW48bEUJvq",
+              "end": 30,
+              "expanded_url": "https://x.com/Owo_zhou3/status/2045459962483368054/video/1",
+              "media_key": "13_2045459901561135104",
+              "start": 7,
+              "url": "https://t.co/UW48bEUJvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045459962483368054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人叫姐姐 https://t.co/UW48bEUJvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4563,
+          "following_count": 110,
+          "like_count": 960,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 3237
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

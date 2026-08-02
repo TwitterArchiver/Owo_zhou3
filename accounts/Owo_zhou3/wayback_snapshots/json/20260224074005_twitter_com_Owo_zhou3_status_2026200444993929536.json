@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2025677670428639526",
+    "created_at": "2026-02-24T07:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T08:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026200444993929536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022232330752925696",
+          "start": 0,
+          "username": "Meltss03"
+        },
+        {
+          "end": 21,
+          "id": "1945691870",
+          "start": 10,
+          "username": "Aaaa_1117a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026200444993929536",
+    "in_reply_to_user_id": "2022232330752925696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025677670428639526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meltss03 @Aaaa_1117a 都是普通人很正常啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2025677670428639526",
+        "created_at": "2026-02-24T07:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026200444993929536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022232330752925696",
+              "start": 0,
+              "username": "Meltss03"
+            },
+            {
+              "end": 21,
+              "id": "1945691870",
+              "start": 10,
+              "username": "Aaaa_1117a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026200444993929536",
+        "in_reply_to_user_id": "2022232330752925696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025677670428639526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meltss03 @Aaaa_1117a 都是普通人很正常啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2025677670428639526",
+        "created_at": "2026-02-22T21:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T22:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025677670428639526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025677670428639526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 150006,
+          "like_count": 1554,
+          "quote_count": 24,
+          "reply_count": 148,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "好多人都好丑，这是事实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4586,
+          "following_count": 102,
+          "like_count": 901,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 2810
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。骚逼小号@Shitan2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "Shitan2778"
+              }
+            ]
+          }
+        },
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 35,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1097
+        },
+        "username": "Meltss03",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-08T02:25:19.000Z",
+        "description": "咯咯哒、高盛老将\n骁锐泰拳搏击健身俱乐部成员\n天眼，是男人的浪漫🌹",
+        "id": "1945691870",
+        "location": "SG",
+        "name": "天眼哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018506384346857472/XsW3IG41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 54,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2894
+        },
+        "username": "Aaaa_1117a",
+        "verified": false
+      }
+    ]
+  }
+}

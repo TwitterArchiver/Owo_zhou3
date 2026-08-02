@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992958477480886742",
+    "created_at": "2025-11-24T14:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T15:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992958477480886742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baisechenyi/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/baisechenyi/status/1992638559761883457",
+          "start": 5,
+          "url": "https://t.co/ZJMmjQ8VLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992958477480886742",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992638559761883457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "敢不敢。 https://t.co/ZJMmjQ8VLi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_1992638551713062912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dGNJCbIAAUMqz.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992958477480886742",
+        "created_at": "2025-11-24T14:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992958477480886742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baisechenyi/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/baisechenyi/status/1992638559761883457",
+              "start": 5,
+              "url": "https://t.co/ZJMmjQ8VLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992958477480886742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992638559761883457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "敢不敢。 https://t.co/ZJMmjQ8VLi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992638551713062912"
+          ]
+        },
+        "author_id": "1722890300757291008",
+        "conversation_id": "1992638559761883457",
+        "created_at": "2025-11-23T16:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992638559761883457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpQ8q1ksQ0",
+              "end": 76,
+              "expanded_url": "https://x.com/baisechenyi/status/1992638559761883457/photo/1",
+              "media_key": "3_1992638551713062912",
+              "start": 53,
+              "url": "https://t.co/NpQ8q1ksQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992638559761883457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14144,
+          "like_count": 393,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "死鼻子敢不敢小一点\n死眼睛敢不敢不肿敢不敢大一点\n死嘴巴敢不敢嘟一点敢不敢小一点\n死脸敢不敢小一点尖一点 https://t.co/NpQ8q1ksQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 75,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "骂我丑的给我钱整容 骂我傻的给我钱治脑子 骂我废物的 给我钱重拾对人生的希望 被我骂的给我钱 换我一句真诚道歉",
+        "id": "1722890300757291008",
+        "location": "不是4i/s",
+        "name": "Nn",
+        "pinned_tweet_id": "1985721628446375960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992472387997315073/8lw8G7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10505,
+          "following_count": 465,
+          "like_count": 19943,
+          "listed_count": 13,
+          "media_count": 157,
+          "tweet_count": 5717
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

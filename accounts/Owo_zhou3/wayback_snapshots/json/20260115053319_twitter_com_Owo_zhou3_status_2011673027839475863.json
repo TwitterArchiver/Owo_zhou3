@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1971552838221189224",
+    "created_at": "2026-01-15T05:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T06:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011673027839475863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403365279791341568",
+          "start": 0,
+          "username": "a3373555485"
+        },
+        {
+          "end": 26,
+          "id": "1889020053158551552",
+          "start": 13,
+          "username": "pangdelvxing"
+        },
+        {
+          "end": 35,
+          "id": "1537352275290644481",
+          "start": 27,
+          "username": "ToBulma"
+        },
+        {
+          "end": 45,
+          "id": "1552529965371236352",
+          "start": 36,
+          "username": "ToBulaer"
+        },
+        {
+          "end": 58,
+          "id": "1591137880688144384",
+          "start": 46,
+          "username": "KawasawaSen"
+        },
+        {
+          "end": 69,
+          "id": "1847568958507098112",
+          "start": 59,
+          "username": "BulmaList"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011673027839475863",
+    "in_reply_to_user_id": "1403365279791341568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006788958475423996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a3373555485 @pangdelvxing @ToBulma @ToBulaer @KawasawaSen @BulmaList 我操笑得我难受"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ToBulma].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ToBulma",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ToBulma"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1971552838221189224",
+        "created_at": "2026-01-15T05:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T06:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011673027839475863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403365279791341568",
+              "start": 0,
+              "username": "a3373555485"
+            },
+            {
+              "end": 26,
+              "id": "1889020053158551552",
+              "start": 13,
+              "username": "pangdelvxing"
+            },
+            {
+              "end": 35,
+              "id": "1537352275290644481",
+              "start": 27,
+              "username": "ToBulma"
+            },
+            {
+              "end": 45,
+              "id": "1552529965371236352",
+              "start": 36,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 58,
+              "id": "1591137880688144384",
+              "start": 46,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 69,
+              "id": "1847568958507098112",
+              "start": 59,
+              "username": "BulmaList"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011673027839475863",
+        "in_reply_to_user_id": "1403365279791341568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006788958475423996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a3373555485 @pangdelvxing @ToBulma @ToBulaer @KawasawaSen @BulmaList 我操笑得我难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403365279791341568",
+        "conversation_id": "1971552838221189224",
+        "created_at": "2026-01-01T18:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006788958475423996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889020053158551552",
+              "start": 0,
+              "username": "pangdelvxing"
+            },
+            {
+              "end": 22,
+              "id": "1537352275290644481",
+              "start": 14,
+              "username": "ToBulma"
+            },
+            {
+              "end": 32,
+              "id": "1552529965371236352",
+              "start": 23,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 45,
+              "id": "1591137880688144384",
+              "start": 33,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 56,
+              "id": "1732486642525474816",
+              "start": 46,
+              "username": "BulmaList"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006788958475423996",
+        "in_reply_to_user_id": "1889020053158551552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4823,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971552838221189224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pangdelvxing @ToBulma @ToBulaer @KawasawaSen @BulmaList 我还以为20u入了有啥结果只能看到一头死猪根本看不到逼我草拟吗入门就为了看你一头死猪吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3967,
+          "following_count": 98,
+          "like_count": 844,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-11T14:55:53.000Z",
+        "description": "",
+        "id": "1403365279791341568",
+        "name": "3373555485",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "a3373555485",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T18:34:25.000Z",
+        "description": "原创|真实已有90部，已过布尔玛验证，专吃小萝莉jk洛丽塔。 ☆唯一小号 @pangyedechi ☆免费TG预览群 https://t.co/Z0wz7fDZuT ☆24小时自助入门 https://t.co/AnnEVuNHWV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "pangyedechi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+g-hJDRzCPW9mM…",
+                "end": 82,
+                "expanded_url": "https://t.me/+g-hJDRzCPW9mMzc1",
+                "start": 59,
+                "url": "https://t.co/Z0wz7fDZuT"
+              },
+              {
+                "display_url": "t.me/pangyedechi_bot",
+                "end": 116,
+                "expanded_url": "http://t.me/pangyedechi_bot",
+                "start": 93,
+                "url": "https://t.co/AnnEVuNHWV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/pangyedechiylq",
+                "end": 23,
+                "expanded_url": "https://t.me/pangyedechiylq",
+                "start": 0,
+                "url": "https://t.co/FQS4n8LxhR"
+              }
+            ]
+          }
+        },
+        "id": "1889020053158551552",
+        "location": "原创白幼瘦萝莉",
+        "name": "胖胖de奇妙旅行",
+        "pinned_tweet_id": "2009475219040223309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908390389826150401/LI60KmVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295448,
+          "following_count": 11,
+          "like_count": 18,
+          "listed_count": 449,
+          "media_count": 77,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/FQS4n8LxhR",
+        "username": "pangdelvxing",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-28T05:42:48.000Z",
+        "description": "#分享美好 #AdultArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "分享美好"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "AdultArt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobulma.com",
+                "end": 23,
+                "expanded_url": "https://www.tobulma.com/",
+                "start": 0,
+                "url": "https://t.co/GLSl5IKMvy"
+              }
+            ]
+          }
+        },
+        "id": "1552529965371236352",
+        "location": "我未关注则有概率盗图，理性消费💰",
+        "name": "布拉尔",
+        "pinned_tweet_id": "1996642671218381236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806105515971530752/f4UTu1uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921413,
+          "following_count": 1306,
+          "like_count": 3,
+          "listed_count": 2925,
+          "media_count": 0,
+          "tweet_count": 26534
+        },
+        "url": "https://t.co/GLSl5IKMvy",
+        "username": "ToBulaer",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2022-11-11T18:36:48.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BulmaList",
+                "end": 23,
+                "expanded_url": "https://t.me/BulmaList",
+                "start": 0,
+                "url": "https://t.co/CBUPZzgPsD"
+              }
+            ]
+          }
+        },
+        "id": "1591137880688144384",
+        "location": "原创女生TG投稿频道👉",
+        "name": "川泽森",
+        "pinned_tweet_id": "1900419025198604514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819489015659483137/h-82b1A6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102761,
+          "following_count": 35,
+          "like_count": 3,
+          "listed_count": 3836,
+          "media_count": 0,
+          "tweet_count": 21880
+        },
+        "url": "https://t.co/CBUPZzgPsD",
+        "username": "KawasawaSen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T09:22:38.000Z",
+        "description": "#唯一 100％纯原创 #欢迎投稿 #高质原创榜即将回归 ❤️推广勿扰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "唯一"
+              },
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "欢迎投稿"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "tag": "高质原创榜即将回归"
+              }
+            ]
+          }
+        },
+        "id": "1847568958507098112",
+        "name": "原创榜单",
+        "pinned_tweet_id": "2008020711416447167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007832670999617536/xtmrpetV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370001,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 901,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "BulmaList",
+        "verified": false
+      }
+    ]
+  }
+}

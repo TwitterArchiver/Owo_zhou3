@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2024321141276598484",
+    "created_at": "2026-02-19T12:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T13:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024464152463573275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819753476853014528",
+          "start": 0,
+          "username": "MiNaruto2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024464152463573275",
+    "in_reply_to_user_id": "1819753476853014528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024449844241453111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiNaruto2007 我也不知道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_2024449833151688704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhKZbKa8AAhLcW.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2024321141276598484",
+        "created_at": "2026-02-19T12:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024464152463573275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819753476853014528",
+              "start": 0,
+              "username": "MiNaruto2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024464152463573275",
+        "in_reply_to_user_id": "1819753476853014528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024449844241453111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiNaruto2007 我也不知道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024449833151688704"
+          ]
+        },
+        "author_id": "1819753476853014528",
+        "conversation_id": "2024321141276598484",
+        "created_at": "2026-02-19T11:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024449844241453111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "2.微博",
+              "end": 39,
+              "expanded_url": "http://2.xn--9krt00a",
+              "start": 16,
+              "unwound_url": "http://2.xn--9krt00a",
+              "url": "https://t.co/GoEXwBydf4"
+            },
+            {
+              "display_url": "pic.x.com/lVHzORkdjj",
+              "end": 69,
+              "expanded_url": "https://x.com/MiNaruto2007/status/2024449844241453111/photo/1",
+              "media_key": "3_2024449833151688704",
+              "start": 46,
+              "url": "https://t.co/lVHzORkdjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024449844241453111",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024321141276598484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 为什么这个https://t.co/GoEXwBydf4是蓝色字体。 https://t.co/lVHzORkdjj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4417,
+          "following_count": 99,
+          "like_count": 897,
+          "listed_count": 4,
+          "media_count": 300,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T15:13:43.000Z",
+        "description": "",
+        "id": "1819753476853014528",
+        "location": "木ノ葉村",
+        "name": "Valraven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006958637768732672/zp4WC3H9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 1163,
+          "like_count": 13944,
+          "listed_count": 1,
+          "media_count": 626,
+          "tweet_count": 4801
+        },
+        "username": "MiNaruto2007",
+        "verified": false
+      }
+    ]
+  }
+}

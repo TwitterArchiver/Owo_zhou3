@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963931431652249966",
+    "created_at": "2025-09-05T11:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T12:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963931431652249966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+          "end": 31,
+          "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+          "start": 8,
+          "status": 200,
+          "title": "@小梨别: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+          "url": "https://t.co/e00d4Jw3Xd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963931431652249966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "粥ovo匿名提问https://t.co/e00d4Jw3Xd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963931431652249966",
+        "created_at": "2025-09-05T11:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963931431652249966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+              "end": 31,
+              "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+              "start": 8,
+              "status": 200,
+              "title": "@小梨别: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+              "url": "https://t.co/e00d4Jw3Xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963931431652249966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粥ovo匿名提问https://t.co/e00d4Jw3Xd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌",
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 96
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

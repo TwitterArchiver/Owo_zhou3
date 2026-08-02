@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1999873512878772667",
+    "created_at": "2025-12-13T16:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T17:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999873512878772667"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999873512878772667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我看到弟弟被爸妈用原来错误的教育我的方式去教育他的时候很可怜他我也不知道该怎么改变怎么和他说 但他的性格已经和我爸妈一样了 我受到欺负伤害他第一反应是装作看不到和出言嘲讽而不是来帮助他这个血缘上的姐姐 我被父母呵斥的时候他也是在旁边帮腔 有时候我很寒心但也不知道怎么说 我知道这不是他的问题 是教育的问题 爸妈很爱我们道理都明白只是从小的环境和对我的辱骂我实在难以忘怀 这也是为什么那么多中国的小孩那么压抑 但是00后现在敢于发表出自己的观点自己的不舒服 在提醒着所有父母正确的教育观 这种教育陷入循环 都是因为大家都是这么过来的不知道什么是正常的什么是正确的 只会用小时候怎么被教导的就怎么去教导自己的孩子 这都是没办法的事"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我看到弟弟被爸妈用原来错误的教育我的方式去教育他的时候很可怜他我也不知道该怎么改变怎么和他说 但他的性格已经和我爸妈一样了 我受到欺负伤害他第一反应是装作看不到和出言嘲讽而不是来帮助他这个血缘上的姐姐 我被父母呵斥的时候他也是在旁边帮腔 有时候我很寒心但也不知道怎么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1999873512878772667",
+        "created_at": "2025-12-13T16:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999873512878772667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999873512878772667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我看到弟弟被爸妈用原来错误的教育我的方式去教育他的时候很可怜他我也不知道该怎么改变怎么和他说 但他的性格已经和我爸妈一样了 我受到欺负伤害他第一反应是装作看不到和出言嘲讽而不是来帮助他这个血缘上的姐姐 我被父母呵斥的时候他也是在旁边帮腔 有时候我很寒心但也不知道怎么说 我知道这不是他的问题 是教育的问题 爸妈很爱我们道理都明白只是从小的环境和对我的辱骂我实在难以忘怀 这也是为什么那么多中国的小孩那么压抑 但是00后现在敢于发表出自己的观点自己的不舒服 在提醒着所有父母正确的教育观 这种教育陷入循环 都是因为大家都是这么过来的不知道什么是正常的什么是正确的 只会用小时候怎么被教导的就怎么去教导自己的孩子 这都是没办法的事"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我看到弟弟被爸妈用原来错误的教育我的方式去教育他的时候很可怜他我也不知道该怎么改变怎么和他说 但他的性格已经和我爸妈一样了 我受到欺负伤害他第一反应是装作看不到和出言嘲讽而不是来帮助他这个血缘上的姐姐 我被父母呵斥的时候他也是在旁边帮腔 有时候我很寒心但也不知道怎么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 110,
+          "like_count": 624,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      }
+    ]
+  }
+}

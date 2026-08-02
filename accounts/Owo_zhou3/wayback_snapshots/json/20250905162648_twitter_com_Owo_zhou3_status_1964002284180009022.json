@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1963900156639895649",
+    "created_at": "2025-09-05T16:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T17:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964002284180009022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644395180055724041",
+          "start": 0,
+          "username": "sukiyaki_99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964002284180009022",
+    "in_reply_to_user_id": "1644395180055724041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963900156639895649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukiyaki_99 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1963900156639895649",
+        "created_at": "2025-09-05T16:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964002284180009022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644395180055724041",
+              "start": 0,
+              "username": "sukiyaki_99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964002284180009022",
+        "in_reply_to_user_id": "1644395180055724041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963900156639895649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukiyaki_99 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644395180055724041",
+        "conversation_id": "1963900156639895649",
+        "created_at": "2025-09-05T09:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T10:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963900156639895649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963900156639895649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6480,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚是哪个宝宝给我赞赏了88 没有备注。你要我vx不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌  匿名箱https://t.co/rPNhEwChH4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 32,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 9,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 43,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 133
+        },
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T17:42:28.000Z",
+        "description": "直男｜省流请看highlight｜无照不回^^骚扰请先过🚪｜自用vpn：https://t.co/jPfqK85vMe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 59,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=RD0SPVbi",
+                "start": 36,
+                "url": "https://t.co/jPfqK85vMe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tom20255923",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tom20255923",
+                "start": 0,
+                "url": "https://t.co/NIX6l9fWTv"
+              }
+            ]
+          }
+        },
+        "id": "1644395180055724041",
+        "location": "🚪88/188/520",
+        "name": "狂炫寿喜锅(day0版）",
+        "pinned_tweet_id": "1963472133184524468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935516847375634434/8Na5e5CN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4243,
+          "following_count": 193,
+          "like_count": 6088,
+          "listed_count": 10,
+          "media_count": 50,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/NIX6l9fWTv",
+        "username": "sukiyaki_99",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1965026877019656681",
+    "created_at": "2025-09-08T17:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T18:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965102725244617111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        },
+        {
+          "end": 21,
+          "id": "1961727243887296512",
+          "start": 10,
+          "username": "yiyi_02014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965102725244617111",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965028859088425464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml @yiyi_02014 你们怎么每天可以聊那么多天😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1965026877019656681",
+        "created_at": "2025-09-08T17:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T18:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965102725244617111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            },
+            {
+              "end": 21,
+              "id": "1961727243887296512",
+              "start": 10,
+              "username": "yiyi_02014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965102725244617111",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965028859088425464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml @yiyi_02014 你们怎么每天可以聊那么多天😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632079685436727299",
+        "conversation_id": "1965026877019656681",
+        "created_at": "2025-09-08T12:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T13:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965028859088425464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961727243887296512",
+              "start": 0,
+              "username": "yiyi_02014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965028859088425464",
+        "in_reply_to_user_id": "1961727243887296512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965026877019656681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiyi_02014 我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 48,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "随心 取关随意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mea96067",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mea96067",
+                "start": 0,
+                "url": "https://t.co/6wifRClQzK"
+              }
+            ]
+          }
+        },
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "1963523814026813729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962011363422932992/xqoYY5jQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 96,
+          "like_count": 3828,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/6wifRClQzK",
+        "username": "xxNANAml",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T09:47:21.000Z",
+        "description": "好相处 可互关 可交友  不谈不线下 不聊骚  直的 不是女同 1i/4i  switch 谢谢喜欢 匿名问答∶https://t.co/YL2kayk6ti",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyi_02014",
+                "end": 79,
+                "expanded_url": "https://ngl.link/yiyi_02014",
+                "start": 56,
+                "url": "https://t.co/YL2kayk6ti"
+              }
+            ]
+          }
+        },
+        "id": "1961727243887296512",
+        "location": "0.1km",
+        "name": "cat",
+        "pinned_tweet_id": "1965042186359374188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964956147674382336/gpgxq8yy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 110,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 314
+        },
+        "username": "yiyi_02014",
+        "verified": false
+      }
+    ]
+  }
+}

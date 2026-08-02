@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992611763473289216"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992611772227060039",
+    "created_at": "2025-11-23T15:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992611772227060039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oI5fq31CKY",
+          "end": 28,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1992611772227060039/photo/1",
+          "media_key": "3_1992611763473289216",
+          "start": 5,
+          "url": "https://t.co/oI5fq31CKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992611772227060039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草东\n滚 https://t.co/oI5fq31CKY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_1992611763473289216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ct13EXEAACcXk.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992611763473289216"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992611772227060039",
+        "created_at": "2025-11-23T15:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992611772227060039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oI5fq31CKY",
+              "end": 28,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1992611772227060039/photo/1",
+              "media_key": "3_1992611763473289216",
+              "start": 5,
+              "url": "https://t.co/oI5fq31CKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992611772227060039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草东\n滚 https://t.co/oI5fq31CKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 75,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

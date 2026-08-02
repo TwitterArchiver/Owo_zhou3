@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991810272290619392"
+      ],
+      "media_source_tweet_id": [
+        "1991810277122396447"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1991923670672142767",
+    "created_at": "2025-11-21T17:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991923670672142767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1955975309624532992",
+          "start": 3,
+          "username": "shimashima15681"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SMahHIvNxN",
+          "end": 60,
+          "expanded_url": "https://x.com/shimashima15681/status/1991810277122396447/photo/1",
+          "media_key": "3_1991810272290619392",
+          "start": 37,
+          "url": "https://t.co/SMahHIvNxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991923670672142767",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991810277122396447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimashima15681: 大きな天ぷらで嬉しいくちぱっち https://t.co/SMahHIvNxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_1991810272290619392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RU47vbQAAH9lG.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991810272290619392"
+          ],
+          "media_source_tweet_id": [
+            "1991810277122396447"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1991923670672142767",
+        "created_at": "2025-11-21T17:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991923670672142767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1955975309624532992",
+              "start": 3,
+              "username": "shimashima15681"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMahHIvNxN",
+              "end": 60,
+              "expanded_url": "https://x.com/shimashima15681/status/1991810277122396447/photo/1",
+              "media_key": "3_1991810272290619392",
+              "start": 37,
+              "url": "https://t.co/SMahHIvNxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991923670672142767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991810277122396447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimashima15681: 大きな天ぷらで嬉しいくちぱっち https://t.co/SMahHIvNxN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991810272290619392"
+          ]
+        },
+        "author_id": "1955975309624532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1991810277122396447",
+        "created_at": "2025-11-21T10:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991810277122396447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMahHIvNxN",
+              "end": 39,
+              "expanded_url": "https://x.com/shimashima15681/status/1991810277122396447/photo/1",
+              "media_key": "3_1991810272290619392",
+              "start": 16,
+              "url": "https://t.co/SMahHIvNxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991810277122396447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 15375,
+          "like_count": 1326,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "大きな天ぷらで嬉しいくちぱっち https://t.co/SMahHIvNxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 69,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T12:50:35.000Z",
+        "description": "たまごっち新規 ぬいやガチャガチャが好きです。雑多。フォロバお気遣いなく！ アイコンはぷりぬいくちぱっち 著作権は製作元にあります　背景合成にAIを使用していることがあります",
+        "id": "1955975309624532992",
+        "name": "しま",
+        "pinned_tweet_id": "1991450273496367280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987844976546660352/DddeojT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 146,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 188
+        },
+        "username": "shimashima15681",
+        "verified": false
+      }
+    ]
+  }
+}

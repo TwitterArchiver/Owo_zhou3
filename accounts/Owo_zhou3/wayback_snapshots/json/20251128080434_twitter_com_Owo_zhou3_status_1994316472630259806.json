@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994047101786062903",
+    "created_at": "2025-11-28T08:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994316472630259806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1832990152437964800",
+          "start": 0,
+          "username": "qing_yin19640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994316472630259806",
+    "in_reply_to_user_id": "1832990152437964800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994047101786062903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_yin19640 笑得我不行"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9404,
+        "height": 3840,
+        "media_key": "13_1994046981187227649",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994046981187227649/img/aTBF2_iVY7fe6syM.jpg",
+        "public_metrics": {
+          "view_count": 62012
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994046981187227649/vid/avc1/320x568/X_b2nh3JU7nLIeAz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994046981187227649/vid/avc1/480x852/nDuHnNwgUw9yl6Iu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994046981187227649/vid/avc1/720x1280/C463ZPN1jBk-Q5ht.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994046981187227649/pl/8dr9PohqrlbmVvQ9.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994047101786062903",
+        "created_at": "2025-11-28T08:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994316472630259806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1832990152437964800",
+              "start": 0,
+              "username": "qing_yin19640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994316472630259806",
+        "in_reply_to_user_id": "1832990152437964800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994047101786062903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_yin19640 笑得我不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994046981187227649"
+          ]
+        },
+        "author_id": "1832990152437964800",
+        "conversation_id": "1994047101786062903",
+        "created_at": "2025-11-27T14:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994047101786062903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLvfy8z1p6",
+              "end": 39,
+              "expanded_url": "https://x.com/qing_yin19640/status/1994047101786062903/video/1",
+              "media_key": "13_1994046981187227649",
+              "start": 16,
+              "url": "https://t.co/FLvfy8z1p6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994047101786062903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 171579,
+          "like_count": 390,
+          "quote_count": 3,
+          "reply_count": 64,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "电梯里装热成像就不厚道了... https://t.co/FLvfy8z1p6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自便",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 78,
+          "like_count": 468,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1337
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T03:53:41.000Z",
+        "description": "游天地赏国风诗韵，尝百味品尘世烟火，X之上，且行且歌。\n🍓 推文会友，不涉私音，同赏山河万象。🍒",
+        "id": "1832990152437964800",
+        "name": "顾清音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858758894740480000/n4UqTvnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19241,
+          "following_count": 4494,
+          "like_count": 124757,
+          "listed_count": 39,
+          "media_count": 2145,
+          "tweet_count": 10894
+        },
+        "username": "qing_yin19640",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1999731366032998656",
+    "created_at": "2025-12-14T03:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000043271989690841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954919788402343937",
+          "start": 0,
+          "username": "bie77862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000043271989690841",
+    "in_reply_to_user_id": "1954919788402343937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999731366032998656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bie77862 就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1999731366032998656",
+        "created_at": "2025-12-14T03:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000043271989690841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954919788402343937",
+              "start": 0,
+              "username": "bie77862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000043271989690841",
+        "in_reply_to_user_id": "1954919788402343937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999731366032998656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bie77862 就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954919788402343937",
+        "conversation_id": "1999731366032998656",
+        "created_at": "2025-12-13T06:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999731366032998656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999731366032998656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 112595,
+          "like_count": 1442,
+          "quote_count": 31,
+          "reply_count": 70,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "回避型恋人，亲嘴时候不回避，牵手时候不回避，你侬我侬时候不回避。到处理事情时候回避了，到价值观分歧时候回避了，到解决问题时候回避了😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 110,
+          "like_count": 634,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1775
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-11T14:56:27.000Z",
+        "description": "感谢您的到来，祝您生活愉快",
+        "id": "1954919788402343937",
+        "location": "🚪19.99",
+        "name": "车轮饼",
+        "pinned_tweet_id": "1991580242075611181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996244977173843968/TmDIUCkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 114,
+          "like_count": 1542,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2358
+        },
+        "username": "bie77862",
+        "verified": false
+      }
+    ]
+  }
+}

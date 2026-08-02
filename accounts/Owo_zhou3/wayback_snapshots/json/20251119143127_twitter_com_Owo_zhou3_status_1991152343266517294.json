@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1990727325919437000",
+    "created_at": "2025-11-19T14:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991152343266517294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1807666546057338880",
+          "start": 0,
+          "username": "enxwo11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991152343266517294",
+    "in_reply_to_user_id": "1807666546057338880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990727325919437000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enxwo11 礼貌申请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1990727325919437000",
+        "created_at": "2025-11-19T14:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991152343266517294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1807666546057338880",
+              "start": 0,
+              "username": "enxwo11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991152343266517294",
+        "in_reply_to_user_id": "1807666546057338880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990727325919437000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enxwo11 礼貌申请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807666546057338880",
+        "conversation_id": "1990727325919437000",
+        "created_at": "2025-11-18T10:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990727325919437000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990727325919437000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24673,
+          "like_count": 182,
+          "quote_count": 2,
+          "reply_count": 78,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "养只金丝雀，每周一盒魔芋爽一包三养火鸡面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜私信欢迎提问（吊脑思维动物敢来你就完蛋了/长得丑的你也完蛋了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 67,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T06:44:32.000Z",
+        "description": "全都不关我事",
+        "id": "1807666546057338880",
+        "name": "ence",
+        "pinned_tweet_id": "1982038663421980762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974815563013918721/9F8wYC9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 159,
+          "like_count": 4378,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 7348
+        },
+        "username": "enxwo11",
+        "verified": false
+      }
+    ]
+  }
+}

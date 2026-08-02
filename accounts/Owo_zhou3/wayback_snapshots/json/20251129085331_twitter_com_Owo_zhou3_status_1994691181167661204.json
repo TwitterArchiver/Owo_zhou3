@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1994660112930406681",
+    "created_at": "2025-11-29T08:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994691181167661204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521851592827310080",
+          "start": 0,
+          "username": "KLGJ8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994691181167661204",
+    "in_reply_to_user_id": "1521851592827310080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994660112930406681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KLGJ8888 我天10w!灰灰男都不这么豪横"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1994660112930406681",
+        "created_at": "2025-11-29T08:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994691181167661204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521851592827310080",
+              "start": 0,
+              "username": "KLGJ8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994691181167661204",
+        "in_reply_to_user_id": "1521851592827310080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994660112930406681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KLGJ8888 我天10w!灰灰男都不这么豪横"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521851592827310080",
+        "conversation_id": "1994660112930406681",
+        "created_at": "2025-11-29T06:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994660112930406681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994660112930406681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 29178,
+          "like_count": 109,
+          "quote_count": 5,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这年头包养都10w/月起价了我看谁还在当倒贴逼免费逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜置顶推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1994282425938235460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 79,
+          "like_count": 489,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T13:58:05.000Z",
+        "description": "发什么就看什么｜@Lu_lu4Xi1是小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Lu_lu4Xi1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=ATyPkgkN",
+                "start": 0,
+                "url": "https://t.co/bYRS9DrSVf"
+              }
+            ]
+          }
+        },
+        "id": "1521851592827310080",
+        "location": "好用vpn👉🏻",
+        "name": "快乐冠军",
+        "pinned_tweet_id": "1994647666165518375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645592507559063554/wDXTr60v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190153,
+          "following_count": 758,
+          "like_count": 15222,
+          "listed_count": 354,
+          "media_count": 663,
+          "tweet_count": 7441
+        },
+        "url": "https://t.co/bYRS9DrSVf",
+        "username": "KLGJ8888",
+        "verified": true
+      }
+    ]
+  }
+}

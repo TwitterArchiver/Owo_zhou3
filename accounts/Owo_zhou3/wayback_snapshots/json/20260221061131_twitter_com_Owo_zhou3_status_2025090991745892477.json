@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2024477962876362874",
+    "created_at": "2026-02-21T06:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025090991745892477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492369765410611202",
+          "start": 0,
+          "username": "likecat14198021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025090991745892477",
+    "in_reply_to_user_id": "1492369765410611202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025089910655586691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@likecat14198021 真的假的我看看发我发我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2024477962876362874",
+        "created_at": "2026-02-21T06:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025090991745892477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492369765410611202",
+              "start": 0,
+              "username": "likecat14198021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025090991745892477",
+        "in_reply_to_user_id": "1492369765410611202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025089910655586691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@likecat14198021 真的假的我看看发我发我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492369765410611202",
+        "conversation_id": "2024477962876362874",
+        "created_at": "2026-02-21T06:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025089910655586691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025089910655586691",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024477962876362874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 这不是秃头喜羊羊吗，我刚刚刷到它三秒翻脸的帖子😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 101,
+          "like_count": 898,
+          "listed_count": 4,
+          "media_count": 304,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T05:27:43.000Z",
+        "description": "男，爱好女，Switch，当s会笑场，当m会还手。0371",
+        "id": "1492369765410611202",
+        "location": "-18cm",
+        "name": "橙likecat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021243252037627904/UAzaQliM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 32,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 844
+        },
+        "username": "likecat14198021",
+        "verified": false
+      }
+    ]
+  }
+}

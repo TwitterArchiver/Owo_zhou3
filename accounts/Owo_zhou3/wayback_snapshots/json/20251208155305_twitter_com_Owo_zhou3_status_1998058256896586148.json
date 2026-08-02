@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1997701072929067371",
+    "created_at": "2025-12-08T15:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998058256896586148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918645361507471361",
+          "start": 0,
+          "username": "lllliiiiaaa1233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998058256896586148",
+    "in_reply_to_user_id": "1918645361507471361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997701072929067371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lllliiiiaaa1233 我她妈有时候美照也给我这样配音 气的我福一直在疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5600,
+        "height": 1276,
+        "media_key": "7_1997701050481131520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997701050481131520/pu/img/gyySLuxb3FlPGmZp.jpg",
+        "public_metrics": {
+          "view_count": 3866
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997701050481131520/pu/vid/avc1/320x600/L5Vlf5VzE1WXF0Oq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997701050481131520/pu/vid/avc1/480x900/CEuV94h4bnqJorGK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997701050481131520/pu/vid/avc1/680x1276/JknDQqJM8dhHfVDv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997701050481131520/pu/pl/0MWdw8tat5Tu5SdX.m3u8?tag=12"
+          }
+        ],
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1997701072929067371",
+        "created_at": "2025-12-08T15:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998058256896586148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918645361507471361",
+              "start": 0,
+              "username": "lllliiiiaaa1233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998058256896586148",
+        "in_reply_to_user_id": "1918645361507471361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997701072929067371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lllliiiiaaa1233 我她妈有时候美照也给我这样配音 气的我福一直在疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997701050481131520"
+          ]
+        },
+        "author_id": "1918645361507471361",
+        "conversation_id": "1997701072929067371",
+        "created_at": "2025-12-07T16:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997701072929067371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Drsrw5Ljyv",
+              "end": 23,
+              "expanded_url": "https://x.com/lllliiiiaaa1233/status/1997701072929067371/video/1",
+              "media_key": "7_1997701050481131520",
+              "start": 0,
+              "url": "https://t.co/Drsrw5Ljyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997701072929067371",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16289,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Drsrw5Ljyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 92,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T12:34:43.000Z",
+        "description": "抖音:94052912038 intp \n男同别关注我了我会拉黑我真没招了\n小猫叫壮壮 两岁🦭  不约不谈不搞黄不聊s不推推恋，不要找我聊s 也不要给我发色情照片我自己会上网搜（suzu猎奇号那种可以） 清水推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pingugugugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pingugugugu",
+                "start": 0,
+                "url": "https://t.co/KrY2QbC5Lf"
+              }
+            ]
+          }
+        },
+        "id": "1918645361507471361",
+        "location": "大连 欢迎找我扩列加v👍🏻👍🏻",
+        "name": "睡觉睡觉困困困",
+        "pinned_tweet_id": "1975213996824478029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919276039471353856/tUnkLUfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 1002,
+          "like_count": 13457,
+          "listed_count": 4,
+          "media_count": 938,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/KrY2QbC5Lf",
+        "username": "lllliiiiaaa1233",
+        "verified": false
+      }
+    ]
+  }
+}

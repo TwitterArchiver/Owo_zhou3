@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1993153388037718404",
+    "created_at": "2025-11-25T04:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T05:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993181590428828141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881607235979370496",
+          "start": 0,
+          "username": "tomastiny9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993181590428828141",
+    "in_reply_to_user_id": "1881607235979370496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993181347108811057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomastiny9 我刚刚也没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993181342834868230",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kz3vibwAYiKAV.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1993153388037718404",
+        "created_at": "2025-11-25T04:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993181590428828141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881607235979370496",
+              "start": 0,
+              "username": "tomastiny9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993181590428828141",
+        "in_reply_to_user_id": "1881607235979370496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993181347108811057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomastiny9 我刚刚也没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993181342834868230"
+          ]
+        },
+        "author_id": "1881607235979370496",
+        "conversation_id": "1993153388037718404",
+        "created_at": "2025-11-25T04:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993181347108811057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4JhoDdvYf",
+              "end": 41,
+              "expanded_url": "https://x.com/tomastiny9/status/1993181347108811057/photo/1",
+              "media_key": "3_1993181342834868230",
+              "start": 18,
+              "url": "https://t.co/C4JhoDdvYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993181347108811057",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993181079432560709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 是我私信没了 https://t.co/C4JhoDdvYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 77,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T07:38:25.000Z",
+        "description": "互fo",
+        "id": "1881607235979370496",
+        "name": "Tiny Tomas",
+        "pinned_tweet_id": "1971277560693784753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881607268011212800/Xihg2B0q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 391,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 135
+        },
+        "username": "tomastiny9",
+        "verified": false
+      }
+    ]
+  }
+}

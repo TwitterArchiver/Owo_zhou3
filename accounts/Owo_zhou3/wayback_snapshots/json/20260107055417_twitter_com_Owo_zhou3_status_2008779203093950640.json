@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2008779203093950640",
+    "created_at": "2026-01-07T05:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008779203093950640"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008779203093950640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "为了防止我被扒塌房我提前说一下：抽烟 喝酒 骂人 立人设 聊骚 搞暧昧 高P拜金吃里扒外看片看擦边好色装逼拜金 哭穷 自私虚伪 拜高踩低 死宅忘本 不要脸嫌贫爱富阿谀奉承视奸白眼狼pua冷暴力自恋好色嘴贱易怒装逼蛐蛐人心机重搞暧昧无缝衔接落井下石蹬鼻子上脸爱慕虚荣过河拆桥斤斤计较好吃懒做想被包养不想努力叫过爸当过妈这些我全做过"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了防止我被扒塌房我提前说一下：抽烟 喝酒 骂人 立人设 聊骚 搞暧昧 高P拜金吃里扒外看片看擦边好色装逼拜金 哭穷 自私虚伪 拜高踩低 死宅忘本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2008779203093950640",
+        "created_at": "2026-01-07T05:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008779203093950640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008779203093950640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为了防止我被扒塌房我提前说一下：抽烟 喝酒 骂人 立人设 聊骚 搞暧昧 高P拜金吃里扒外看片看擦边好色装逼拜金 哭穷 自私虚伪 拜高踩低 死宅忘本 不要脸嫌贫爱富阿谀奉承视奸白眼狼pua冷暴力自恋好色嘴贱易怒装逼蛐蛐人心机重搞暧昧无缝衔接落井下石蹬鼻子上脸爱慕虚荣过河拆桥斤斤计较好吃懒做想被包养不想努力叫过爸当过妈这些我全做过"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了防止我被扒塌房我提前说一下：抽烟 喝酒 骂人 立人设 聊骚 搞暧昧 高P拜金吃里扒外看片看擦边好色装逼拜金 哭穷 自私虚伪 拜高踩低 死宅忘本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 99,
+          "like_count": 829,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      }
+    ]
+  }
+}

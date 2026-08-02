@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1999710112039186725",
+    "created_at": "2025-12-14T03:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000044561989800416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "327921106",
+          "start": 0,
+          "username": "Penny777_eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000044561989800416",
+    "in_reply_to_user_id": "327921106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999710112039186725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Penny777_eth 老师每次布置一些观后感和作文我问同学准备写什么 她们给我的答案永远都是Ai生成一下呗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1999710112039186725",
+        "created_at": "2025-12-14T03:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000044561989800416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "327921106",
+              "start": 0,
+              "username": "Penny777_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000044561989800416",
+        "in_reply_to_user_id": "327921106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999710112039186725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Penny777_eth 老师每次布置一些观后感和作文我问同学准备写什么 她们给我的答案永远都是Ai生成一下呗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "327921106",
+        "conversation_id": "1999710112039186725",
+        "created_at": "2025-12-13T05:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999710112039186725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999710112039186725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 526241,
+          "like_count": 3666,
+          "quote_count": 46,
+          "reply_count": 223,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "AI 最大受益群体：爱思考的懒人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 110,
+          "like_count": 635,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-02T11:48:18.000Z",
+        "description": "Mod @theNextDao｜Cofounder @helloNFT_pro｜ 女的｜Crypto 搞笑野生诗人｜👩🏻‍💻 Vibe Coding | 🇨🇳 🇳🇿｜👋 世界你好！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "theNextDao"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "helloNFT_pro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link3.to/penny777",
+                "end": 23,
+                "expanded_url": "https://link3.to/penny777",
+                "start": 0,
+                "url": "https://t.co/LRj4er1Ak5"
+              }
+            ]
+          }
+        },
+        "id": "327921106",
+        "name": "Penny777 🦊",
+        "pinned_tweet_id": "1993513899774427392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940366654405251072/v8co9ryb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16075,
+          "following_count": 2633,
+          "like_count": 5632,
+          "listed_count": 267,
+          "media_count": 481,
+          "tweet_count": 6547
+        },
+        "url": "https://t.co/LRj4er1Ak5",
+        "username": "Penny777_eth",
+        "verified": true
+      }
+    ]
+  }
+}

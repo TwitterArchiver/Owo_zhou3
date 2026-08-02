@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2010082287522853231",
+    "created_at": "2026-01-11T19:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T20:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010428392081141960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984506840882036736",
+          "start": 0,
+          "username": "xiu_guo68324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010428392081141960",
+    "in_reply_to_user_id": "1984506840882036736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010421969569845580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiu_guo68324 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2010082287522853231",
+        "created_at": "2026-01-11T19:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T20:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010428392081141960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984506840882036736",
+              "start": 0,
+              "username": "xiu_guo68324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010428392081141960",
+        "in_reply_to_user_id": "1984506840882036736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010421969569845580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiu_guo68324 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984506840882036736",
+        "conversation_id": "2010082287522853231",
+        "created_at": "2026-01-11T18:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010421969569845580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010421969569845580",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010082287522853231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 山西太原是个好地方啊，我22年去出差呆过几天，当地的饭店实在是吃不习惯，去出差地旁边的醋厂玩还挺有意思的，去发酵车间逛了一圈都感觉不到自己的呼吸道了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3964,
+          "following_count": 99,
+          "like_count": 842,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 2353
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-01T06:24:56.000Z",
+        "description": "烟笼寒水月笼沙",
+        "id": "1984506840882036736",
+        "name": "泊秦淮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984507005449687040/7UPuXPg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 72,
+          "like_count": 13491,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 341
+        },
+        "username": "xiu_guo68324",
+        "verified": false
+      }
+    ]
+  }
+}

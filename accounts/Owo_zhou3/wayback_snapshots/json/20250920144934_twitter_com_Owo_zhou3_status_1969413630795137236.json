@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1968720601947730094",
+    "created_at": "2025-09-20T14:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969413630795137236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956019061760122883",
+          "start": 0,
+          "username": "kiczp156726"
+        },
+        {
+          "end": 24,
+          "id": "1961727243887296512",
+          "start": 13,
+          "username": "yiyi_02014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969413630795137236",
+    "in_reply_to_user_id": "1956019061760122883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968720601947730094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiczp156726 @yiyi_02014 我靠我喜欢这张图"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58600,
+        "height": 720,
+        "media_key": "7_1968720557651947520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1968720557651947520/pu/img/5iNvSJGE9a5fhWO9.jpg",
+        "public_metrics": {
+          "view_count": 111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968720557651947520/pu/vid/avc1/432x270/qe38Slk5ZiinY9M0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968720557651947520/pu/vid/avc1/576x360/UYJenUYeH-Ux1SYE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968720557651947520/pu/vid/avc1/1152x720/r4SMwJ3FGNSsTV8b.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1968720557651947520/pu/pl/VrczDW9AcmF2fQkk.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1968720601947730094",
+        "created_at": "2025-09-20T14:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969413630795137236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956019061760122883",
+              "start": 0,
+              "username": "kiczp156726"
+            },
+            {
+              "end": 24,
+              "id": "1961727243887296512",
+              "start": 13,
+              "username": "yiyi_02014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969413630795137236",
+        "in_reply_to_user_id": "1956019061760122883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968720601947730094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiczp156726 @yiyi_02014 我靠我喜欢这张图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1968720557651947520"
+          ]
+        },
+        "author_id": "1956019061760122883",
+        "conversation_id": "1968720601947730094",
+        "created_at": "2025-09-18T16:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T17:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968720601947730094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qx14odplpa",
+              "end": 31,
+              "expanded_url": "https://x.com/kiczp156726/status/1968720601947730094/video/1",
+              "media_key": "7_1968720557651947520",
+              "start": 8,
+              "url": "https://t.co/qx14odplpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968720601947730094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 677,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢这个！ https://t.co/qx14odplpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "顺其自然",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 49,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T15:44:28.000Z",
+        "description": "喜欢唱歌弹琴摄影旅游  考研ing",
+        "id": "1956019061760122883",
+        "location": "🚪99不用加我 我真的只是爱唱歌 互关可以加我嘻嘻",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1960247234647273713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956024957030555654/jkhk-PsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 182,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 805
+        },
+        "username": "kiczp156726",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T09:47:21.000Z",
+        "description": "好相处 很抽象 不谈不线下 不聊骚 不加联系 想闲聊先打钱 直女 1i 4i  switch 谢谢喜欢^^ 匿名问答∶https://t.co/YL2kayk6ti",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyi_02014",
+                "end": 82,
+                "expanded_url": "https://ngl.link/yiyi_02014",
+                "start": 59,
+                "url": "https://t.co/YL2kayk6ti"
+              }
+            ]
+          }
+        },
+        "id": "1961727243887296512",
+        "location": "天天开心",
+        "name": "cat",
+        "pinned_tweet_id": "1963881784522777000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969076491842732032/5PFeea0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 194,
+          "like_count": 4480,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 991
+        },
+        "username": "yiyi_02014",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2003151130046718056",
+    "created_at": "2025-12-22T23:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T00:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003249036590219454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1229601275035058176",
+          "start": 0,
+          "username": "xiaohongyetuite"
+        },
+        {
+          "end": 33,
+          "id": "1982991035140845571",
+          "start": 17,
+          "username": "Z0T30bElIz23595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003249036590219454",
+    "in_reply_to_user_id": "1229601275035058176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003247213204656409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohongyetuite @Z0T30bElIz23595 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2003151130046718056",
+        "created_at": "2025-12-22T23:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T00:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003249036590219454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1229601275035058176",
+              "start": 0,
+              "username": "xiaohongyetuite"
+            },
+            {
+              "end": 33,
+              "id": "1982991035140845571",
+              "start": 17,
+              "username": "Z0T30bElIz23595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003249036590219454",
+        "in_reply_to_user_id": "1229601275035058176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003247213204656409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohongyetuite @Z0T30bElIz23595 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229601275035058176",
+        "conversation_id": "2003151130046718056",
+        "created_at": "2025-12-22T23:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T00:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003247213204656409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1982991035140845571",
+              "start": 0,
+              "username": "Z0T30bElIz23595"
+            },
+            {
+              "end": 27,
+              "id": "1962554097120485377",
+              "start": 17,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003247213204656409",
+        "in_reply_to_user_id": "1982991035140845571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003234372024172660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z0T30bElIz23595 @Owo_zhou3 都有x了还要个屁的快手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997918627824324610/kMVxMO8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 116,
+          "like_count": 773,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-18T02:59:53.000Z",
+        "description": "心中没有自由民主，只会趋炎附势服从权力，不敢挑战权威的人就是支那猪",
+        "id": "1229601275035058176",
+        "location": "Korea",
+        "name": "消除国人支性and那头🐷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843953002207682560/hixRnjd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 202,
+          "like_count": 4892,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 577
+        },
+        "username": "xiaohongyetuite",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T02:01:59.000Z",
+        "description": "非宁静无以致远、非淡泊无以明志",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bluekernel",
+                "end": 23,
+                "expanded_url": "http://t.me/bluekernel",
+                "start": 0,
+                "url": "https://t.co/uO7uYvJzBg"
+              }
+            ]
+          }
+        },
+        "id": "1982991035140845571",
+        "location": "China ZSWZ",
+        "name": "kn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992377076503199744/BC3BqT1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 69,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/uO7uYvJzBg",
+        "username": "Z0T30bElIz23595",
+        "verified": false
+      }
+    ]
+  }
+}

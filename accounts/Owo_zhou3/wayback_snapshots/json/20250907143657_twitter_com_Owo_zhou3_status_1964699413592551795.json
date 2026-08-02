@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964699346928377856"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "1964699413592551795",
+    "created_at": "2025-09-07T14:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T15:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964699413592551795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/du3VQc4WOb",
+          "end": 72,
+          "expanded_url": "https://x.com/Owo_zhou3/status/1964699413592551795/video/1",
+          "media_key": "13_1964699346928377856",
+          "start": 49,
+          "url": "https://t.co/du3VQc4WOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964699413592551795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我当然不相信这世界上有永远了 但在某个时刻看着你的脸 我还是会觉得我们一定要永远在一起 因为我想 https://t.co/du3VQc4WOb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 960,
+        "media_key": "13_1964699346928377856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964699346928377856/img/dc0R5iYgJI2TT-US.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964699346928377856/vid/avc1/320x426/rBJxqCOIYFP03-yl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964699346928377856/vid/avc1/480x640/E8UpJXKYYk3sCakh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964699346928377856/vid/avc1/720x960/sWtW78g7r1sNvbBE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964699346928377856/pl/JNdUZyraRL81blk-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964699346928377856"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "1964699413592551795",
+        "created_at": "2025-09-07T14:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964699413592551795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/du3VQc4WOb",
+              "end": 72,
+              "expanded_url": "https://x.com/Owo_zhou3/status/1964699413592551795/video/1",
+              "media_key": "13_1964699346928377856",
+              "start": 49,
+              "url": "https://t.co/du3VQc4WOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964699413592551795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当然不相信这世界上有永远了 但在某个时刻看着你的脸 我还是会觉得我们一定要永远在一起 因为我想 https://t.co/du3VQc4WOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "童言无忌io.O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "粥ovo",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962554184311676935/0DHJjofE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 47,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

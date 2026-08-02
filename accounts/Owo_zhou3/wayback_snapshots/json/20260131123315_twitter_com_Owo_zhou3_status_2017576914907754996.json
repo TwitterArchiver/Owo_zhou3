@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2017479320206504385",
+    "created_at": "2026-01-31T12:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T13:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017576914907754996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        },
+        {
+          "end": 26,
+          "id": "1952924054945771520",
+          "start": 12,
+          "username": "xingchn374286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017576914907754996",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017571827401572461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 @xingchn374286 谢谢你宝宝 但是这种人就是几把脑子根本听不懂人话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2017479320206504385",
+        "created_at": "2026-01-31T12:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017576914907754996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            },
+            {
+              "end": 26,
+              "id": "1952924054945771520",
+              "start": 12,
+              "username": "xingchn374286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017576914907754996",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017571827401572461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 @xingchn374286 谢谢你宝宝 但是这种人就是几把脑子根本听不懂人话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799331977205796864",
+        "conversation_id": "2017479320206504385",
+        "created_at": "2026-01-31T12:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017571827401572461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952924054945771520",
+              "start": 0,
+              "username": "xingchn374286"
+            },
+            {
+              "end": 25,
+              "id": "1962554097120485377",
+              "start": 15,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017571827401572461",
+        "in_reply_to_user_id": "1952924054945771520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017566351142097368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingchn374286 @Owo_zhou3 知道你VPN是后面卖出来的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "叫我粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4206,
+          "following_count": 99,
+          "like_count": 883,
+          "listed_count": 4,
+          "media_count": 281,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 28,
+          "like_count": 15940,
+          "listed_count": 2,
+          "media_count": 1628,
+          "tweet_count": 4332
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T02:46:04.000Z",
+        "description": "",
+        "id": "1952924054945771520",
+        "name": "lili",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952925712731545600/urOsepsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 67
+        },
+        "username": "xingchn374286",
+        "verified": false
+      }
+    ]
+  }
+}

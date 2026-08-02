@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "1992245655398719555",
+    "created_at": "2025-11-22T16:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992268093654261796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652953735965073408",
+          "start": 0,
+          "username": "shuitao6u6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992268093654261796",
+    "in_reply_to_user_id": "1652953735965073408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992245655398719555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuitao6u6 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992245640198557697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Xg2rlbEAEAEjP.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "1992245655398719555",
+        "created_at": "2025-11-22T16:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992268093654261796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652953735965073408",
+              "start": 0,
+              "username": "shuitao6u6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992268093654261796",
+        "in_reply_to_user_id": "1652953735965073408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992245655398719555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuitao6u6 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992245640198557697"
+          ]
+        },
+        "author_id": "1652953735965073408",
+        "conversation_id": "1992245655398719555",
+        "created_at": "2025-11-22T14:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992245655398719555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCnzSTNErS",
+              "end": 29,
+              "expanded_url": "https://x.com/shuitao6u6/status/1992245655398719555/photo/1",
+              "media_key": "3_1992245640198557697",
+              "start": 6,
+              "url": "https://t.co/PCnzSTNErS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992245655398719555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1188,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁接一下？ https://t.co/PCnzSTNErS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "粥粥｜小脑二货再私信我给我等着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1963929098167931194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974194974360313856/XTevKFde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 75,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T08:31:05.000Z",
+        "description": "（已过大叔认证）🚪188朋友圈脸照 生活照少萝风超级可爱/520可线下 全部福利/2888露脸zw送原味➕11➕线上女友 线下永久85折（接 洲 瓦 铲 cs陪🥣 情绪价值给满满）福利号：@tutqnq （推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 94,
+                "username": "tutqnq"
+              }
+            ]
+          }
+        },
+        "id": "1652953735965073408",
+        "name": "水桃",
+        "pinned_tweet_id": "1917183924184510759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960325198038855680/6aEEXT3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128585,
+          "following_count": 62,
+          "like_count": 119,
+          "listed_count": 226,
+          "media_count": 181,
+          "tweet_count": 1163
+        },
+        "username": "shuitao6u6",
+        "verified": false
+      }
+    ]
+  }
+}
