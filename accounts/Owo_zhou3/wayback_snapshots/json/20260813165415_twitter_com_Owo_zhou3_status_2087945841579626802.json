@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2087886045144850537",
+    "created_at": "2026-08-13T16:54:15.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087945841579626802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1911881746720698368",
+          "start": 0,
+          "username": "iiiiiiiTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087945841579626802",
+    "in_reply_to_user_id": "1911881746720698368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087886045144850537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiiiiiiTvT 底下有字母的应该都是人机啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20233,
+        "height": 1280,
+        "media_key": "13_2087885995949858817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087885995949858817/img/mlgA3mT7F-efvi9X.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087885995949858817/vid/avc1/320x694/XlNWV29yDddI-cNK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087885995949858817/vid/avc1/480x1040/b3ZXD7zU8k1PNaEh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087885995949858817/vid/avc1/590x1280/QaZKRwjuf7cfPfH1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087885995949858817/pl/Z1bklunQuiVseWZy.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2087886045144850537",
+        "created_at": "2026-08-13T16:54:15.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087945841579626802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1911881746720698368",
+              "start": 0,
+              "username": "iiiiiiiTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087945841579626802",
+        "in_reply_to_user_id": "1911881746720698368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087886045144850537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiiiiiiTvT 底下有字母的应该都是人机啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087885995949858817"
+          ]
+        },
+        "author_id": "1911881746720698368",
+        "conversation_id": "2087886045144850537",
+        "created_at": "2026-08-13T12:56:38.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087886045144850537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXmYEs2mSn",
+              "end": 45,
+              "expanded_url": "https://x.com/iiiiiiiTvT/status/2087886045144850537/video/1",
+              "media_key": "13_2087885995949858817",
+              "start": 22,
+              "url": "https://t.co/UXmYEs2mSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087886045144850537",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087885995949858817"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回一下这个提问啊 不知道有没有人看到我回的 https://t.co/UXmYEs2mSn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "is_identity_verified": false,
+        "location": "童言无忌",
+        "most_recent_tweet_id": "2087945841579626802",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962554097120485377/1785940445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5301,
+          "following_count": 121,
+          "like_count": 1036,
+          "listed_count": 4,
+          "media_count": 398,
+          "tweet_count": 3568
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-14T20:38:41.000Z",
+        "description": "不收门 不线下 不约炮 不接受任何\n私信没礼貌不回 打游戏可以➕v",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iitvtii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iitvtii1",
+                "start": 0,
+                "url": "https://t.co/D1poHqilDt"
+              }
+            ]
+          }
+        },
+        "id": "1911881746720698368",
+        "is_identity_verified": false,
+        "location": "🔗是提问",
+        "most_recent_tweet_id": "2087886045144850537",
+        "name": "七七咪",
+        "pinned_tweet_id": "2085418141904261466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911881746720698368/1745592874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915781379821809664/IiGm3D-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3388,
+          "following_count": 32,
+          "like_count": 1824,
+          "listed_count": 4,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/D1poHqilDt",
+        "username": "iiiiiiiTvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

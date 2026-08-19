@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2085368950666518547",
+    "created_at": "2026-08-06T14:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085368950666518547"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085368950666518547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好无奈啊 刷到mina的事情 我竟有些不知道怎么开口 网暴真的太可怕了 会让一个热爱生活的女孩被逼到自杀 我有时候觉得只要是人就肯定会有他的善良 但是我现在不这么想了 这几把太坏了啊 甚至在事后还出言挑衅谩骂 到底真的有人性吗 太可怕了太恐怖了 追个星把自己追魔了 还能说什么呢 mina晚安。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2085368950666518547",
+        "created_at": "2026-08-06T14:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085368950666518547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085368950666518547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无奈啊 刷到mina的事情 我竟有些不知道怎么开口 网暴真的太可怕了 会让一个热爱生活的女孩被逼到自杀 我有时候觉得只要是人就肯定会有他的善良 但是我现在不这么想了 这几把太坏了啊 甚至在事后还出言挑衅谩骂 到底真的有人性吗 太可怕了太恐怖了 追个星把自己追魔了 还能说什么呢 mina晚安。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5081,
+          "following_count": 123,
+          "like_count": 1026,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

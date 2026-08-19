@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2087904636778987777",
+    "created_at": "2026-08-13T14:19:42.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087906946028548427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486967088610787328",
+          "start": 0,
+          "username": "Nci8631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087906946028548427",
+    "in_reply_to_user_id": "1486967088610787328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087906502325739994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nci8631 别信啊别信啊别信啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2087904636778987777",
+        "created_at": "2026-08-13T14:19:42.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087906946028548427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486967088610787328",
+              "start": 0,
+              "username": "Nci8631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087906946028548427",
+        "in_reply_to_user_id": "1486967088610787328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087906502325739994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nci8631 别信啊别信啊别信啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486967088610787328",
+        "conversation_id": "2087904636778987777",
+        "created_at": "2026-08-13T14:17:56.000Z",
+        "display_text_range": [
+          11,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087906502325739994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087906502325739994",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087904636778987777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 沃趣啊她刚刚加我了上来就是几岁要不要约炮然后发伪装成微信二维码的约炮网站"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "is_identity_verified": false,
+        "location": "童言无忌",
+        "most_recent_tweet_id": "2087906946028548427",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962554097120485377/1785940445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5245,
+          "following_count": 121,
+          "like_count": 1036,
+          "listed_count": 3,
+          "media_count": 398,
+          "tweet_count": 3563
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-28T07:39:25.000Z",
+        "description": "1",
+        "id": "1486967088610787328",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2087906502325739994",
+        "name": "我草，冰",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 190,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "Nci8631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

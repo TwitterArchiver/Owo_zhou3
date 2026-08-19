@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2087807198110118085",
+    "created_at": "2026-08-15T08:04:02.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088537185653870674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760390721306255360",
+          "start": 0,
+          "username": "196146370Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088537185653870674",
+    "in_reply_to_user_id": "1760390721306255360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088414597791584349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@196146370Z 我错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2087807198110118085",
+        "created_at": "2026-08-15T08:04:02.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088537185653870674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760390721306255360",
+              "start": 0,
+              "username": "196146370Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088537185653870674",
+        "in_reply_to_user_id": "1760390721306255360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088414597791584349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@196146370Z 我错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760390721306255360",
+        "conversation_id": "2087807198110118085",
+        "created_at": "2026-08-14T23:56:55.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088414597791584349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088414597791584349",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087807198110118085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 你能发出这条帖也是个脑残😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "is_identity_verified": false,
+        "location": "童言无忌",
+        "most_recent_tweet_id": "2088537185653870674",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962554097120485377/1785940445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 121,
+          "like_count": 1039,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 3579
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T19:47:24.000Z",
+        "description": "",
+        "id": "1760390721306255360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088418105160806768",
+        "name": "Zzz",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760390721306255360/1736883992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025674044628946944/_1Ml6EJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "196146370Z",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

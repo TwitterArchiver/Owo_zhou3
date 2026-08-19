@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087904631980691456",
+        "3_2087904632056242176"
+      ]
+    },
+    "author_id": "1962554097120485377",
+    "conversation_id": "2087904636778987777",
+    "created_at": "2026-08-13T14:10:31.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087904636778987777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xY5D1cbrSZ",
+          "end": 70,
+          "expanded_url": "https://x.com/Owo_zhou3/status/2087904636778987777/photo/1",
+          "media_key": "3_2087904631980691456",
+          "start": 47,
+          "url": "https://t.co/xY5D1cbrSZ"
+        },
+        {
+          "display_url": "pic.x.com/xY5D1cbrSZ",
+          "end": 70,
+          "expanded_url": "https://x.com/Owo_zhou3/status/2087904636778987777/photo/1",
+          "media_key": "3_2087904632056242176",
+          "start": 47,
+          "url": "https://t.co/xY5D1cbrSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087904636778987777",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087904631980691456"
+      },
+      {
+        "media_key": "3_2087904632056242176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我她妈要气哭了呀，这不是我宝贝们，现在为什么骗子都这样了？我踏马只是一个凉了的过气的小透明! https://t.co/xY5D1cbrSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087904631980691456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm6M1oaEAAfIq-.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087904632056242176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm6M16a4AAmxem.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087904631980691456",
+            "3_2087904632056242176"
+          ]
+        },
+        "author_id": "1962554097120485377",
+        "conversation_id": "2087904636778987777",
+        "created_at": "2026-08-13T14:10:31.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087904636778987777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xY5D1cbrSZ",
+              "end": 70,
+              "expanded_url": "https://x.com/Owo_zhou3/status/2087904636778987777/photo/1",
+              "media_key": "3_2087904631980691456",
+              "start": 47,
+              "url": "https://t.co/xY5D1cbrSZ"
+            },
+            {
+              "display_url": "pic.x.com/xY5D1cbrSZ",
+              "end": 70,
+              "expanded_url": "https://x.com/Owo_zhou3/status/2087904636778987777/photo/1",
+              "media_key": "3_2087904632056242176",
+              "start": 47,
+              "url": "https://t.co/xY5D1cbrSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087904636778987777",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087904631980691456"
+          },
+          {
+            "media_key": "3_2087904632056242176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我她妈要气哭了呀，这不是我宝贝们，现在为什么骗子都这样了？我踏马只是一个凉了的过气的小透明! https://t.co/xY5D1cbrSZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "is_identity_verified": false,
+        "location": "童言无忌",
+        "most_recent_tweet_id": "2087904636778987777",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962554097120485377/1785940445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5241,
+          "following_count": 121,
+          "like_count": 1036,
+          "listed_count": 3,
+          "media_count": 398,
+          "tweet_count": 3562
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

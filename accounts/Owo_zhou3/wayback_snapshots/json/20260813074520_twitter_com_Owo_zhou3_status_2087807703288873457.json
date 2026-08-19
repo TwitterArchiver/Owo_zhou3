@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2087807198110118085",
+    "created_at": "2026-08-13T07:45:20.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087807703288873457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087807703288873457",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087807433523806346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 你会这样吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2087807198110118085",
+        "created_at": "2026-08-13T07:45:20.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087807703288873457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087807703288873457",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087807433523806346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 你会这样吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820594914339799040",
+        "conversation_id": "2087807198110118085",
+        "created_at": "2026-08-13T07:44:16.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087807433523806346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962554097120485377",
+              "start": 0,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087807433523806346",
+        "in_reply_to_user_id": "1962554097120485377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087807198110118085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owo_zhou3 开放式关系吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "is_identity_verified": false,
+        "location": "童言无忌",
+        "most_recent_tweet_id": "2087807703288873457",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962554097120485377/1785940445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5130,
+          "following_count": 121,
+          "like_count": 1034,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 3551
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "男的 匿名问答↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFbY3e"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "is_identity_verified": false,
+        "location": "＜500m",
+        "most_recent_tweet_id": "2087807433523806346",
+        "name": "咏洹",
+        "pinned_tweet_id": "2066106859501854809",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820594914339799040/1785869625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084689973866106880/g0Pm5Xxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 89,
+          "like_count": 11189,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3188
+        },
+        "url": "https://t.co/mYFeDFbY3e",
+        "username": "2CROW19",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

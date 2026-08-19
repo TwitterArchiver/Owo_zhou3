@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962554097120485377",
+    "conversation_id": "2087748025800368529",
+    "created_at": "2026-08-13T07:24:51.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087802546735992888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936481820608208897",
+          "start": 0,
+          "username": "tcxxstoutou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087802546735992888",
+    "in_reply_to_user_id": "1936481820608208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087748762517254468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcxxstoutou 比心🫶🏻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087748762517254468].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087748762517254468",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087748762517254468"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2087748025800368529",
+        "created_at": "2026-08-13T07:24:51.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087802546735992888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936481820608208897",
+              "start": 0,
+              "username": "tcxxstoutou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087802546735992888",
+        "in_reply_to_user_id": "1936481820608208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087748762517254468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcxxstoutou 比心🫶🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问^ω^｜谢谢宝宝们喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "is_identity_verified": false,
+        "location": "童言无忌",
+        "most_recent_tweet_id": "2087802546735992888",
+        "name": "小梨别",
+        "pinned_tweet_id": "2047597440464027815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962554097120485377/1785940445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5130,
+          "following_count": 121,
+          "like_count": 1034,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 3549
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-21T17:50:26.000Z",
+        "description": "live is...ㅠㅠ@imissmyegg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "imissmyegg"
+              }
+            ]
+          }
+        },
+        "id": "1936481820608208897",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087502862863814926",
+        "name": "头头",
+        "pinned_tweet_id": "2084497899115708428",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936481820608208897/1785817363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084495173757923328/9lM0tSKO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4924,
+          "following_count": 288,
+          "like_count": 16268,
+          "listed_count": 3,
+          "media_count": 381,
+          "tweet_count": 5846
+        },
+        "url": "",
+        "username": "tcxxstoutou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
